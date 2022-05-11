@@ -1,0 +1,2423 @@
+{
+   "warp_output/tests/behaviour/contracts/array_len/memoryArray__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/array_len/storageArray__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/assignments/functionSingle__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/assignments/scalar__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bool_operators/and__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bool_operators/or__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/byteArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 1475,
+      "builtin_instances": {
+         "pedersen_builtin": 5,
+         "range_check_builtin": 144,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/byteStructs__WARP_CONTRACT__WARP.json": {
+      "steps": 413,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 18,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/fixedSizeBytesArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 557,
+      "builtin_instances": {
+         "pedersen_builtin": 7,
+         "range_check_builtin": 23,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/fixedSizeByte7__WARP_CONTRACT__WARP.json": {
+      "steps": 292,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 11,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conditionals/and__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conditionals/nested_and_or__WARP_CONTRACT__WARP.json": {
+      "steps": 385,
+      "builtin_instances": {
+         "pedersen_builtin": 4,
+         "range_check_builtin": 16,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/constants/simpleConstants__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/constants/simpleConstantsUint256__WARP_CONTRACT__WARP.json": {
+      "steps": 548,
+      "builtin_instances": {
+         "pedersen_builtin": 8,
+         "range_check_builtin": 24,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/constants/simpleImmutable__WARP_CONTRACT__WARP.json": {
+      "steps": 368,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 15,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/signedIdentity__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/signedNarrowing__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/signedWidening__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/unsignedIdentity__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/unsignedNarrowing__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/unsignedWidening__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignWideningItoUchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignnarrowingItoUchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignwideningUtoIchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignnarrowingUtoIchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross_contract_calls/simple__WARP_CONTRACT__A.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross_contract_calls/simple__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross_contract_calls/public_vars__WARP_CONTRACT__A.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross_contract_calls/public_vars__WARP_CONTRACT__B.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross_contract_calls/public_vars__WARP_CONTRACT__C.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/using_for/simple__WARP_CONTRACT__WARP.json": {
+      "steps": 165,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/using_for/library__WARP_CONTRACT__WARP.json": {
+      "steps": 165,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/using_for/private__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/Dai/dai__WARP_CONTRACT__Dai.json": {
+      "steps": 405,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 12,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/address__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/array_static__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/array_dynamic__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/boolean__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/enum__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/int__WARP_CONTRACT__WARP.json": {
+      "steps": 164,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/struct__WARP_CONTRACT__WARP.json": {
+      "steps": 404,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 18,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enums/singleEnum__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enums/singleEnum7__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enums/doubleEnum__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/ERC20/ERC20__WARP_CONTRACT__WARP.json": {
+      "steps": 167,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/error_handling/revert__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/error_handling/assert__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/error_handling/require__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/assignments_as_rvalues__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/ineffectual__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/literals__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_function_inputs/dynamic_array_return_index__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_function_inputs/struct_return_member__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_function_inputs/struct_return_struct__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_function_inputs/static_array_return_index__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_input_checks/int__WARP_CONTRACT__WARP.json": {
+      "steps": 107,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_input_checks/enum__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external_input_checks/bool__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/fallback/simple__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/localVariables__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/returns__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/nesting__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/imports/importto__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/constructors__WARP_CONTRACT__C.json": {
+      "steps": 1101,
+      "builtin_instances": {
+         "pedersen_builtin": 14,
+         "range_check_builtin": 48,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/modifiedConstructor__WARP_CONTRACT__A.json": {
+      "steps": 319,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 11,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/modifiedConstructor__WARP_CONTRACT__B.json": {
+      "steps": 193,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 5,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/abstractContract__WARP_CONTRACT__C.json": {
+      "steps": 271,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 10,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/base__WARP_CONTRACT__Base.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/mid__WARP_CONTRACT__Mid.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/derived__WARP_CONTRACT__Derived.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/variables/derived__WARP_CONTRACT__Derived.json": {
+      "steps": 164,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/modifiers/modifierInheritance__WARP_CONTRACT__D.json": {
+      "steps": 240,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/modifiers/modifierOverriding__WARP_CONTRACT__C.json": {
+      "steps": 294,
+      "builtin_instances": {
+         "pedersen_builtin": 4,
+         "range_check_builtin": 12,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/using_for__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/importLibs__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/LibInLib__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/freeFunctionsLib/direct_and_indirect__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/freeFunctionsLib/sameName__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/loops/loops__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/mangled_identifiers/free_function__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/addition__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/bitwise_and__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/bitwise_or__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/decrement__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/division__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/eq__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/exp__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/ge__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/gt__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/increment__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/le__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/lt__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/multiplication__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/neq__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/shl__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/shr__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/subtraction__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/xor__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/dynamicArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/staticArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/modifiers/modifier__WARP_CONTRACT__WARP.json": {
+      "steps": 165,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/modifiers/multipleModifiers__WARP_CONTRACT__WARP.json": {
+      "steps": 233,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/named_args/function__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/named_args/constructor__WARP_CONTRACT__WARP.json": {
+      "steps": 698,
+      "builtin_instances": {
+         "pedersen_builtin": 11,
+         "range_check_builtin": 33,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_func_splitter/value_passing__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_state_vars/elementary__WARP_CONTRACT__WARP.json": {
+      "steps": 846,
+      "builtin_instances": {
+         "pedersen_builtin": 11,
+         "range_check_builtin": 40,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_state_vars/arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 6884,
+      "builtin_instances": {
+         "pedersen_builtin": 68,
+         "range_check_builtin": 473,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_state_vars/enums__WARP_CONTRACT__WARP.json": {
+      "steps": 449,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 18,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_state_vars/mappings__WARP_CONTRACT__WARP.json": {
+      "steps": 1707,
+      "builtin_instances": {
+         "pedersen_builtin": 37,
+         "range_check_builtin": 57,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_state_vars/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 1371,
+      "builtin_instances": {
+         "pedersen_builtin": 20,
+         "range_check_builtin": 60,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public_state_vars/misc__WARP_CONTRACT__WARP.json": {
+      "steps": 2640,
+      "builtin_instances": {
+         "pedersen_builtin": 41,
+         "range_check_builtin": 111,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/returns/returnInserter__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/returns/returnInitializer__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/dynamic_arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/mappings__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/nesting__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/passingArguments__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/returns__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/scalars__WARP_CONTRACT__WARP.json": {
+      "steps": 173,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/static_arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/example__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "dynMemArrayLen": {
+      "steps": 1208
+   },
+   "dynStorageArrayLen": {
+      "steps": 752
+   },
+   "test": {
+      "steps": 15
+   },
+   "test256": {
+      "steps": 113
+   },
+   "getC": {
+      "steps": 91
+   },
+   "getStorageBytesArray": {
+      "steps": 456
+   },
+   "getMemoryBytesArray": {
+      "steps": 1585
+   },
+   "getMemoryBytesArrayTwo": {
+      "steps": 3053
+   },
+   "getStorageBytesDynArray": {
+      "steps": 876
+   },
+   "getB3A": {
+      "steps": 92
+   },
+   "getBsC": {
+      "steps": 94
+   },
+   "getA": {
+      "steps": 89
+   },
+   "getB": {
+      "steps": 89
+   },
+   "getD": {
+      "steps": 91
+   },
+   "shiftBytesBy": {
+      "steps": 268
+   },
+   "shiftBytesByConstant": {
+      "steps": 269
+   },
+   "bitwiseAnd": {
+      "steps": 154
+   },
+   "bitwiseOr": {
+      "steps": 154
+   },
+   "bitwiseXor": {
+      "steps": 154
+   },
+   "bitwiseNor": {
+      "steps": 108
+   },
+   "nestedBitwiseOp": {
+      "steps": 237
+   },
+   "shiftByteBy": {
+      "steps": 268
+   },
+   "shiftByteByConstant": {
+      "steps": 271
+   },
+   "nestedBitwiseAnd": {
+      "steps": 224
+   },
+   "f": {
+      "steps": 90
+   },
+   "move_valid": {
+      "steps": 1351
+   },
+   "getX": {
+      "steps": 155
+   },
+   "stateVarOp": {
+      "steps": 225
+   },
+   "constantOp": {
+      "steps": 90
+   },
+   "pureOp": {
+      "steps": 318
+   },
+   "pureOpWithValue": {
+      "steps": 176
+   },
+   "changeStateVar": {
+      "steps": 207
+   },
+   "pureOpWithValueTwo": {
+      "steps": 194
+   },
+   "getUintValue": {
+      "steps": 155
+   },
+   "getIntValue": {
+      "steps": 91
+   },
+   "addUintValue": {
+      "steps": 283
+   },
+   "addIntValue": {
+      "steps": 161
+   },
+   "implicit": {
+      "steps": 103
+   },
+   "explicit": {
+      "steps": 103
+   },
+   "widthsignWitou": {
+      "steps": 88
+   },
+   "widthsignNitou": {
+      "steps": 85
+   },
+   "widthsignWutoi": {
+      "steps": 88
+   },
+   "widthsignNutoi": {
+      "steps": 85
+   },
+   "setA": {
+      "steps": 86
+   },
+   "setB": {
+      "steps": 230
+   },
+   "foo": {
+      "steps": 522
+   },
+   "callOnIdentifier": {
+      "steps": 427
+   },
+   "callOnFunctionCall": {
+      "steps": 183
+   },
+   "callOnIdentifierAdd": {
+      "steps": 446
+   },
+   "callOnIdentifierMul": {
+      "steps": 819
+   },
+   "callLibFunction": {
+      "steps": 232
+   },
+   "mint": {
+      "steps": 679
+   },
+   "getBalance": {
+      "steps": 232
+   },
+   "transfer": {
+      "steps": 1193
+   },
+   "approve": {
+      "steps": 675
+   },
+   "getAllowance": {
+      "steps": 306
+   },
+   "transferFrom": {
+      "steps": 1181
+   },
+   "increaseAllowance": {
+      "steps": 813
+   },
+   "decreaseAllowance": {
+      "steps": 833
+   },
+   "set": {
+      "steps": 586
+   },
+   "clearAt": {
+      "steps": 419
+   },
+   "get": {
+      "steps": 542
+   },
+   "clear": {
+      "steps": 206
+   },
+   "getLength": {
+      "steps": 271
+   },
+   "initialize": {
+      "steps": 1410
+   },
+   "boolean": {
+      "steps": 34
+   },
+   "flag": {
+      "steps": 88
+   },
+   "deleteFlag": {
+      "steps": 79
+   },
+   "reset": {
+      "steps": 135
+   },
+   "totalSupply": {
+      "steps": 157
+   },
+   "addValue": {
+      "steps": 533
+   },
+   "setRadius": {
+      "steps": 237
+   },
+   "setPoint": {
+      "steps": 457
+   },
+   "getRadius": {
+      "steps": 162
+   },
+   "getPoint": {
+      "steps": 314
+   },
+   "deleteCircle": {
+      "steps": 367
+   },
+   "deletePoint": {
+      "steps": 255
+   },
+   "deleteRadius": {
+      "steps": 143
+   },
+   "callSetInternally": {
+      "steps": 138
+   },
+   "cancel": {
+      "steps": 84
+   },
+   "a": {
+      "steps": 651
+   },
+   "getTopEnum": {
+      "steps": 88
+   },
+   "balanceOf": {
+      "steps": 234
+   },
+   "decimals": {
+      "steps": 25
+   },
+   "couldFail": {
+      "steps": 80
+   },
+   "willPass": {
+      "steps": 17
+   },
+   "addingLocalAssignments": {
+      "steps": 156
+   },
+   "addingStorageAssignments": {
+      "steps": 327
+   },
+   "unsignedNarrow": {
+      "steps": 30
+   },
+   "signedNarrow": {
+      "steps": 32
+   },
+   "unsignedWide": {
+      "steps": 42
+   },
+   "signedWide": {
+      "steps": 50
+   },
+   "dArrayCallDataExternal": {
+      "steps": 1523
+   },
+   "dArrayExternal": {
+      "steps": 1688
+   },
+   "dArrayPublic": {
+      "steps": 1388
+   },
+   "dArrayMultipleInputsExternal": {
+      "steps": 2506
+   },
+   "dArrayMultipleInputsPublic": {
+      "steps": 2506
+   },
+   "dArray256External": {
+      "steps": 1497
+   },
+   "dArray256MultipleInputs": {
+      "steps": 4195
+   },
+   "testReturnMember": {
+      "steps": 425
+   },
+   "testMultipleStructsMembers": {
+      "steps": 821
+   },
+   "testMultipleStructsPublicFunctionMember": {
+      "steps": 821
+   },
+   "testReturnStruct": {
+      "steps": 447
+   },
+   "testReturnStructPublic": {
+      "steps": 447
+   },
+   "testIntExternal": {
+      "steps": 843
+   },
+   "testIntPublic": {
+      "steps": 843
+   },
+   "testStructExternal": {
+      "steps": 1562
+   },
+   "testStructPublic": {
+      "steps": 1134
+   },
+   "testMultiplePublic": {
+      "steps": 1948
+   },
+   "testInt8": {
+      "steps": 70
+   },
+   "testUint32": {
+      "steps": 185
+   },
+   "testInt248": {
+      "steps": 111
+   },
+   "testInt256": {
+      "steps": 114
+   },
+   "externalFunction": {
+      "steps": 165
+   },
+   "x": {
+      "steps": 154
+   },
+   "": {
+      "steps": 311
+   },
+   "ifNoElse": {
+      "steps": 40
+   },
+   "ifWithElse": {
+      "steps": 35
+   },
+   "unreachableCode": {
+      "steps": 35
+   },
+   "nestedIfs": {
+      "steps": 60
+   },
+   "uncheckedBlock": {
+      "steps": 59
+   },
+   "loops": {
+      "steps": 498
+   },
+   "checkImports": {
+      "steps": 704
+   },
+   "b": {
+      "steps": 258
+   },
+   "c": {
+      "steps": 308
+   },
+   "d": {
+      "steps": 922
+   },
+   "g": {
+      "steps": 113
+   },
+   "withdraw": {
+      "steps": 1146
+   },
+   "lock": {
+      "steps": 93
+   },
+   "libFunction": {
+      "steps": 49
+   },
+   "addSub": {
+      "steps": 216
+   },
+   "mulDiv": {
+      "steps": 1084
+   },
+   "freeFuncLib": {
+      "steps": 50
+   },
+   "forLoop": {
+      "steps": 512
+   },
+   "whileLoop": {
+      "steps": 1115
+   },
+   "breaks": {
+      "steps": 718
+   },
+   "continues": {
+      "steps": 660
+   },
+   "doWhile": {
+      "steps": 302
+   },
+   "doWhile_continue": {
+      "steps": 188
+   },
+   "doWhile_return": {
+      "steps": 336
+   },
+   "doWhile_break": {
+      "steps": 522
+   },
+   "s": {
+      "steps": 24
+   },
+   "addition8safe": {
+      "steps": 157
+   },
+   "addition8unsafe": {
+      "steps": 129
+   },
+   "addition120safe": {
+      "steps": 157
+   },
+   "addition120unsafe": {
+      "steps": 129
+   },
+   "addition256safe": {
+      "steps": 237
+   },
+   "addition256unsafe": {
+      "steps": 236
+   },
+   "addition8signedsafe": {
+      "steps": 134
+   },
+   "addition8signedunsafe": {
+      "steps": 129
+   },
+   "addition120signedsafe": {
+      "steps": 134
+   },
+   "addition120signedunsafe": {
+      "steps": 129
+   },
+   "addition256signedsafe": {
+      "steps": 279
+   },
+   "addition256signedunsafe": {
+      "steps": 236
+   },
+   "bitwise_and8safe": {
+      "steps": 129
+   },
+   "bitwise_and8signedsafe": {
+      "steps": 129
+   },
+   "bitwise_and8unsafe": {
+      "steps": 129
+   },
+   "bitwise_and8signedunsafe": {
+      "steps": 129
+   },
+   "bitwise_and256safe": {
+      "steps": 238
+   },
+   "bitwise_and256signedsafe": {
+      "steps": 238
+   },
+   "bitwise_and256unsafe": {
+      "steps": 238
+   },
+   "bitwise_and256signedunsafe": {
+      "steps": 238
+   },
+   "bitwise_or8safe": {
+      "steps": 129
+   },
+   "bitwise_or8signedsafe": {
+      "steps": 129
+   },
+   "bitwise_or8unsafe": {
+      "steps": 129
+   },
+   "bitwise_or8signedunsafe": {
+      "steps": 129
+   },
+   "bitwise_or256safe": {
+      "steps": 238
+   },
+   "bitwise_or256signedsafe": {
+      "steps": 238
+   },
+   "bitwise_or256unsafe": {
+      "steps": 238
+   },
+   "bitwise_or256signedunsafe": {
+      "steps": 238
+   },
+   "preDecrementStatement": {
+      "steps": 113
+   },
+   "postDecrementStatement": {
+      "steps": 157
+   },
+   "preDecrementExpression": {
+      "steps": 115
+   },
+   "postDecrementExpression": {
+      "steps": 159
+   },
+   "division8safe": {
+      "steps": 463
+   },
+   "division8signedsafe": {
+      "steps": 463
+   },
+   "division8unsafe": {
+      "steps": 463
+   },
+   "division8signedunsafe": {
+      "steps": 463
+   },
+   "division256safe": {
+      "steps": 488
+   },
+   "division256signedsafe": {
+      "steps": 488
+   },
+   "division256unsafe": {
+      "steps": 488
+   },
+   "division256signedunsafe": {
+      "steps": 488
+   },
+   "eq8safe": {
+      "steps": 119
+   },
+   "eq8signedsafe": {
+      "steps": 119
+   },
+   "eq8unsafe": {
+      "steps": 119
+   },
+   "eq8signedunsafe": {
+      "steps": 119
+   },
+   "eq256safe": {
+      "steps": 217
+   },
+   "eq256signedsafe": {
+      "steps": 216
+   },
+   "eq256unsafe": {
+      "steps": 213
+   },
+   "eq256signedunsafe": {
+      "steps": 217
+   },
+   "exp8safe": {
+      "steps": 128
+   },
+   "exp8signedsafe": {
+      "steps": 1537
+   },
+   "exp8unsafe": {
+      "steps": 128
+   },
+   "exp8signedunsafe": {
+      "steps": 314
+   },
+   "exp256safe": {
+      "steps": 214
+   },
+   "exp256signedsafe": {
+      "steps": 215
+   },
+   "exp256unsafe": {
+      "steps": 1168
+   },
+   "exp256signedunsafe": {
+      "steps": 214
+   },
+   "ge8safe": {
+      "steps": 198
+   },
+   "ge8signedsafe": {
+      "steps": 152
+   },
+   "ge8unsafe": {
+      "steps": 154
+   },
+   "ge8signedunsafe": {
+      "steps": 233
+   },
+   "ge256safe": {
+      "steps": 231
+   },
+   "ge256signedsafe": {
+      "steps": 298
+   },
+   "ge256unsafe": {
+      "steps": 231
+   },
+   "ge256signedunsafe": {
+      "steps": 301
+   },
+   "gt8safe": {
+      "steps": 200
+   },
+   "gt8signedsafe": {
+      "steps": 160
+   },
+   "gt8unsafe": {
+      "steps": 156
+   },
+   "gt8signedunsafe": {
+      "steps": 241
+   },
+   "gt256safe": {
+      "steps": 251
+   },
+   "gt256signedsafe": {
+      "steps": 291
+   },
+   "gt256unsafe": {
+      "steps": 247
+   },
+   "gt256signedunsafe": {
+      "steps": 291
+   },
+   "preIncrementStatement": {
+      "steps": 113
+   },
+   "postIncrementStatement": {
+      "steps": 157
+   },
+   "preIncrementExpression": {
+      "steps": 115
+   },
+   "postIncrementExpression": {
+      "steps": 159
+   },
+   "le8safe": {
+      "steps": 154
+   },
+   "le8signedsafe": {
+      "steps": 146
+   },
+   "le8unsafe": {
+      "steps": 198
+   },
+   "le8signedunsafe": {
+      "steps": 183
+   },
+   "le256safe": {
+      "steps": 250
+   },
+   "le256signedsafe": {
+      "steps": 301
+   },
+   "le256unsafe": {
+      "steps": 246
+   },
+   "le256signedunsafe": {
+      "steps": 301
+   },
+   "lt8safe": {
+      "steps": 156
+   },
+   "lt8signedsafe": {
+      "steps": 154
+   },
+   "lt8unsafe": {
+      "steps": 200
+   },
+   "lt8signedunsafe": {
+      "steps": 191
+   },
+   "lt256safe": {
+      "steps": 228
+   },
+   "lt256signedsafe": {
+      "steps": 288
+   },
+   "lt256unsafe": {
+      "steps": 228
+   },
+   "lt256signedunsafe": {
+      "steps": 291
+   },
+   "multiplication8safe": {
+      "steps": 157
+   },
+   "multiplication8unsafe": {
+      "steps": 129
+   },
+   "multiplication128safe": {
+      "steps": 441
+   },
+   "multiplication128unsafe": {
+      "steps": 409
+   },
+   "multiplication256safe": {
+      "steps": 420
+   },
+   "multiplication256unsafe": {
+      "steps": 418
+   },
+   "multiplication8signedsafe": {
+      "steps": 228
+   },
+   "multiplication8signedunsafe": {
+      "steps": 164
+   },
+   "multiplication128signedsafe": {
+      "steps": 484
+   },
+   "multiplication128signedunsafe": {
+      "steps": 445
+   },
+   "multiplication256signedsafe": {
+      "steps": 496
+   },
+   "multiplication256signedunsafe": {
+      "steps": 561
+   },
+   "neq8safe": {
+      "steps": 119
+   },
+   "neq8signedsafe": {
+      "steps": 119
+   },
+   "neq8unsafe": {
+      "steps": 119
+   },
+   "neq8signedunsafe": {
+      "steps": 119
+   },
+   "neq256safe": {
+      "steps": 220
+   },
+   "neq256signedsafe": {
+      "steps": 219
+   },
+   "neq256unsafe": {
+      "steps": 216
+   },
+   "neq256signedunsafe": {
+      "steps": 220
+   },
+   "shl8safe": {
+      "steps": 240
+   },
+   "shl8unsafe": {
+      "steps": 240
+   },
+   "shl8signedsafe": {
+      "steps": 240
+   },
+   "shl8signedunsafe": {
+      "steps": 240
+   },
+   "shl8_256safe": {
+      "steps": 290
+   },
+   "shl8_256unsafe": {
+      "steps": 290
+   },
+   "shl8_256signedsafe": {
+      "steps": 290
+   },
+   "shl8_256signedunsafe": {
+      "steps": 290
+   },
+   "shl256safe": {
+      "steps": 496
+   },
+   "shl256unsafe": {
+      "steps": 496
+   },
+   "shl256signedsafe": {
+      "steps": 496
+   },
+   "shl256signedunsafe": {
+      "steps": 496
+   },
+   "shl256_256safe": {
+      "steps": 515
+   },
+   "shl256_256unsafe": {
+      "steps": 515
+   },
+   "shl256_256signedsafe": {
+      "steps": 515
+   },
+   "shl256_256signedunsafe": {
+      "steps": 515
+   },
+   "shr8safe": {
+      "steps": 241
+   },
+   "shr8unsafe": {
+      "steps": 241
+   },
+   "shr8signedsafe": {
+      "steps": 241
+   },
+   "shr8signedunsafe": {
+      "steps": 241
+   },
+   "shr8_256safe": {
+      "steps": 291
+   },
+   "shr8_256unsafe": {
+      "steps": 291
+   },
+   "shr8_256signedsafe": {
+      "steps": 291
+   },
+   "shr8_256signedunsafe": {
+      "steps": 291
+   },
+   "shr256safe": {
+      "steps": 223
+   },
+   "shr256unsafe": {
+      "steps": 223
+   },
+   "shr256signedsafe": {
+      "steps": 223
+   },
+   "shr256signedunsafe": {
+      "steps": 223
+   },
+   "shr256_256safe": {
+      "steps": 268
+   },
+   "shr256_256unsafe": {
+      "steps": 268
+   },
+   "shr256_256signedsafe": {
+      "steps": 268
+   },
+   "shr256_256signedunsafe": {
+      "steps": 268
+   },
+   "subtraction8safe": {
+      "steps": 157
+   },
+   "subtraction8unsafe": {
+      "steps": 130
+   },
+   "subtraction8signedsafe": {
+      "steps": 175
+   },
+   "subtraction8signedunsafe": {
+      "steps": 155
+   },
+   "subtraction200safe": {
+      "steps": 239
+   },
+   "subtraction200unsafe": {
+      "steps": 212
+   },
+   "subtraction256safe": {
+      "steps": 261
+   },
+   "subtraction256unsafe": {
+      "steps": 236
+   },
+   "subtraction256signedsafe": {
+      "steps": 317
+   },
+   "subtraction256signedunsafe": {
+      "steps": 288
+   },
+   "xor8safe": {
+      "steps": 129
+   },
+   "xor8signedsafe": {
+      "steps": 129
+   },
+   "xor8unsafe": {
+      "steps": 129
+   },
+   "xor8signedunsafe": {
+      "steps": 129
+   },
+   "xor256safe": {
+      "steps": 238
+   },
+   "xor256signedsafe": {
+      "steps": 238
+   },
+   "xor256unsafe": {
+      "steps": 238
+   },
+   "xor256signedunsafe": {
+      "steps": 238
+   },
+   "uint8new": {
+      "steps": 1587
+   },
+   "uint8write": {
+      "steps": 1633
+   },
+   "uint256new": {
+      "steps": 1697
+   },
+   "uint256write": {
+      "steps": 1837
+   },
+   "uint8default": {
+      "steps": 1192
+   },
+   "uint256default": {
+      "steps": 1336
+   },
+   "createDefault": {
+      "steps": 524
+   },
+   "createManual": {
+      "steps": 654
+   },
+   "writeMembers": {
+      "steps": 726
+   },
+   "references": {
+      "steps": 726
+   },
+   "input": {
+      "steps": 764
+   },
+   "output": {
+      "steps": 158
+   },
+   "openEvent": {
+      "steps": 86
+   },
+   "donate": {
+      "steps": 666
+   },
+   "balance": {
+      "steps": 154
+   },
+   "closeEvent": {
+      "steps": 211
+   },
+   "k": {
+      "steps": 158
+   },
+   "v": {
+      "steps": 154
+   },
+   "getData": {
+      "steps": 2023
+   },
+   "valuePassing": {
+      "steps": 74
+   },
+   "valuePassingMemberAccess": {
+      "steps": 74
+   },
+   "e": {
+      "steps": 338
+   },
+   "y": {
+      "steps": 608
+   },
+   "w": {
+      "steps": 1506
+   },
+   "default_returnInsert": {
+      "steps": 156
+   },
+   "condition_returnInsert": {
+      "steps": 140
+   },
+   "conditions_no_returnInsert": {
+      "steps": 77
+   },
+   "returnInsert_with_require": {
+      "steps": 198
+   },
+   "ifFunctionaliser_returnInserter": {
+      "steps": 87
+   },
+   "withReturn": {
+      "steps": 113
+   },
+   "insertReturn": {
+      "steps": 71
+   },
+   "length": {
+      "steps": 26
+   },
+   "pushNoArg": {
+      "steps": 461
+   },
+   "pop": {
+      "steps": 333
+   },
+   "nestedMappings": {
+      "steps": 766
+   },
+   "nonFeltKey": {
+      "steps": 952
+   },
+   "nesting": {
+      "steps": 1737
+   },
+   "passArray": {
+      "steps": 902
+   },
+   "passInt": {
+      "steps": 1041
+   },
+   "passMap": {
+      "steps": 429
+   },
+   "passStruct": {
+      "steps": 173
+   },
+   "ints": {
+      "steps": 88
+   },
+   "arrays": {
+      "steps": 1466
+   },
+   "mappings": {
+      "steps": 974
+   },
+   "structs": {
+      "steps": 242
+   },
+   "getValues": {
+      "steps": 161
+   },
+   "readValues": {
+      "steps": 161
+   },
+   "setValues": {
+      "steps": 239
+   },
+   "getMember": {
+      "steps": 158
+   },
+   "setMember": {
+      "steps": 497
+   },
+   "assign": {
+      "steps": 229
+   },
+   "returnTest": {
+      "steps": 26
+   }
+}
