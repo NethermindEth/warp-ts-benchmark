@@ -274,6 +274,28 @@
          "ec_op_builtin": 0
       }
    },
+   "warp_output/tests/behaviour/contracts/copy_storage_to_memory/static_arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 3162,
+      "builtin_instances": {
+         "pedersen_builtin": 27,
+         "range_check_builtin": 253,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy_storage_to_memory/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
    "warp_output/tests/behaviour/contracts/cross_contract_calls/simple__WARP_CONTRACT__A.json": {
       "steps": 39,
       "builtin_instances": {
@@ -1464,7 +1486,7 @@
       "steps": 1351
    },
    "getX": {
-      "steps": 155
+      "steps": 971
    },
    "stateVarOp": {
       "steps": 225
@@ -1513,6 +1535,21 @@
    },
    "widthsignNutoi": {
       "steps": 85
+   },
+   "getY": {
+      "steps": 3702
+   },
+   "getW": {
+      "steps": 1097
+   },
+   "getZ": {
+      "steps": 4322
+   },
+   "setS": {
+      "steps": 435
+   },
+   "getS": {
+      "steps": 839
    },
    "setA": {
       "steps": 86
