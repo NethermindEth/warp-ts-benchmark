@@ -2888,13 +2888,19 @@
       "steps": 396
    },
    "nestedMappings": {
-      "steps": 984
+      "steps": 978
    },
    "nonFeltKey": {
       "steps": 954
    },
    "structValue": {
-      "steps": 1322
+      "steps": 1391
+   },
+   "staticArrayValue": {
+      "steps": 3288
+   },
+   "dynamicArrayValue": {
+      "steps": 5785
    },
    "nesting": {
       "steps": 1831
