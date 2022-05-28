@@ -1,0 +1,46 @@
+{
+   "warp_output/tests/behaviour/contracts/static_array_index_access/static_array_index_access__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      }
+   },
+   "t0": {
+      "steps": 938
+   },
+   "t1": {
+      "steps": 1647
+   },
+   "t2": {
+      "steps": 2412
+   },
+   "t3": {
+      "steps": 2090
+   },
+   "t4": {
+      "steps": 1854
+   },
+   "t5": {
+      "steps": 1854
+   },
+   "t6": {
+      "steps": 1854
+   },
+   "n0": {
+      "steps": 1202
+   },
+   "n1": {
+      "steps": 1846
+   },
+   "n2": {
+      "steps": 5240
+   },
+   "n3": {
+      "steps": 4910
+   }
+}
