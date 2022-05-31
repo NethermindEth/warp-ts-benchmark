@@ -3240,6 +3240,9 @@
    "callOnFunctionCall": {
       "steps": 183
    },
+   "namedArgChecker": {
+      "steps": 140
+   },
    "callOnIdentifierAdd": {
       "steps": 446
    },
