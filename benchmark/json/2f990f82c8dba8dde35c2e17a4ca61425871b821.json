@@ -2104,6 +2104,12 @@
    "copyStaticToDynamic": {
       "steps": 4500
    },
+   "setStaticDeep": {
+      "steps": 2751
+   },
+   "copyStaticToDynamicDeep": {
+      "steps": 10634
+   },
    "setArr1": {
       "steps": 1932
    },
