@@ -1,0 +1,35 @@
+name: Benchmark CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - id: files
+        uses: jitterbit/get-changed-files@v1
+
+      - name: Get file name
+        run: |
+          for added_file in ${{ steps.files.outputs.all }}; do
+            if [[ ${added_file: -3} == ".md" ]]
+            then
+              echo "NAME=${added_file}" >> $GITHUB_ENV
+            fi
+          done
+
+      - name: Copy benchmarks to Readme
+        run: |
+          cp "${{ env.NAME }}" README.md
+
+      - name: Update README.md
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: README.md
+          commit-msg: Update README.md
+          github-token: ${{ secrets.GITHUB_TOKEN }}
