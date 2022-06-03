@@ -1,12 +1,12 @@
 # Warp-ts status
 
-commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
+commit: 8ea0637e6a61168cfe208151013b2362aa703331
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1770.02734375 KB |
+| json_size | 1770.1552734375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -26,7 +26,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1892.017578125 KB |
+| json_size | 1892.4228515625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -88,7 +88,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 246.6884765625 KB |
+| json_size | 246.779296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -108,7 +108,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 252.083984375 KB |
+| json_size | 252.1748046875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -295,11 +295,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_2735acb7 | 512 |
 
-## nested_and_or__WARP_CONTRACT__WARP.json:
+## nested__and__or__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2458.6513671875 KB |
+| json_size | 2460.3759765625 KB |
 | steps | 385 |
 
 | Builtin | Instances |
@@ -626,11 +626,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | widthsignNutoi_047fc441 | 85 |
 
-## dynamic_arrays__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3946.6005859375 KB |
+| json_size | 3952.0615234375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -651,11 +651,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | setX_970bb554 | 1432 |
 | setY_9d38ec33 | 1673 |
 
-## static_arrays__WARP_CONTRACT__WARP.json:
+## static__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1918.5576171875 KB |
+| json_size | 1920.5576171875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -676,7 +676,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6502.533203125 KB |
+| json_size | 6510.16796875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -700,11 +700,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | returnStruct_c22fd45e | 3607 |
 | returnUint256_7de9540f | 2572 |
 
-## dynamic_arrays__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5510.732421875 KB |
+| json_size | 5517.451171875 KB |
 | steps | 8836 |
 
 | Builtin | Instances |
@@ -725,11 +725,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | fillWithValues_bd1693b0 | 10936 |
 | getLengths_800bd5c8 | 171 |
 
-## dynamic_arrays_2d__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__2d__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5358.2509765625 KB |
+| json_size | 5365.62890625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -751,7 +751,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2638.365234375 KB |
+| json_size | 2640.5859375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -770,11 +770,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | copySimpleStruct_77a8b950 | 650 |
 | getStructs_934d71fd | 456 |
 
-## dynamic_arrays__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2814.9970703125 KB |
+| json_size | 2818.1220703125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -793,11 +793,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | pushToX_7e4085f1 | 514 |
 | pushToY_d543bf1f | 607 |
 
-## static_arrays__WARP_CONTRACT__WARP.json:
+## static__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1034.3623046875 KB |
+| json_size | 1035.8740234375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -818,7 +818,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 990.927734375 KB |
+| json_size | 991.9384765625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -835,11 +835,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | getS_e93314ab | 237 |
 | setS_367fcfa8 | 229 |
 
-## dynamic_arrays__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3420.8388671875 KB |
+| json_size | 3423.5537109375 KB |
 | steps | 1344 |
 
 | Builtin | Instances |
@@ -856,11 +856,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | copySimpleArrayLength_46912b24 | 2890 |
 | copySimpleArrayValues_1c945e4b | 4177 |
 
-## static_arrays__WARP_CONTRACT__WARP.json:
+## static__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5833.814453125 KB |
+| json_size | 5843.693359375 KB |
 | steps | 5575 |
 
 | Builtin | Instances |
@@ -884,7 +884,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2349.0927734375 KB |
+| json_size | 2350.6748046875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -901,11 +901,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | getS_e93314ab | 856 |
 | setS_0ac75408 | 988 |
 
-## dynamic_arrays__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4291.001953125 KB |
+| json_size | 4295.900390625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -928,7 +928,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1668.5126953125 KB |
+| json_size | 1669.9775390625 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -948,11 +948,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | set256_96403e21 | 230 |
 | set8_e6ed7385 | 132 |
 
-## static_arrays__WARP_CONTRACT__WARP.json:
+## static__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2642.1533203125 KB |
+| json_size | 2645.7275390625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -975,7 +975,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1957.3701171875 KB |
+| json_size | 1959.46484375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -995,11 +995,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | getStruct2_0a501a74 | 384 |
 | setStruct1_99f2eddf | 535 |
 
-## this_methods_call__WARP_CONTRACT__A.json:
+## this__methods__call__WARP_CONTRACT__A.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2616.2392578125 KB |
+| json_size | 2619.5361328125 KB |
 | steps | 370 |
 
 | Builtin | Instances |
@@ -1019,7 +1019,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 733.8203125 KB |
+| json_size | 734.171875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1039,7 +1039,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 338.8310546875 KB |
+| json_size | 339.0732421875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1055,11 +1055,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_fc68521a | 341 |
 
-## public_vars__WARP_CONTRACT__A.json:
+## public__vars__WARP_CONTRACT__A.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 734.7001953125 KB |
+| json_size | 735.2275390625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1075,11 +1075,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_26121ff0 | 279 |
 
-## public_vars__WARP_CONTRACT__B.json:
+## public__vars__WARP_CONTRACT__B.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 772.9072265625 KB |
+| json_size | 773.4580078125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1095,11 +1095,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | setA_f95a0ad2 | 86 |
 
-## public_vars__WARP_CONTRACT__C.json:
+## public__vars__WARP_CONTRACT__C.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1338.6279296875 KB |
+| json_size | 1339.9287109375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1121,7 +1121,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2293.2685546875 KB |
+| json_size | 2294.0693359375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1137,7 +1137,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3281.8046875 KB |
+| json_size | 3283.3984375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1201,11 +1201,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_26121ff0 | 1440 |
 
-## array_static__WARP_CONTRACT__WARP.json:
+## array__static__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2208.37109375 KB |
+| json_size | 2208.890625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1225,11 +1225,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | get_9507d39a | 610 |
 | set_1ab06ee5 | 685 |
 
-## array_dynamic__WARP_CONTRACT__WARP.json:
+## array__dynamic__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2383.7451171875 KB |
+| json_size | 2384.353515625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -1480,7 +1480,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 632.7158203125 KB |
+| json_size | 632.8623046875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1500,7 +1500,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 314.3125 KB |
+| json_size | 314.4404296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1520,7 +1520,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 239.9013671875 KB |
+| json_size | 239.9921875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1536,11 +1536,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | willPass_c15ff1c7 | 17 |
 
-## assignments_as_rvalues__WARP_CONTRACT__WARP.json:
+## assignments__as__rvalues__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1244.41796875 KB |
+| json_size | 1244.92578125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1620,11 +1620,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_b3de648b | 119 |
 
-## dynamic_array_return_index__WARP_CONTRACT__WARP.json:
+## dynamic__array__return__index__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5023.1806640625 KB |
+| json_size | 5030.5927734375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1646,11 +1646,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | dArrayMultipleInputsPublic_b04f103e | 2503 |
 | dArrayPublic_f5f3e207 | 1382 |
 
-## struct_return_member__WARP_CONTRACT__WARP.json:
+## struct__return__member__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2032.14453125 KB |
+| json_size | 2034.1484375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1668,11 +1668,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | testMultipleStructsPublicFunctionMember_2b19247c | 834 |
 | testReturnMember_ffc57ec1 | 433 |
 
-## struct_return_struct__WARP_CONTRACT__WARP.json:
+## struct__return__struct__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1532.8115234375 KB |
+| json_size | 1534.1748046875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1689,11 +1689,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | testReturnStructPublic_4466f7c8 | 465 |
 | testReturnStruct_91d3c161 | 465 |
 
-## static_array_return_index__WARP_CONTRACT__WARP.json:
+## static__array__return__index__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3435.5107421875 KB |
+| json_size | 3440.9306640625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1717,7 +1717,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1775.9111328125 KB |
+| json_size | 1776.7685546875 KB |
 | steps | 107 |
 
 | Builtin | Instances |
@@ -1740,7 +1740,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1207.298828125 KB |
+| json_size | 1207.87109375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1760,7 +1760,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 905.7021484375 KB |
+| json_size | 906.1982421875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1965,11 +1965,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | a_0dbe671f | 160 |
 
-## order_of_eval__WARP_CONTRACT__X.json:
+## order__of__eval__WARP_CONTRACT__X.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1756.80859375 KB |
+| json_size | 1757.841796875 KB |
 | steps | 2166 |
 
 | Builtin | Instances |
@@ -2155,7 +2155,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 913.7373046875 KB |
+| json_size | 914.009765625 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -2171,11 +2171,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_26121ff0 | 285 |
 
-## super_in_constructor__WARP_CONTRACT__D.json:
+## super__in__constructor__WARP_CONTRACT__D.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 930.5966796875 KB |
+| json_size | 931.326171875 KB |
 | steps | 296 |
 
 | Builtin | Instances |
@@ -2191,11 +2191,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_26121ff0 | 155 |
 
-## super_in_modifier__WARP_CONTRACT__Final.json:
+## super__in__modifier__WARP_CONTRACT__Final.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1572.201171875 KB |
+| json_size | 1573.4609375 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -2231,11 +2231,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | f_26121ff0 | 1430 |
 
-## using_for__WARP_CONTRACT__WARP.json:
+## using__for__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 847.6875 KB |
+| json_size | 847.921875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2291,11 +2291,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | mulDiv_5a0380b7 | 1120 |
 
-## direct_and_indirect__WARP_CONTRACT__WARP.json:
+## direct__and__indirect__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 857.908203125 KB |
+| json_size | 858.390625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2359,11 +2359,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | forLoop_02bd3a24 | 534 |
 | whileLoop_77e2fa47 | 1176 |
 
-## free_function__WARP_CONTRACT__WARP.json:
+## free__function__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 281.109375 KB |
+| json_size | 281.3671875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2411,11 +2411,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | addition8signedunsafe_4ade4b40 | 129 |
 | addition8unsafe_fca5f016 | 129 |
 
-## bitwise_and__WARP_CONTRACT__WARP.json:
+## bitwise__and__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1885.2783203125 KB |
+| json_size | 1885.9169921875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2438,11 +2438,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | bitwise_and8signedunsafe_56221833 | 129 |
 | bitwise_and8unsafe_b393fd69 | 129 |
 
-## bitwise_or__WARP_CONTRACT__WARP.json:
+## bitwise__or__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1880.46484375 KB |
+| json_size | 1881.103515625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3102,7 +3102,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1394.861328125 KB |
+| json_size | 1395.2275390625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3124,7 +3124,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3322.4609375 KB |
+| json_size | 3323.4228515625 KB |
 | steps | 2254 |
 
 | Builtin | Instances |
@@ -3140,11 +3140,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | ----------- | ----------- |
 | getData_3bc5de30 | 2023 |
 
-## value_passing__WARP_CONTRACT__WARP.json:
+## value__passing__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1102.3759765625 KB |
+| json_size | 1102.9765625 KB |
 | steps | 106 |
 
 | Builtin | Instances |
@@ -3165,7 +3165,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1720.634765625 KB |
+| json_size | 1721.794921875 KB |
 | steps | 829 |
 
 | Builtin | Instances |
@@ -3190,7 +3190,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4671.884765625 KB |
+| json_size | 4674.82421875 KB |
 | steps | 6753 |
 
 | Builtin | Instances |
@@ -3214,7 +3214,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1169.390625 KB |
+| json_size | 1170.189453125 KB |
 | steps | 449 |
 
 | Builtin | Instances |
@@ -3238,7 +3238,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2719.8017578125 KB |
+| json_size | 2721.2392578125 KB |
 | steps | 1898 |
 
 | Builtin | Instances |
@@ -3261,7 +3261,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2778.501953125 KB |
+| json_size | 2780.2578125 KB |
 | steps | 1371 |
 
 | Builtin | Instances |
@@ -3324,11 +3324,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | insertReturn_a8b82784 | 71 |
 | withReturn_b7427c86 | 113 |
 
-## static_array_index_access__WARP_CONTRACT__WARP.json:
+## static__array__index__access__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6647.2919921875 KB |
+| json_size | 6665.5087890625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3354,11 +3354,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | t5_802792bc | 1854 |
 | t6_3361244c | 1854 |
 
-## value_dyn_array__WARP_CONTRACT__WARP.json:
+## value__dyn__array__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3720.9130859375 KB |
+| json_size | 3723.3662109375 KB |
 | steps | 2922 |
 
 | Builtin | Instances |
@@ -3375,11 +3375,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | tryDeleteX_a8412568 | 2127 |
 | tryDeleteY_2fe999b4 | 3976 |
 
-## map_2d_dyn_array__WARP_CONTRACT__WARP.json:
+## map__2d__dyn__array__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3398.9990234375 KB |
+| json_size | 3402.142578125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -3398,11 +3398,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | n1_254d2ba4 | 2287 |
 | n2_4aaa831d | 912 |
 
-## static_array__WARP_CONTRACT__WARP.json:
+## static__array__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3311.9482421875 KB |
+| json_size | 3312.8662109375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3423,11 +3423,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | setBig_3b181ce4 | 888 |
 | setSmall_bd1872bb | 894 |
 
-## dynamic_arrays__WARP_CONTRACT__WARP.json:
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2652.068359375 KB |
+| json_size | 2652.7919921875 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -3560,11 +3560,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | readValues_d66afcf9 | 161 |
 | setValues_45d266a6 | 239 |
 
-## static_arrays__WARP_CONTRACT__WARP.json:
+## static__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1912.6630859375 KB |
+| json_size | 1913.0087890625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3608,7 +3608,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 405.8515625 KB |
+| json_size | 406.01171875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3626,11 +3626,11 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 | getAddress_38cc4831 | 31 |
 | simpleThis_9bc799d0 | 31 |
 
-## calldata_tuple__WARP_CONTRACT__WARP.json:
+## calldata__tuple__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 584.505859375 KB |
+| json_size | 584.6240234375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3650,7 +3650,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 274.4755859375 KB |
+| json_size | 274.5849609375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3671,7 +3671,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1782.5966796875 KB |
+| json_size | 1783.34375 KB |
 | steps | 165 |
 
 | Builtin | Instances |
@@ -3693,7 +3693,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3098.8193359375 KB |
+| json_size | 3099.7802734375 KB |
 | steps | 165 |
 
 | Builtin | Instances |
@@ -3715,7 +3715,7 @@ commit: ffa73b2b3aebc81e9fa7454eb45b85b396d2ddd8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 952.9794921875 KB |
+| json_size | 953.0986328125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
