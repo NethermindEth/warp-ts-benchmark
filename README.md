@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: fa79c1a869d3a800c8527f0bc7b594aca33205c2
+commit: b81acd6a982f6ef1d84e6ba883d8ed91b322cb2a
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -450,6 +450,39 @@ commit: fa79c1a869d3a800c8527f0bc7b594aca33205c2
 | ----------- | ----------- |
 | explicit_fbe0d800 | 164 |
 | implicit_04416e99 | 164 |
+
+## memoryArraysToStorage__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 20556.2529296875 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| tryX1_b4080c87 | 7117 |
+| tryX2_8c30ec20 | 5010 |
+| tryXX1_48fcb2ed | 28353 |
+| tryXX2_5dee5acf | 22246 |
+| tryXX3_960c8a34 | 29431 |
+| tryXX4_6c798421 | 26934 |
+| tryXY1_db747b61 | 12592 |
+| tryY1_9fba73b7 | 3126 |
+| tryY2_17849785 | 2816 |
+| tryYY1_2d6a909a | 9178 |
+| tryYY2_e86f8a20 | 8649 |
+| tryYYY_c7dc829f | 9098 |
+| tryZ1_826ec71a | 7631 |
+| tryZ2_23d4b86e | 1794 |
 
 ## unsignedIdentity__WARP_CONTRACT__WARP.json:
 
