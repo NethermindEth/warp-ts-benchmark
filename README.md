@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 8ea0637e6a61168cfe208151013b2362aa703331
+commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -41,6 +41,32 @@ commit: 8ea0637e6a61168cfe208151013b2362aa703331
 | Function | Steps |
 | ----------- | ----------- |
 | dynStorageArrayLen_5e5bc419 | 599 |
+
+## calldataArray__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3114.2568359375 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| assignLengthToStorageUint_c3a724be | 321 |
+| assignToStorageArr_3cb7c22a | 1191 |
+| fnCallArrLengthNestedCalls_c675ddc0 | 1037 |
+| fnCallWithArrLength_012b3dc3 | 110 |
+| returnArrDoubleLength_b4538d83 | 287 |
+| returnArrLength_e26710c8 | 68 |
+| staticArrayLength_bac7dd35 | 30 |
 
 ## functionSingle__WARP_CONTRACT__WARP.json:
 
