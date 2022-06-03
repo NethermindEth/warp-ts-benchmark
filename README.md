@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
+commit: 2755ae6aacf7dc292445704f81531ead91aee678
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -481,7 +481,7 @@ commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 20556.2529296875 KB |
+| json_size | 20540.146484375 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -823,7 +823,7 @@ commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1035.8740234375 KB |
+| json_size | 1029.2138671875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -927,11 +927,11 @@ commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 | getS_e93314ab | 856 |
 | setS_0ac75408 | 988 |
 
-## dynamic__arrays__WARP_CONTRACT__WARP.json:
+## array__conversions__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4295.900390625 KB |
+| json_size | 8907.8642578125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -945,7 +945,32 @@ commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 
 | Function | Steps |
 | ----------- | ----------- |
-| copy_60726abb | 2662 |
+| copyStaticStaticToDynamicStatic_436b15bb | 6342 |
+| copyStaticStaticToStaticDynamic_875afdc4 | 10467 |
+| copyStaticToDynamicDeep_c5f0d794 | 10626 |
+| copyStaticToDynamic_9b042447 | 4500 |
+| setStaticDeep_c1cc4990 | 2751 |
+| setStatic_c8ea5326 | 1293 |
+
+## dynamic__arrays__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 4320.7060546875 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| copy_60726abb | 2666 |
 | getArr1_a168614d | 1294 |
 | getArr2_c60d4528 | 1288 |
 | setArr1_2e1a2622 | 4496 |
@@ -978,7 +1003,7 @@ commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2645.7275390625 KB |
+| json_size | 2645.4677734375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1001,7 +1026,7 @@ commit: 2d4db1f8d4ac9c40af8590846551ddb95e16b109
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1959.46484375 KB |
+| json_size | 1959.462890625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
