@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: c949441e5d4fd35b5fedee0ef42b781c770e4833
+commit: fabc2c37bd4eb9ba55fbfe21aca4747ade1265d6
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -300,6 +300,56 @@ commit: c949441e5d4fd35b5fedee0ef42b781c770e4833
 | externReturnDarray_387176c7 | 282 |
 | externReturnIndexAccess_ad214a73 | 252 |
 | returnFirstIndex_d5d8ca26 | 141 |
+
+## bytes__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 5977.3271484375 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| c0_656bb565 | 808 |
+| c1_46fdc2f9 | 4921 |
+| c2_ae196100 | 10135 |
+| c3_d2f026d5 | 13073 |
+| c4_d58722cc | 10138 |
+| c5_95d099ae | 10944 |
+
+## strings__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 6350.8427734375 KB |
+| steps | 3292 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 37 |
+| range_check_builtin | 140 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| s0_501e8212 | 808 |
+| s1_f0d00991 | 4921 |
+| s2_01334cc9 | 10135 |
+| s3_63353669 | 13073 |
+| s4_15874f22 | 10138 |
+| s5_8d26739f | 10875 |
 
 ## and__WARP_CONTRACT__WARP.json:
 
