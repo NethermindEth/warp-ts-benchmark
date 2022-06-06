@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 7c277cf6905558e70599b288c0caa8a8a5d87113
+commit: 89001f82061368b6d313c51443f31d92ab4c16a7
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -199,7 +199,7 @@ commit: 7c277cf6905558e70599b288c0caa8a8a5d87113
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2068.376953125 KB |
+| json_size | 2056.884765625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -218,8 +218,8 @@ commit: 7c277cf6905558e70599b288c0caa8a8a5d87113
 | bytes24access_00db7024 | 187 |
 | bytes2access_9d3c5263 | 187 |
 | bytes31access_16619570 | 187 |
-| bytes32access256_b0310e58 | 272 |
-| bytes32access_4d003904 | 228 |
+| bytes32access256_b0310e58 | 271 |
+| bytes32access_4d003904 | 227 |
 
 ## fixedSizeBytesArrays__WARP_CONTRACT__WARP.json:
 
@@ -305,8 +305,8 @@ commit: 7c277cf6905558e70599b288c0caa8a8a5d87113
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5977.3271484375 KB |
-| steps | 61 |
+| json_size | 8141.5693359375 KB |
+| steps | 62 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -319,18 +319,21 @@ commit: 7c277cf6905558e70599b288c0caa8a8a5d87113
 
 | Function | Steps |
 | ----------- | ----------- |
-| c0_656bb565 | 808 |
-| c1_46fdc2f9 | 4921 |
-| c2_ae196100 | 10135 |
-| c3_d2f026d5 | 13073 |
-| c4_d58722cc | 10138 |
-| c5_95d099ae | 10944 |
+| c0_656bb565 | 809 |
+| c1_46fdc2f9 | 4922 |
+| c2_ae196100 | 10136 |
+| c3_d2f026d5 | 13074 |
+| c4_d58722cc | 10139 |
+| c5_95d099ae | 10945 |
+| d1_e31789d4 | 2804 |
+| d2_318fe832 | 23837 |
+| d3_c72151b4 | 15762 |
 
 ## strings__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6350.8427734375 KB |
+| json_size | 6355.2744140625 KB |
 | steps | 3292 |
 
 | Builtin | Instances |
