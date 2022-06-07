@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 89001f82061368b6d313c51443f31d92ab4c16a7
+commit: 005389490e0e65b5e27eadf3bcd2a0e70ae09967
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -225,7 +225,7 @@ commit: 89001f82061368b6d313c51443f31d92ab4c16a7
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3297.02734375 KB |
+| json_size | 3395.44140625 KB |
 | steps | 557 |
 
 | Builtin | Instances |
@@ -247,6 +247,7 @@ commit: 89001f82061368b6d313c51443f31d92ab4c16a7
 | getB_a1c51915 | 89 |
 | getC_a2375d1e | 91 |
 | getD_1a14ff7a | 91 |
+| literalByte_c452b0b3 | 25 |
 | nestedBitwiseOp_0c4c08e0 | 237 |
 | shiftBytesByConstant_9eb10044 | 269 |
 | shiftBytesBy_5a3d415f | 268 |
@@ -3792,6 +3793,30 @@ commit: 89001f82061368b6d313c51443f31d92ab4c16a7
 | assign_4c081138 | 646 |
 | getMember_0274c094 | 158 |
 | setMember_526d5b91 | 497 |
+
+## stringLiteralMemory__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2636.1865234375 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| funcCallWithArg_a6ac72fe | 922 |
+| funcCall_cc7f2546 | 923 |
+| nestedFuncCallWithArg_3e013f6a | 926 |
+| tupleRet_68e1cc75 | 1367 |
+| varDecl_e20f9e15 | 923 |
 
 ## thisKeyword__WARP_CONTRACT__WARP.json:
 
