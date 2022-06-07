@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 3863b098dda8b8368d5918185fb8c2fce29a416a
+commit: 1a6ac2ebf42f2fdb423397699126b03195cec320
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -754,6 +754,32 @@ commit: 3863b098dda8b8368d5918185fb8c2fce29a416a
 | getX_5197c7aa | 1706 |
 | setX_287a5dfe | 684 |
 
+## structs__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 5966.8310546875 KB |
+| steps | 1993 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 8 |
+| range_check_builtin | 109 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| getD_1a14ff7a | 563 |
+| getE_b1cb267b | 2214 |
+| getF_0c204dbc | 1156 |
+| getS_e93314ab | 305 |
+| setE_c61edca9 | 6758 |
+| setF_2bb0b326 | 3092 |
+| setS_367fcfa8 | 362 |
+
 ## dynArray__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
@@ -942,7 +968,7 @@ commit: 3863b098dda8b8368d5918185fb8c2fce29a416a
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6135.0634765625 KB |
+| json_size | 6135.3525390625 KB |
 | steps | 6009 |
 
 | Builtin | Instances |
@@ -3470,6 +3496,27 @@ commit: 3863b098dda8b8368d5918185fb8c2fce29a416a
 | c_c3da42b8 | 309 |
 | d_8a054ac2 | 1153 |
 
+## misc__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 4800.685546875 KB |
+| steps | 5197 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 1 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 44 |
+| range_check_builtin | 271 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| a_f0fdf834 | 582 |
+| d_7f6b590c | 1420 |
+
 ## returnInserter__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
@@ -3565,6 +3612,52 @@ commit: 3863b098dda8b8368d5918185fb8c2fce29a416a
 | ----------- | ----------- |
 | tryDeleteX_a8412568 | 2191 |
 | tryDeleteY_2fe999b4 | 4199 |
+
+## ref__dyn__array__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2924.859375 KB |
+| steps | 2077 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 22 |
+| range_check_builtin | 95 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| tryDeleteZ_6b870999 | 1386 |
+
+## struct__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 5674.9267578125 KB |
+| steps | 1519 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 7 |
+| range_check_builtin | 81 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| deleteDynArrayStruct_584be604 | 2001 |
+| deleteMapStruct_d948996b | 100 |
+| deleteValueStruct_c5b0efd7 | 956 |
+| getDynArrayStruct_ff7823d1 | 1122 |
+| getMapStruct_92ca124e | 282 |
+| setDynArrayStructVal_ab9893fa | 1219 |
+| setMapStructVal_56553dab | 547 |
 
 ## map__2d__dyn__array__WARP_CONTRACT__WARP.json:
 
