@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 005389490e0e65b5e27eadf3bcd2a0e70ae09967
+commit: 4c708ab7cab51c2cb406042c269217a52580cb2f
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -225,7 +225,7 @@ commit: 005389490e0e65b5e27eadf3bcd2a0e70ae09967
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3395.44140625 KB |
+| json_size | 3500.455078125 KB |
 | steps | 557 |
 
 | Builtin | Instances |
@@ -247,6 +247,7 @@ commit: 005389490e0e65b5e27eadf3bcd2a0e70ae09967
 | getB_a1c51915 | 89 |
 | getC_a2375d1e | 91 |
 | getD_1a14ff7a | 91 |
+| length_1f7b6d32 | 27 |
 | literalByte_c452b0b3 | 25 |
 | nestedBitwiseOp_0c4c08e0 | 237 |
 | shiftBytesByConstant_9eb10044 | 269 |
