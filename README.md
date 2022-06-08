@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: ef563ec539988e47155033442700a9d44b79e241
+commit: d5d61a3ced185a95a6bce32e3f2feec402d4e98d
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -425,7 +425,7 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2954.3994140625 KB |
+| json_size | 2960.681640625 KB |
 | steps | 624 |
 
 | Builtin | Instances |
@@ -444,7 +444,7 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 | getX_5197c7aa | 155 |
 | pureOpWithValueTwo_d3b0d8c3 | 261 |
 | pureOpWithValue_b02faaba | 176 |
-| pureOp_86d03a76 | 349 |
+| pureOp_86d03a76 | 351 |
 | stateVarOp_5fcc95bf | 225 |
 
 ## simpleImmutable__WARP_CONTRACT__WARP.json:
@@ -2717,7 +2717,7 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2429.55078125 KB |
+| json_size | 4040.9599609375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2731,20 +2731,20 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 
 | Function | Steps |
 | ----------- | ----------- |
-| division256safe_e04de2db | 489 |
-| division256signedsafe_5a050c5a | 489 |
-| division256signedunsafe_7bf0cde9 | 489 |
-| division256unsafe_68088274 | 489 |
-| division8safe_8ad821c7 | 464 |
-| division8signedsafe_25595dd1 | 464 |
-| division8signedunsafe_a2b49936 | 466 |
-| division8unsafe_ee2f5083 | 466 |
+| division256safe_e04de2db | 491 |
+| division256signedsafe_7fb445ae | 598 |
+| division256signedunsafe_661794e5 | 598 |
+| division256unsafe_68088274 | 491 |
+| division8safe_8ad821c7 | 465 |
+| division8signedsafe_69d80b6a | 601 |
+| division8signedunsafe_8d2b6d6a | 601 |
+| division8unsafe_ee2f5083 | 467 |
 
 ## remainder__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2824.31640625 KB |
+| json_size | 2848.1513671875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2758,14 +2758,14 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 
 | Function | Steps |
 | ----------- | ----------- |
-| remainder256safe_ae421f4d | 489 |
-| remainder256signedsafe_a9832a7d | 579 |
-| remainder256signedunsafe_e20e449b | 579 |
-| remainder256unsafe_4734c619 | 489 |
-| remainder8safe_605c8a2b | 464 |
-| remainder8signedsafe_7b99112d | 748 |
-| remainder8signedunsafe_7f99977b | 598 |
-| remainder8unsafe_ba3b16f5 | 464 |
+| remainder256safe_ae421f4d | 491 |
+| remainder256signedsafe_a9832a7d | 581 |
+| remainder256signedunsafe_e20e449b | 581 |
+| remainder256unsafe_4734c619 | 490 |
+| remainder8safe_605c8a2b | 465 |
+| remainder8signedsafe_7b99112d | 749 |
+| remainder8signedunsafe_7f99977b | 599 |
+| remainder8unsafe_ba3b16f5 | 465 |
 
 ## eq__WARP_CONTRACT__WARP.json:
 
@@ -4009,7 +4009,7 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3123.9453125 KB |
+| json_size | 3130.248046875 KB |
 | steps | 202 |
 
 | Builtin | Instances |
@@ -4025,7 +4025,7 @@ commit: ef563ec539988e47155033442700a9d44b79e241
 | ----------- | ----------- |
 | callLibFunction_05719c4d | 263 |
 | callOnIdentifierAdd_e9f550ad | 508 |
-| callOnIdentifierMul_74d57f24 | 878 |
+| callOnIdentifierMul_74d57f24 | 880 |
 
 ## private__WARP_CONTRACT__WARP.json:
 
