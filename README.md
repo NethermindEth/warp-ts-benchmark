@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: d5d61a3ced185a95a6bce32e3f2feec402d4e98d
+commit: c314e6855937401aadb6df9ca768bc5dfe5cdf8f
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -536,7 +536,7 @@ commit: d5d61a3ced185a95a6bce32e3f2feec402d4e98d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 23737.224609375 KB |
+| json_size | 23737.1171875 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1786,6 +1786,27 @@ commit: d5d61a3ced185a95a6bce32e3f2feec402d4e98d
 | dArrayMultipleInputsExternal_aae070a5 | 2778 |
 | dArrayMultipleInputsPublic_b04f103e | 2778 |
 | dArrayPublic_f5f3e207 | 1621 |
+
+## dynarray__array__conversion__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2986.2470703125 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| inAndOutLength_f19b7f15 | 3732 |
+| inAndOut_0d705ca7 | 4518 |
 
 ## struct__return__member__WARP_CONTRACT__WARP.json:
 
