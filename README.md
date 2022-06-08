@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: c314e6855937401aadb6df9ca768bc5dfe5cdf8f
+commit: 9a2e47f2afa4989defda6c51efc3996488a5d1c7
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -3343,6 +3343,26 @@ commit: c314e6855937401aadb6df9ca768bc5dfe5cdf8f
 | closeEvent_03dc5326 | 242 |
 | donate_f14faf6f | 697 |
 | openEvent_aee684a5 | 86 |
+
+## ecrecover__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 19862.69921875 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| test_f8a8fd6d | 203286 |
 
 ## function__WARP_CONTRACT__WARP.json:
 
