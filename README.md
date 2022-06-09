@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 9774e586493a006967902dd2ec39e605912716e2
+commit: 5f3da6b771e02955eee9d58607991cc89ff3eaf1
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -312,7 +312,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3819.2724609375 KB |
+| json_size | 4153.705078125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -326,7 +326,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| getCharacter_87630c30 | 5414 |
+| getCharacter_87630c30 | 5521 |
 | getLength_be1c766b | 95 |
 
 ## passingDynArrayInternally__WARP_CONTRACT__WARP.json:
@@ -1069,7 +1069,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 14478.994140625 KB |
+| json_size | 20736.5625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1083,13 +1083,16 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| copyStaticStaticToDynamicStatic_436b15bb | 6673 |
-| copyStaticStaticToStaticDynamic_875afdc4 | 10601 |
-| copyStaticToDynamicDeep_c5f0d794 | 10774 |
-| copyStaticToDynamic_9b042447 | 4520 |
-| identity_2c159a1a | 9556 |
-| scalingInt_0dcdc525 | 2434 |
-| scalingUint_3b6ead17 | 5268 |
+| copyStaticDifferentSizeComplex_d4925b31 | 8721 |
+| copyStaticDifferentSize_f8bd2e23 | 3158 |
+| copyStaticStaticToDynamicStatic_436b15bb | 6770 |
+| copyStaticStaticToStaticDynamic_875afdc4 | 10817 |
+| copyStaticToDynamicDeep_c5f0d794 | 11125 |
+| copyStaticToDynamicPush_ee510ca8 | 27593 |
+| copyStaticToDynamic_9b042447 | 4629 |
+| identity_2c159a1a | 9778 |
+| scalingInt_0dcdc525 | 2541 |
+| scalingUint_3b6ead17 | 5379 |
 | setStaticDeep_c1cc4990 | 2776 |
 | setStatic_c8ea5326 | 1294 |
 
@@ -1097,7 +1100,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4592.904296875 KB |
+| json_size | 4936.7548828125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1111,7 +1114,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| copy_60726abb | 2700 |
+| copy_60726abb | 2805 |
 | getArr1_a168614d | 1419 |
 | getArr2_c60d4528 | 1413 |
 | setArr1_2e1a2622 | 4652 |
@@ -1421,7 +1424,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2384.353515625 KB |
+| json_size | 2315.5439453125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -1436,7 +1439,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 | Function | Steps |
 | ----------- | ----------- |
 | clearAt_41faf609 | 354 |
-| clear_52efea6e | 928 |
+| clear_52efea6e | 777 |
 | getLength_be1c766b | 94 |
 | get_9507d39a | 354 |
 | initialize_8129fc1c | 1367 |
@@ -3758,7 +3761,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3946.4443359375 KB |
+| json_size | 3886.65234375 KB |
 | steps | 3021 |
 
 | Builtin | Instances |
@@ -3772,14 +3775,14 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| tryDeleteX_a8412568 | 2191 |
-| tryDeleteY_2fe999b4 | 4199 |
+| tryDeleteX_a8412568 | 2040 |
+| tryDeleteY_2fe999b4 | 4048 |
 
 ## ref__dyn__array__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2925.4140625 KB |
+| json_size | 2856.671875 KB |
 | steps | 2077 |
 
 | Builtin | Instances |
@@ -3793,13 +3796,13 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| tryDeleteZ_6b870999 | 1386 |
+| tryDeleteZ_6b870999 | 1286 |
 
 ## struct__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5729.443359375 KB |
+| json_size | 5669.3759765625 KB |
 | steps | 1531 |
 
 | Builtin | Instances |
@@ -3813,7 +3816,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| deleteDynArrayStruct_584be604 | 2001 |
+| deleteDynArrayStruct_584be604 | 1699 |
 | deleteMapStruct_d948996b | 100 |
 | deleteValueStruct_c5b0efd7 | 956 |
 | getDynArrayStruct_ff7823d1 | 1122 |
@@ -3825,7 +3828,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3484.3662109375 KB |
+| json_size | 3424.3759765625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -3839,7 +3842,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| d_8a054ac2 | 951 |
+| d_8a054ac2 | 853 |
 | map_b8dda9c7 | 1173 |
 | n1_254d2ba4 | 2349 |
 | n2_4aaa831d | 943 |
@@ -3848,7 +3851,7 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3312.8662109375 KB |
+| json_size | 3321.736328125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3862,8 +3865,8 @@ commit: 9774e586493a006967902dd2ec39e605912716e2
 
 | Function | Steps |
 | ----------- | ----------- |
-| deleteBig_7704ebfb | 4161 |
-| deleteSmall_cde70a0a | 1596 |
+| deleteBig_7704ebfb | 4028 |
+| deleteSmall_cde70a0a | 1449 |
 | getBig_3b8f5350 | 856 |
 | getSmall_b6aba245 | 860 |
 | setBig_3b181ce4 | 888 |
