@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: d60b4b0d768a70df1eca01c62bdc7b80fde03938
+commit: 122a9fa3b439505ef7b6eb6d5204ba4aeab403a8
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
