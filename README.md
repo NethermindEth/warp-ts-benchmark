@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 37441cd8ab226b2aeef3a61b561af40fdf95e43e
+commit: ee60a6f82d042fb4090ec1ba287ac3dd023771fd
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -307,6 +307,27 @@ commit: 37441cd8ab226b2aeef3a61b561af40fdf95e43e
 | nestedBitwiseAnd_8c5b9a7e | 224 |
 | shiftByteByConstant_8b01d6da | 271 |
 | shiftByteBy_41a19730 | 268 |
+
+## stringsBytesConversion__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3819.2724609375 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| getCharacter_87630c30 | 5414 |
+| getLength_be1c766b | 95 |
 
 ## passingDynArrayInternally__WARP_CONTRACT__WARP.json:
 
