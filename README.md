@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: ee60a6f82d042fb4090ec1ba287ac3dd023771fd
+commit: d92dc028b81b3ec1215badd09123297e60c5083d
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -2155,6 +2155,26 @@ commit: ee60a6f82d042fb4090ec1ba287ac3dd023771fd
 | loops_11a7d14c | 516 |
 | nestedIfs_170d0b8d | 60 |
 | uncheckedBlock_0bd5f3d6 | 59 |
+
+## noBlocks__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 263.1552734375 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| test_7442b287 | 44 |
 
 ## importto__WARP_CONTRACT__WARP.json:
 
