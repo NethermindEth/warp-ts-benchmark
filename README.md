@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 1683269b0407158ec7230641112886685618eb9d
+commit: 319d15232e188f4e9cf226682f9b65433f73bd7b
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -199,7 +199,7 @@ commit: 1683269b0407158ec7230641112886685618eb9d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1982.220703125 KB |
+| json_size | 2024.767578125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -213,13 +213,13 @@ commit: 1683269b0407158ec7230641112886685618eb9d
 
 | Function | Steps |
 | ----------- | ----------- |
-| bytes12access_f02609ba | 187 |
-| bytes17access_2f6f5e29 | 187 |
-| bytes24access_00db7024 | 187 |
-| bytes2access_9d3c5263 | 187 |
-| bytes31access_16619570 | 187 |
-| bytes32access256_b0310e58 | 271 |
-| bytes32access_4d003904 | 259 |
+| bytes12access_f02609ba | 191 |
+| bytes17access_2f6f5e29 | 191 |
+| bytes24access_00db7024 | 191 |
+| bytes2access_9d3c5263 | 191 |
+| bytes31access_16619570 | 191 |
+| bytes32access256_b0310e58 | 273 |
+| bytes32access_4d003904 | 261 |
 
 ## conversions__WARP_CONTRACT__WARP.json:
 
@@ -309,6 +309,27 @@ commit: 1683269b0407158ec7230641112886685618eb9d
 | shiftByteByConstant_8b01d6da | 271 |
 | shiftByteBy_41a19730 | 268 |
 
+## index__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3681.8583984375 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| flip_4806f942 | 6638 |
+| getByteAtIndex_3d04fd1d | 179 |
+
 ## stringsBytesConversion__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
@@ -356,7 +377,7 @@ commit: 1683269b0407158ec7230641112886685618eb9d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 10568.408203125 KB |
+| json_size | 10608.658203125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -376,12 +397,12 @@ commit: 1683269b0407158ec7230641112886685618eb9d
 | c3_d2f026d5 | 13074 |
 | c4_d58722cc | 10139 |
 | c5_95d099ae | 10945 |
-| d1_e31789d4 | 2804 |
-| d2_318fe832 | 23837 |
-| d3_c72151b4 | 15762 |
-| dynamicAndLiteral_381e2cc1 | 9895 |
+| d1_e31789d4 | 2816 |
+| d2_318fe832 | 23921 |
+| d3_c72151b4 | 15830 |
+| dynamicAndLiteral_381e2cc1 | 9911 |
 | long_07bfce37 | 57347 |
-| staticAndLiteral_5ada0465 | 6726 |
+| staticAndLiteral_5ada0465 | 6758 |
 
 ## strings__WARP_CONTRACT__WARP.json:
 
