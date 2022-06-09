@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 67587ca2ef3ec81fff7865eaa7e4664f4e431b4e
+commit: 9774e586493a006967902dd2ec39e605912716e2
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -3391,6 +3391,26 @@ commit: 67587ca2ef3ec81fff7865eaa7e4664f4e431b4e
 | Function | Steps |
 | ----------- | ----------- |
 | f_b3de648b | 324 |
+
+## modifierWithReturn__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 209.7109375 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| returnFiveThroughModifiers_e0f11b88 | 34 |
 
 ## multipleModifiers__WARP_CONTRACT__WARP.json:
 
