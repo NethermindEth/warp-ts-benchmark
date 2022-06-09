@@ -1,0 +1,3335 @@
+{
+   "warp_output/tests/behaviour/contracts/array__len/memoryArray__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1830.646484375 KB",
+      "function_steps": {
+         "dynMemArrayLen_1bcc5c69": 1303
+      }
+   },
+   "warp_output/tests/behaviour/contracts/array__len/storageArray__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1920.2841796875 KB",
+      "function_steps": {
+         "dynStorageArrayLen_5e5bc419": 630
+      }
+   },
+   "warp_output/tests/behaviour/contracts/array__len/calldataArray__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3451.9501953125 KB",
+      "function_steps": {
+         "returnArrLength_e26710c8": 222,
+         "returnArrDoubleLength_b4538d83": 426,
+         "fnCallWithArrLength_012b3dc3": 197,
+         "fnCallArrLengthNestedCalls_c675ddc0": 1297,
+         "assignLengthToStorageUint_c3a724be": 475,
+         "assignToStorageArr_3cb7c22a": 1346,
+         "staticArrayLength_bac7dd35": 164
+      }
+   },
+   "warp_output/tests/behaviour/contracts/assignments/functionSingle__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "940.1904296875 KB",
+      "function_steps": {
+         "test_f1820bdc": 74,
+         "test256_758b94ed": 150
+      }
+   },
+   "warp_output/tests/behaviour/contracts/assignments/scalar__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "682.4306640625 KB",
+      "function_steps": {
+         "test_f1820bdc": 69,
+         "test256_758b94ed": 143
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bool__operators/and__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "246.779296875 KB",
+      "function_steps": {
+         "test_7442b287": 47
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bool__operators/or__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "252.1748046875 KB",
+      "function_steps": {
+         "test_7442b287": 49
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/byteArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 1623,
+      "builtin_instances": {
+         "pedersen_builtin": 5,
+         "range_check_builtin": 156,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4243.9208984375 KB",
+      "function_steps": {
+         "getC_b1e052d8": 529,
+         "getStorageBytesArray_93dcfae9": 487,
+         "getMemoryBytesArray_f6f44be6": 1709,
+         "getMemoryBytesArrayTwo_f971f67f": 3270,
+         "getStorageBytesDynArray_b50c6864": 746
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/byteStructs__WARP_CONTRACT__WARP.json": {
+      "steps": 1293,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 67,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2118.8642578125 KB",
+      "function_steps": {
+         "getB3A_013e47f3": 92,
+         "getBsC_e7552136": 94
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/bytesX__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1982.220703125 KB",
+      "function_steps": {
+         "bytes2access_9d3c5263": 187,
+         "bytes12access_f02609ba": 187,
+         "bytes17access_2f6f5e29": 187,
+         "bytes24access_00db7024": 187,
+         "bytes32access_4d003904": 259,
+         "bytes31access_16619570": 187,
+         "bytes32access256_b0310e58": 271
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/conversions__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2572.4326171875 KB",
+      "function_steps": {
+         "bytes1To2_3735607e": 87,
+         "bytes3To3_034d34e2": 70,
+         "bytes4To32_8d195378": 369,
+         "bytes8To4_ceac5a88": 105,
+         "bytes32To16_85402594": 445,
+         "bytes32To1_98a575e1": 445,
+         "bytes25To7_f988976c": 146,
+         "bytes4To2Assignment_a02b2299": 60
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/fixedSizeBytesArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 557,
+      "builtin_instances": {
+         "pedersen_builtin": 7,
+         "range_check_builtin": 23,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3500.455078125 KB",
+      "function_steps": {
+         "getA_d46300fd": 89,
+         "getB_a1c51915": 89,
+         "getC_a2375d1e": 91,
+         "getD_1a14ff7a": 91,
+         "literalByte_c452b0b3": 25,
+         "shiftBytesBy_5a3d415f": 268,
+         "shiftBytesByConstant_9eb10044": 269,
+         "bitwiseAnd_1270c184": 154,
+         "bitwiseOr_19bd4bc6": 154,
+         "bitwiseXor_2c0f4d0d": 154,
+         "bitwiseNor_afd68652": 108,
+         "nestedBitwiseOp_0c4c08e0": 237,
+         "length_1f7b6d32": 27
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/fixedSizeByte7__WARP_CONTRACT__WARP.json": {
+      "steps": 292,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 11,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2919.6171875 KB",
+      "function_steps": {
+         "getA_d46300fd": 89,
+         "getB_a1c51915": 89,
+         "shiftByteBy_41a19730": 268,
+         "shiftByteByConstant_8b01d6da": 271,
+         "bitwiseAnd_eb0adb3d": 154,
+         "bitwiseOr_dd057f29": 154,
+         "bitwiseXor_38f94ec4": 154,
+         "bitwiseNor_afd68652": 108,
+         "nestedBitwiseAnd_8c5b9a7e": 224
+      }
+   },
+   "warp_output/tests/behaviour/contracts/bytes/stringsBytesConversion__WARP_CONTRACT__WARP.json": {
+      "steps": 62,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4153.705078125 KB",
+      "function_steps": {
+         "getCharacter_87630c30": 5521,
+         "getLength_be1c766b": 95
+      }
+   },
+   "warp_output/tests/behaviour/contracts/calldata/passingDynArrayInternally__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1026.275390625 KB",
+      "function_steps": {
+         "externReturnIndexAccess_ad214a73": 252,
+         "externReturnDarray_387176c7": 282,
+         "returnFirstIndex_d5d8ca26": 141
+      }
+   },
+   "warp_output/tests/behaviour/contracts/concat/bytes__WARP_CONTRACT__WARP.json": {
+      "steps": 62,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "10568.408203125 KB",
+      "function_steps": {
+         "c0_656bb565": 809,
+         "c1_46fdc2f9": 4922,
+         "c2_ae196100": 10136,
+         "c3_d2f026d5": 13074,
+         "c4_d58722cc": 10139,
+         "c5_95d099ae": 10945,
+         "dynamicAndLiteral_381e2cc1": 9895,
+         "long_07bfce37": 57347,
+         "d1_e31789d4": 2804,
+         "d2_318fe832": 23837,
+         "d3_c72151b4": 15762,
+         "staticAndLiteral_5ada0465": 6726
+      }
+   },
+   "warp_output/tests/behaviour/contracts/concat/strings__WARP_CONTRACT__WARP.json": {
+      "steps": 3292,
+      "builtin_instances": {
+         "pedersen_builtin": 37,
+         "range_check_builtin": 140,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "6355.4365234375 KB",
+      "function_steps": {
+         "s0_501e8212": 808,
+         "s1_f0d00991": 4921,
+         "s2_01334cc9": 10135,
+         "s3_63353669": 13073,
+         "s4_15874f22": 10138,
+         "s5_8d26739f": 10875
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conditionals/and__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1733.556640625 KB",
+      "function_steps": {
+         "f_2735acb7": 609
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conditionals/nested__and__or__WARP_CONTRACT__WARP.json": {
+      "steps": 415,
+      "builtin_instances": {
+         "pedersen_builtin": 4,
+         "range_check_builtin": 19,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2496.8203125 KB",
+      "function_steps": {
+         "move_valid_cbc690bd": 1382
+      }
+   },
+   "warp_output/tests/behaviour/contracts/constants/simpleConstants__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1621.5771484375 KB",
+      "function_steps": {
+         "getX_5197c7aa": 88,
+         "stateVarOp_5fcc95bf": 139,
+         "constantOp_02237bc1": 69,
+         "pureOp_86d03a76": 69,
+         "pureOpWithValue_eaaacb51": 113,
+         "changeStateVar_237b5a21": 195
+      }
+   },
+   "warp_output/tests/behaviour/contracts/constants/simpleConstantsUint256__WARP_CONTRACT__WARP.json": {
+      "steps": 624,
+      "builtin_instances": {
+         "pedersen_builtin": 8,
+         "range_check_builtin": 29,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 1,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2960.681640625 KB",
+      "function_steps": {
+         "getX_5197c7aa": 155,
+         "stateVarOp_5fcc95bf": 225,
+         "constantOp_02237bc1": 90,
+         "pureOp_86d03a76": 351,
+         "pureOpWithValue_b02faaba": 176,
+         "pureOpWithValueTwo_d3b0d8c3": 261,
+         "changeStateVar_237b5a21": 238
+      }
+   },
+   "warp_output/tests/behaviour/contracts/constants/simpleImmutable__WARP_CONTRACT__WARP.json": {
+      "steps": 368,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 15,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1776.6962890625 KB",
+      "function_steps": {
+         "getUintValue_55ec6354": 155,
+         "getIntValue_828909bd": 91,
+         "addUintValue_68c64ce1": 283,
+         "addIntValue_f56a8511": 161
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/signedIdentity__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "715.3486328125 KB",
+      "function_steps": {
+         "implicit_22960a82": 158,
+         "explicit_60dc6897": 158
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/signedNarrowing__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "650.0166015625 KB",
+      "function_steps": {
+         "explicit_760d7908": 190
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/signedWidening__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "893.8759765625 KB",
+      "function_steps": {
+         "implicit_04416e99": 164,
+         "explicit_fbe0d800": 164
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/memoryArraysToStorage__WARP_CONTRACT__WARP.json": {
+      "steps": 62,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "23818.3486328125 KB",
+      "function_steps": {
+         "tryX1_b4080c87": 7273,
+         "tryX2_8c30ec20": 5145,
+         "tryY1_9fba73b7": 3347,
+         "tryY2_17849785": 2951,
+         "tryZ1_826ec71a": 7755,
+         "tryZ2_23d4b86e": 1794,
+         "tryXX1_48fcb2ed": 28488,
+         "tryXX2_5dee5acf": 22763,
+         "tryXX3_960c8a34": 29690,
+         "tryXX4_6c798421": 27369,
+         "tryYY1_2d6a909a": 9329,
+         "tryYY2_e86f8a20": 8552,
+         "tryYYY_c7dc829f": 8851,
+         "tryXY1_db747b61": 12761,
+         "tryYX1_380f1fc5": 26596
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/unsignedIdentity__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "715.681640625 KB",
+      "function_steps": {
+         "implicit_e4e1ba7e": 158,
+         "explicit_ffbac276": 158
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/unsignedNarrowing__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "650.2431640625 KB",
+      "function_steps": {
+         "explicit_97fa9def": 190
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/unsignedWidening__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "665.529296875 KB",
+      "function_steps": {
+         "implicit_ce20eee6": 103,
+         "explicit_9b3e382f": 103
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignWideningItoUchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "572.2451171875 KB",
+      "function_steps": {
+         "widthsignWitou_ee3785b9": 88
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignnarrowingItoUchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "559.1923828125 KB",
+      "function_steps": {
+         "widthsignNitou_da16af37": 85
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignwideningUtoIchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "572.2451171875 KB",
+      "function_steps": {
+         "widthsignWutoi_4e0d202b": 88
+      }
+   },
+   "warp_output/tests/behaviour/contracts/conversions/widthsignnarrowingUtoIchange__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "559.19140625 KB",
+      "function_steps": {
+         "widthsignNutoi_047fc441": 85
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__calldata__to__storage/dynamic__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4143.7119140625 KB",
+      "function_steps": {
+         "setX_970bb554": 1636,
+         "getXFull_6b7da7d1": 909,
+         "getX_5197c7aa": 960,
+         "setY_9d38ec33": 2041,
+         "getYFull_6567b7dd": 1204,
+         "getY_0b7f1665": 1131
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__calldata__to__storage/static__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2149.732421875 KB",
+      "function_steps": {
+         "setX_287a5dfe": 684,
+         "getX_5197c7aa": 1706
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__calldata__to__storage/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 2017,
+      "builtin_instances": {
+         "pedersen_builtin": 8,
+         "range_check_builtin": 109,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "6039.2548828125 KB",
+      "function_steps": {
+         "setS_367fcfa8": 362,
+         "getS_e93314ab": 305,
+         "setF_2bb0b326": 3092,
+         "getF_0c204dbc": 1156,
+         "getD_1a14ff7a": 563,
+         "setE_c61edca9": 6830,
+         "getE_b1cb267b": 2214
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__memory__to__calldata/dynArray__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "8043.0439453125 KB",
+      "function_steps": {
+         "returnFelt_4473dfa8": 2467,
+         "returnUint256_7de9540f": 2795,
+         "returnStruct_c22fd45e": 3845,
+         "returnNestedStruct_a64cf0b9": 5783,
+         "returnMultipleFeltDynArray_47520e07": 5354,
+         "returnDynArrayAsMemberAccess_3b130e38": 2405,
+         "returnDynArrayAsIndexAccess_0b3fb120": 4618,
+         "returnDynArrayFromDynArray_e5a77f2a": 6286,
+         "returnDynArrayFromFunctionCall_12f3b437": 2475
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__memory__to__storage/dynamic__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 8897,
+      "builtin_instances": {
+         "pedersen_builtin": 117,
+         "range_check_builtin": 431,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "5454.607421875 KB",
+      "function_steps": {
+         "getLengths_800bd5c8": 170,
+         "arr8_3dfe0e62": 354,
+         "arr256_14797107": 422,
+         "fillWithValues_bd1693b0": 11956,
+         "assign8_0217bdb4": 1777,
+         "assign256_4f7c9a5c": 5888
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__memory__to__storage/dynamic__arrays__2d__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "5882.681640625 KB",
+      "function_steps": {
+         "setArr8_105b1cf6": 13710,
+         "arr8_34b2705a": 688,
+         "getArr8_371116f5": 1056
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__memory__to__storage/struct__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2694.025390625 KB",
+      "function_steps": {
+         "getStructs_934d71fd": 456,
+         "copySimpleStruct_77a8b950": 650,
+         "copyNestedStruct_ae53c428": 1261,
+         "copyInnerStruct_2f7cd835": 654
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__calldata/dynamic__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2818.1220703125 KB",
+      "function_steps": {
+         "pushToX_7e4085f1": 514,
+         "getX_5197c7aa": 718,
+         "pushToY_d543bf1f": 607,
+         "getY_0b7f1665": 938
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__calldata/static__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1366.3994140625 KB",
+      "function_steps": {
+         "setX_287a5dfe": 684,
+         "getX_5197c7aa": 448
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__calldata/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1336.5673828125 KB",
+      "function_steps": {
+         "setS_367fcfa8": 362,
+         "getS_e93314ab": 237
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__memory/dynamic__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 1346,
+      "builtin_instances": {
+         "pedersen_builtin": 26,
+         "range_check_builtin": 48,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "6429.986328125 KB",
+      "function_steps": {
+         "copySimpleArrayLength_46912b24": 2892,
+         "copySimpleArrayValues_1c945e4b": 4272,
+         "testNestedArray_ef77bf5c": 19341
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__memory/static__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 6009,
+      "builtin_instances": {
+         "pedersen_builtin": 29,
+         "range_check_builtin": 429,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "12135.8134765625 KB",
+      "function_steps": {
+         "getX_5197c7aa": 993,
+         "getY_0b7f1665": 3764,
+         "getW_4bbb1112": 1118,
+         "getZ_2f135d0c": 2506,
+         "scalarInTuple_480d3383": 1423,
+         "getNested_06af5c99": 17087,
+         "getNestedLarge_2a530126": 30247
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__memory/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4897.59765625 KB",
+      "function_steps": {
+         "setS_0ac75408": 988,
+         "getS_e93314ab": 856,
+         "setP_fdcd6807": 2833,
+         "getP_5fa96654": 3458
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__storage/array__conversions__WARP_CONTRACT__WARP.json": {
+      "steps": 62,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "20736.5625 KB",
+      "function_steps": {
+         "setStatic_c8ea5326": 1294,
+         "copyStaticToDynamic_9b042447": 4629,
+         "setStaticDeep_c1cc4990": 2776,
+         "copyStaticToDynamicDeep_c5f0d794": 11125,
+         "copyStaticToDynamicPush_ee510ca8": 27593,
+         "copyStaticDifferentSize_f8bd2e23": 3158,
+         "copyStaticDifferentSizeComplex_d4925b31": 8721,
+         "copyStaticStaticToStaticDynamic_875afdc4": 10817,
+         "copyStaticStaticToDynamicStatic_436b15bb": 6770,
+         "scalingUint_3b6ead17": 5379,
+         "scalingInt_0dcdc525": 2541,
+         "identity_2c159a1a": 9778
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__storage/dynamic__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 62,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4936.7548828125 KB",
+      "function_steps": {
+         "setArr1_2e1a2622": 4652,
+         "copy_60726abb": 2805,
+         "getArr1_a168614d": 1419,
+         "getArr2_c60d4528": 1413
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__storage/scalars__WARP_CONTRACT__WARP.json": {
+      "steps": 40,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1669.9765625 KB",
+      "function_steps": {
+         "getValues_19eb4a90": 231,
+         "set8_e6ed7385": 132,
+         "copy8To256_73674552": 240,
+         "set256_96403e21": 230,
+         "copy256To8_8c15ba96": 235
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__storage/static__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 40,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2919.2861328125 KB",
+      "function_steps": {
+         "setArr1_f2c8541e": 2057,
+         "copy_60726abb": 612,
+         "getArr1_a168614d": 1898,
+         "getArr2_c60d4528": 1898
+      }
+   },
+   "warp_output/tests/behaviour/contracts/copy__storage__to__storage/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 40,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2053.5615234375 KB",
+      "function_steps": {
+         "getStruct1_50f3fdbe": 387,
+         "getStruct2_0a501a74": 385,
+         "setStruct1_99f2eddf": 536,
+         "copyFull_a2bd1e48": 634,
+         "copyInner_89526f08": 274
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/this__methods__call__WARP_CONTRACT__A.json": {
+      "steps": 494,
+      "builtin_instances": {
+         "pedersen_builtin": 5,
+         "range_check_builtin": 23,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 2,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2845.984375 KB",
+      "function_steps": {
+         "execute_add_ba886d51": 1775
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/simple__WARP_CONTRACT__A.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "833.8896484375 KB",
+      "function_steps": {
+         "f_26121ff0": 310
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/simple__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "630.1630859375 KB",
+      "function_steps": {
+         "f_fc68521a": 456
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/public__vars__WARP_CONTRACT__A.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "834.98046875 KB",
+      "function_steps": {
+         "f_26121ff0": 310
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/public__vars__WARP_CONTRACT__B.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1064.517578125 KB",
+      "function_steps": {
+         "setA_f95a0ad2": 170
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/public__vars__WARP_CONTRACT__C.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1643.384765625 KB",
+      "function_steps": {
+         "setB_57be73c5": 523,
+         "foo_c2985578": 553,
+         "f_fc68521a": 456
+      }
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/dynArrays__WARP_CONTRACT__ArrayProvider.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2452.9921875 KB"
+   },
+   "warp_output/tests/behaviour/contracts/cross__contract__calls/dynArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3381.4462890625 KB",
+      "function_steps": {
+         "receiveArr_1ed248b7": 2322,
+         "receiveMultiple_41545a3b": 9291
+      }
+   },
+   "warp_output/tests/behaviour/contracts/Dai/dai__WARP_CONTRACT__Dai.json": {
+      "steps": 462,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 15,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "6074.224609375 KB",
+      "function_steps": {
+         "mint_40c10f19": 1120,
+         "getBalance_f8b2cb4f": 318,
+         "transfer_a9059cbb": 1351,
+         "approve_095ea7b3": 943,
+         "getAllowance_0af4187d": 547,
+         "transferFrom_23b872dd": 2044,
+         "increaseAllowance_39509351": 1044,
+         "decreaseAllowance_a457c2d7": 1064
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/address__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1752.0107421875 KB",
+      "function_steps": {
+         "f_26121ff0": 1543
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/array__static__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2208.904296875 KB",
+      "function_steps": {
+         "set_1ab06ee5": 685,
+         "clearAt_41faf609": 598,
+         "get_9507d39a": 610,
+         "clear_52efea6e": 504,
+         "getLength_be1c766b": 26
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/array__dynamic__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2315.5439453125 KB",
+      "function_steps": {
+         "initialize_8129fc1c": 1367,
+         "clearAt_41faf609": 354,
+         "get_9507d39a": 354,
+         "getLength_be1c766b": 94,
+         "clear_52efea6e": 777
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/boolean__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "895.775390625 KB",
+      "function_steps": {
+         "boolean_89a47ad8": 34,
+         "flag_890eba68": 88,
+         "deleteFlag_28cbf934": 84
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/enum__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1237.474609375 KB",
+      "function_steps": {
+         "set_24b8ba5f": 129,
+         "reset_d826f88f": 84,
+         "get_6d4ce63c": 88
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/int__WARP_CONTRACT__WARP.json": {
+      "steps": 197,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1527.4208984375 KB",
+      "function_steps": {
+         "totalSupply_18160ddd": 154,
+         "reset_d826f88f": 142,
+         "addValue_5b9af12b": 533
+      }
+   },
+   "warp_output/tests/behaviour/contracts/delete/struct__WARP_CONTRACT__WARP.json": {
+      "steps": 1461,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 80,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3024.857421875 KB",
+      "function_steps": {
+         "setRadius_c9899b4c": 237,
+         "setPoint_4b5bdd8e": 457,
+         "getRadius_96ace1bb": 162,
+         "getPoint_5bea9faa": 314,
+         "deleteCircle_36eeba6d": 393,
+         "deletePoint_81d6776c": 268,
+         "deleteRadius_37fdd48a": 150
+      }
+   },
+   "warp_output/tests/behaviour/contracts/ElementaryTypeNames/example__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1846.658203125 KB",
+      "function_steps": {
+         "ArrayFunc_a2636d67": 1317
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enums/singleEnum__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1443.1826171875 KB",
+      "function_steps": {
+         "get_6d4ce63c": 88,
+         "set_24b8ba5f": 136,
+         "callSetInternally_2e962240": 136,
+         "cancel_ea8a1af0": 84,
+         "setWithContractName_7edecc7d": 84
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enums/singleEnum7__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1443.5849609375 KB",
+      "function_steps": {
+         "get_6d4ce63c": 88,
+         "set_0abbf073": 136,
+         "callSetInternally_d03684e4": 136,
+         "cancel_ea8a1af0": 84,
+         "setWithContractName_7edecc7d": 84
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enums/doubleEnum__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1114.6708984375 KB",
+      "function_steps": {
+         "a_0dbe671f": 88,
+         "getTopEnum_c42bef9a": 88,
+         "setB_d1f4ba82": 230
+      }
+   },
+   "warp_output/tests/behaviour/contracts/enumtoint/enumtointconversion__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "293.0869140625 KB",
+      "function_steps": {
+         "test_f8a8fd6d": 57
+      }
+   },
+   "warp_output/tests/behaviour/contracts/ERC20/ERC20__WARP_CONTRACT__WARP.json": {
+      "steps": 222,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3083.2880859375 KB",
+      "function_steps": {
+         "mint_40c10f19": 762,
+         "balanceOf_70a08231": 316,
+         "transferFrom_23b872dd": 1353,
+         "totalSupply_18160ddd": 157,
+         "decimals_313ce567": 25,
+         "transfer_a9059cbb": 1270
+      }
+   },
+   "warp_output/tests/behaviour/contracts/error__handling/revert__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "632.8623046875 KB",
+      "function_steps": {
+         "couldFail_37ef9365": 80
+      }
+   },
+   "warp_output/tests/behaviour/contracts/error__handling/assert__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "314.4404296875 KB",
+      "function_steps": {
+         "willPass_c15ff1c7": 23
+      }
+   },
+   "warp_output/tests/behaviour/contracts/error__handling/require__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "239.9921875 KB",
+      "function_steps": {
+         "willPass_c15ff1c7": 17
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/assignments__as__rvalues__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1244.927734375 KB",
+      "function_steps": {
+         "addingLocalAssignments_8c9195e6": 156,
+         "addingStorageAssignments_7db46e62": 327
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/ineffectual__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "553.1611328125 KB",
+      "function_steps": {
+         "test_f1820bdc": 144
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/literals__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1247.193359375 KB",
+      "function_steps": {
+         "unsignedNarrow_08f9b4a0": 31,
+         "signedNarrow_dc82714c": 33,
+         "unsignedWide_e56590cb": 167,
+         "signedWide_51fdaa07": 332
+      }
+   },
+   "warp_output/tests/behaviour/contracts/expressions/tupleEdgeCases__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "667.7666015625 KB",
+      "function_steps": {
+         "f_b3de648b": 184
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__function__inputs/dynamic__array__return__index__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "5568.52734375 KB",
+      "function_steps": {
+         "dArrayCallDataExternal_d2b38a13": 2187,
+         "dArrayExternal_0df5243c": 2210,
+         "dArrayPublic_f5f3e207": 1621,
+         "dArrayMultipleInputsExternal_aae070a5": 2778,
+         "dArrayMultipleInputsPublic_b04f103e": 2778,
+         "dArray256External_3df0572f": 1801,
+         "dArray256MultipleInputs_5cde4342": 4974
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__function__inputs/dynarray__array__conversion__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3048.2041015625 KB",
+      "function_steps": {
+         "inAndOutLength_f19b7f15": 3732,
+         "inAndOut_0d705ca7": 4580
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__function__inputs/struct__return__member__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2094.357421875 KB",
+      "function_steps": {
+         "testReturnMember_ffc57ec1": 525,
+         "testMultipleStructsMembers_0b23cb95": 1014,
+         "testMultipleStructsPublicFunctionMember_2b19247c": 1014
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__function__inputs/struct__return__struct__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1624.9970703125 KB",
+      "function_steps": {
+         "testReturnStruct_91d3c161": 557,
+         "testReturnStructPublic_4466f7c8": 557
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__function__inputs/static__array__return__index__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3882.7724609375 KB",
+      "function_steps": {
+         "testIntExternal_acb58862": 1017,
+         "testIntPublic_75816e8d": 1017,
+         "testStructExternal_2cc228a3": 2813,
+         "testStructPublic_cd2aaeb9": 2324,
+         "testMultiplePublic_bcf2a17d": 3305
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/address__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "497.5361328125 KB",
+      "function_steps": {
+         "addressTest_ac59c960": 110
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/dynArray__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "807.9677734375 KB",
+      "function_steps": {
+         "elemInt_b62d632c": 239,
+         "elemStruct_a8a95a70": 465
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/int__WARP_CONTRACT__WARP.json": {
+      "steps": 107,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1776.767578125 KB",
+      "function_steps": {
+         "testInt8_daa572d3": 70,
+         "testUint32_44bcce7b": 185,
+         "testInt248_45a325f6": 111,
+         "testInt256_24c97c60": 114
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/enum__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1190.689453125 KB",
+      "function_steps": {
+         "externalFunction_fe2b8e60": 200
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/staticArray__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "998.6962890625 KB",
+      "function_steps": {
+         "elemInt_8a9e30ef": 250,
+         "elemStruct_53b6e2f7": 448
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/struct__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "878.212890625 KB",
+      "function_steps": {
+         "memberInts_6d879db2": 161,
+         "memberStructs_ad169c68": 212,
+         "memberStaticArray_a259c249": 213
+      }
+   },
+   "warp_output/tests/behaviour/contracts/external__input__checks/bool__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "906.1982421875 KB",
+      "function_steps": {
+         "externalFunction_c5d04cb2": 165
+      }
+   },
+   "warp_output/tests/behaviour/contracts/fallback/simple__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1025.7294921875 KB",
+      "function_steps": {
+         "x_0c55699c": 154,
+         "unexistent": 345
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/localVariables__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "408.6591796875 KB",
+      "function_steps": {
+         "ifNoElse_2c2f8f4a": 41,
+         "ifWithElse_220e619b": 41
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/returns__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "494.919921875 KB",
+      "function_steps": {
+         "ifNoElse_2c2f8f4a": 40,
+         "ifWithElse_220e619b": 35,
+         "unreachableCode_0d583609": 35
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/nesting__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1299.5830078125 KB",
+      "function_steps": {
+         "nestedIfs_170d0b8d": 60,
+         "uncheckedBlock_0bd5f3d6": 59,
+         "loops_11a7d14c": 516
+      }
+   },
+   "warp_output/tests/behaviour/contracts/if/noBlocks__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "263.1552734375 KB",
+      "function_steps": {
+         "test_7442b287": 44
+      }
+   },
+   "warp_output/tests/behaviour/contracts/imports/importto__WARP_CONTRACT__WARP.json": {
+      "steps": 21,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1318.328125 KB",
+      "function_steps": {
+         "checkImports_faa217d8": 879
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/abstractContract__WARP_CONTRACT__C.json": {
+      "steps": 274,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 10,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1432.259765625 KB",
+      "function_steps": {
+         "f_b3de648b": 293
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/constructors__WARP_CONTRACT__C.json": {
+      "steps": 1231,
+      "builtin_instances": {
+         "pedersen_builtin": 14,
+         "range_check_builtin": 60,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1610.912109375 KB",
+      "function_steps": {
+         "a_0dbe671f": 164,
+         "b_4df7e3d0": 164,
+         "c_c3da42b8": 154,
+         "d_8a054ac2": 160
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/modifiedConstructor__WARP_CONTRACT__A.json": {
+      "steps": 350,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 14,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1336.0166015625 KB",
+      "function_steps": {
+         "a_0dbe671f": 154
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/modifiedConstructor__WARP_CONTRACT__B.json": {
+      "steps": 224,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 8,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1402.4609375 KB",
+      "function_steps": {
+         "a_0dbe671f": 160
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/constructors/order__of__eval__WARP_CONTRACT__X.json": {
+      "steps": 2292,
+      "builtin_instances": {
+         "pedersen_builtin": 40,
+         "range_check_builtin": 92,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1812.220703125 KB",
+      "function_steps": {
+         "g_e2179b8e": 1212
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/base__WARP_CONTRACT__Base.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "493.7138671875 KB",
+      "function_steps": {
+         "g_ab088fbd": 69
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/mid__WARP_CONTRACT__Mid.json": {
+      "steps": 23,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "530.68359375 KB",
+      "function_steps": {
+         "g_ab088fbd": 113
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/derived__WARP_CONTRACT__Derived.json": {
+      "steps": 26,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "706.4990234375 KB",
+      "function_steps": {
+         "f_3120d434": 170
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/functions/functionOverriding__WARP_CONTRACT__C.json": {
+      "steps": 26,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "395.51171875 KB",
+      "function_steps": {
+         "f_26121ff0": 56,
+         "g_e2179b8e": 60
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/modifiers/callBaseModifier__WARP_CONTRACT__B.json": {
+      "steps": 23,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "893.4560546875 KB",
+      "function_steps": {
+         "f_b3de648b": 218,
+         "g_e420264a": 218
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/modifiers/modifierInheritance__WARP_CONTRACT__D.json": {
+      "steps": 289,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 12,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2263.4970703125 KB",
+      "function_steps": {
+         "withdraw_2e1a7d4d": 530,
+         "lock_f83d08ba": 91,
+         "clear_52efea6e": 218
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/modifiers/modifierOverriding__WARP_CONTRACT__C.json": {
+      "steps": 374,
+      "builtin_instances": {
+         "pedersen_builtin": 4,
+         "range_check_builtin": 18,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1876.935546875 KB",
+      "function_steps": {
+         "withdraw_2e1a7d4d": 1164
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/structs/derived__WARP_CONTRACT__WARP.json": {
+      "steps": 48,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2431.255859375 KB",
+      "function_steps": {
+         "identity_406cda44": 557,
+         "swap_5b6a85ef": 555,
+         "set_d39c558f": 739
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/super__calls/order__WARP_CONTRACT__Final.json": {
+      "steps": 219,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1055.35546875 KB",
+      "function_steps": {
+         "f_26121ff0": 316
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/super__calls/super__in__constructor__WARP_CONTRACT__D.json": {
+      "steps": 439,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 18,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 6,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1105.3583984375 KB",
+      "function_steps": {
+         "f_26121ff0": 155
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/super__calls/super__in__modifier__WARP_CONTRACT__Final.json": {
+      "steps": 219,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1652.80078125 KB",
+      "function_steps": {
+         "f_b3de648b": 590
+      }
+   },
+   "warp_output/tests/behaviour/contracts/inheritance/variables/derived__WARP_CONTRACT__Derived.json": {
+      "steps": 210,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1686.412109375 KB",
+      "function_steps": {
+         "f_26121ff0": 1498
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/using__for__WARP_CONTRACT__WARP.json": {
+      "steps": 20,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "862.8017578125 KB",
+      "function_steps": {
+         "libFunction_12ad2a54": 81
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/importLibs__WARP_CONTRACT__WARP.json": {
+      "steps": 20,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "851.609375 KB",
+      "function_steps": {
+         "addSub_adf76c75": 216
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/LibInLib__WARP_CONTRACT__WARP.json": {
+      "steps": 21,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1906.060546875 KB",
+      "function_steps": {
+         "mulDiv_5a0380b7": 1275
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/freeFunctionsLib/direct__and__indirect__WARP_CONTRACT__WARP.json": {
+      "steps": 20,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "834.5361328125 KB",
+      "function_steps": {
+         "freeFuncLib_c75716e4": 224
+      }
+   },
+   "warp_output/tests/behaviour/contracts/libraries/freeFunctionsLib/sameName__WARP_CONTRACT__WARP.json": {
+      "steps": 20,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "265.625 KB",
+      "function_steps": {
+         "freeFuncLib_5d4db1d1": 50
+      }
+   },
+   "warp_output/tests/behaviour/contracts/loops/loops__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3916.2841796875 KB",
+      "function_steps": {
+         "forLoop_02bd3a24": 534,
+         "whileLoop_77e2fa47": 1176,
+         "breaks_58fd01f5": 749,
+         "continues_b01b0790": 682,
+         "doWhile_dfdc411b": 303,
+         "doWhile_continue_83b7c827": 189,
+         "doWhile_continue_2_c4452b5d": 387,
+         "doWhile_return_e68772fc": 337,
+         "doWhile_break_51eecee9": 529
+      }
+   },
+   "warp_output/tests/behaviour/contracts/mangled__identifiers/free__function__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "281.3671875 KB",
+      "function_steps": {
+         "f_26121ff0": 28,
+         "s_86b714e2": 24
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/addition__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2756.9443359375 KB",
+      "function_steps": {
+         "addition8safe_51d08b2e": 157,
+         "addition8unsafe_fca5f016": 129,
+         "addition120safe_7822aa68": 157,
+         "addition120unsafe_6edb696d": 129,
+         "addition256safe_7ba171f6": 237,
+         "addition256unsafe_2cd786b0": 236,
+         "addition8signedsafe_9f412a1b": 134,
+         "addition8signedunsafe_4ade4b40": 129,
+         "addition120signedsafe_b9331a80": 134,
+         "addition120signedunsafe_837c1dec": 129,
+         "addition256signedsafe_83df7ad3": 279,
+         "addition256signedunsafe_204a1c56": 236
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/bitwise__and__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1885.9345703125 KB",
+      "function_steps": {
+         "bitwise_and8safe_f3af3c51": 129,
+         "bitwise_and8signedsafe_59c0d8c6": 129,
+         "bitwise_and8unsafe_b393fd69": 129,
+         "bitwise_and8signedunsafe_56221833": 129,
+         "bitwise_and256safe_bd264c73": 238,
+         "bitwise_and256signedsafe_cdaa2461": 238,
+         "bitwise_and256unsafe_37fc8d45": 238,
+         "bitwise_and256signedunsafe_c3edc60a": 238
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/bitwise__or__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1881.12109375 KB",
+      "function_steps": {
+         "bitwise_or8safe_dd4b8983": 129,
+         "bitwise_or8signedsafe_e37a1866": 129,
+         "bitwise_or8unsafe_4245a6f3": 129,
+         "bitwise_or8signedunsafe_fa96d573": 129,
+         "bitwise_or256safe_fcaa8d7e": 238,
+         "bitwise_or256signedsafe_02ca6298": 238,
+         "bitwise_or256unsafe_79a31b2d": 238,
+         "bitwise_or256signedunsafe_a8689cb4": 238
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/decrement__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "968.69140625 KB",
+      "function_steps": {
+         "preDecrementStatement_56cc76b9": 113,
+         "postDecrementStatement_036a34f9": 157,
+         "preDecrementExpression_0a07210e": 115,
+         "postDecrementExpression_8babf49f": 159
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/division__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4040.9599609375 KB",
+      "function_steps": {
+         "division8safe_8ad821c7": 465,
+         "division8signedsafe_69d80b6a": 601,
+         "division8unsafe_ee2f5083": 467,
+         "division8signedunsafe_8d2b6d6a": 601,
+         "division256safe_e04de2db": 491,
+         "division256signedsafe_7fb445ae": 598,
+         "division256unsafe_68088274": 491,
+         "division256signedunsafe_661794e5": 598
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/remainder__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2848.1513671875 KB",
+      "function_steps": {
+         "remainder8safe_605c8a2b": 465,
+         "remainder8signedsafe_7b99112d": 749,
+         "remainder8unsafe_ba3b16f5": 465,
+         "remainder8signedunsafe_7f99977b": 599,
+         "remainder256safe_ae421f4d": 491,
+         "remainder256signedsafe_a9832a7d": 581,
+         "remainder256unsafe_4734c619": 490,
+         "remainder256signedunsafe_e20e449b": 581
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/eq__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1616.2314453125 KB",
+      "function_steps": {
+         "eq8safe_ef464e03": 119,
+         "eq8signedsafe_88733624": 119,
+         "eq8unsafe_747ed054": 119,
+         "eq8signedunsafe_8e4f9a2e": 119,
+         "eq256safe_2f2d48f4": 217,
+         "eq256signedsafe_950a119d": 216,
+         "eq256unsafe_8f28b800": 213,
+         "eq256signedunsafe_744753d8": 217
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/exp__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3999.5341796875 KB",
+      "function_steps": {
+         "exp8safe_cf143ff3": 128,
+         "exp8signedsafe_793ce14c": 1537,
+         "exp8unsafe_48b3291e": 128,
+         "exp8signedunsafe_61a47aa9": 314,
+         "exp256safe_edc88afa": 214,
+         "exp256signedsafe_1eb4ff24": 215,
+         "exp256unsafe_d6df2447": 1168,
+         "exp256signedunsafe_768a1428": 214
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/ge__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2045.4228515625 KB",
+      "function_steps": {
+         "ge8safe_ce3d0829": 198,
+         "ge8signedsafe_e64d4940": 152,
+         "ge8unsafe_a86c658c": 154,
+         "ge8signedunsafe_ba02ec5b": 233,
+         "ge256safe_35efd994": 231,
+         "ge256signedsafe_74015666": 298,
+         "ge256unsafe_96709ad0": 231,
+         "ge256signedunsafe_71151b09": 301
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/gt__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2111.4658203125 KB",
+      "function_steps": {
+         "gt8safe_0e6eee57": 200,
+         "gt8signedsafe_2c5dce83": 160,
+         "gt8unsafe_1da46939": 156,
+         "gt8signedunsafe_9563b5a0": 241,
+         "gt256safe_f0775247": 251,
+         "gt256signedsafe_42c5c439": 291,
+         "gt256unsafe_d76ca67f": 247,
+         "gt256signedunsafe_9b173a15": 291
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/increment__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "968.69140625 KB",
+      "function_steps": {
+         "preIncrementStatement_235262c5": 113,
+         "postIncrementStatement_c9ff34bc": 157,
+         "preIncrementExpression_5b1dc72c": 115,
+         "postIncrementExpression_92ad3463": 159
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/le__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2072.48046875 KB",
+      "function_steps": {
+         "le8safe_bae1aacd": 154,
+         "le8signedsafe_7fe565e3": 146,
+         "le8unsafe_172e759d": 198,
+         "le8signedunsafe_224c569e": 183,
+         "le256safe_74e7cc80": 250,
+         "le256signedsafe_2b1b3fb9": 301,
+         "le256unsafe_65ab0ff0": 246,
+         "le256signedunsafe_9a288100": 301
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/lt__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2025.7353515625 KB",
+      "function_steps": {
+         "lt8safe_53bf4f55": 156,
+         "lt8signedsafe_643018ec": 154,
+         "lt8unsafe_05ae5dad": 200,
+         "lt8signedunsafe_a58fbfd0": 191,
+         "lt256safe_843d0d10": 228,
+         "lt256signedsafe_02f3855f": 288,
+         "lt256unsafe_b36a748a": 228,
+         "lt256signedunsafe_677bb750": 291
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/multiplication__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4357.751953125 KB",
+      "function_steps": {
+         "multiplication8safe_857674a9": 157,
+         "multiplication8unsafe_b17dbe12": 129,
+         "multiplication128safe_c884628c": 441,
+         "multiplication128unsafe_bc104504": 409,
+         "multiplication256safe_cdc9cab6": 420,
+         "multiplication256unsafe_3a5d4db0": 418,
+         "multiplication8signedsafe_95cab15d": 228,
+         "multiplication8signedunsafe_c3909612": 164,
+         "multiplication128signedsafe_3c89d04c": 484,
+         "multiplication128signedunsafe_d3039390": 445,
+         "multiplication256signedsafe_ca9739d2": 496,
+         "multiplication256signedunsafe_e1895149": 561
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/neq__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1627.685546875 KB",
+      "function_steps": {
+         "neq8safe_6bafad96": 119,
+         "neq8signedsafe_885e6835": 119,
+         "neq8unsafe_0bc551be": 119,
+         "neq8signedunsafe_ea2c68e0": 119,
+         "neq256safe_95246b96": 220,
+         "neq256signedsafe_603093c1": 219,
+         "neq256unsafe_927eea5d": 216,
+         "neq256signedunsafe_3fec6393": 220
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/shl__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4185.1728515625 KB",
+      "function_steps": {
+         "shl8safe_57d5effe": 240,
+         "shl8unsafe_91ea6d03": 240,
+         "shl8signedsafe_c9a62939": 240,
+         "shl8signedunsafe_73d18387": 240,
+         "shl8_256safe_76a973e5": 290,
+         "shl8_256unsafe_3f6cbecc": 290,
+         "shl8_256signedsafe_72d43a27": 290,
+         "shl8_256signedunsafe_20613f72": 290,
+         "shl256safe_3c6dec6f": 496,
+         "shl256unsafe_b7094fcb": 496,
+         "shl256signedsafe_603ced0d": 496,
+         "shl256signedunsafe_7ac55842": 496,
+         "shl256_256safe_631ad69e": 515,
+         "shl256_256unsafe_c0f8eb56": 515,
+         "shl256_256signedsafe_359a4d9e": 515,
+         "shl256_256signedunsafe_07cf8d7d": 515,
+         "shl_positive_literal_b8b5abec": 25,
+         "shl_negative_literal_00954e00": 25
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/shr__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3994.9404296875 KB",
+      "function_steps": {
+         "shr8safe_8eac3acd": 241,
+         "shr8unsafe_b2577fa1": 241,
+         "shr8signedsafe_693adc6c": 241,
+         "shr8signedunsafe_474e2cc8": 241,
+         "shr8_256safe_58de3196": 291,
+         "shr8_256unsafe_f2e5b2f0": 291,
+         "shr8_256signedsafe_dd2b9d22": 291,
+         "shr8_256signedunsafe_3b5c14aa": 291,
+         "shr256safe_56a0c7ef": 223,
+         "shr256unsafe_ec58812d": 223,
+         "shr256signedsafe_e9af93fe": 223,
+         "shr256signedunsafe_25062bf3": 223,
+         "shr256_256safe_a5c0c3bd": 268,
+         "shr256_256unsafe_8d1fcaa1": 268,
+         "shr256_256signedsafe_51705267": 268,
+         "shr256_256signedunsafe_ec8c2056": 268,
+         "shr_positive_literal_1b90c9ef": 25,
+         "shr_negative_literal_dd057e22": 25
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/subtraction__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3494.546875 KB",
+      "function_steps": {
+         "subtraction8safe_5a5a04c8": 157,
+         "subtraction8unsafe_e8014c91": 130,
+         "subtraction8signedsafe_5cac3108": 175,
+         "subtraction8signedunsafe_dd51fe78": 155,
+         "subtraction200safe_91515067": 239,
+         "subtraction200unsafe_30a29a51": 212,
+         "subtraction256safe_74c6efa8": 261,
+         "subtraction256unsafe_53ed744e": 236,
+         "subtraction256signedsafe_e585d7c4": 317,
+         "subtraction256signedunsafe_a812bd03": 288
+      }
+   },
+   "warp_output/tests/behaviour/contracts/maths/xor__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2491.6455078125 KB",
+      "function_steps": {
+         "xor8safe_29a4fb33": 129,
+         "xor8signedsafe_80071221": 129,
+         "xor8unsafe_aa97ecaa": 129,
+         "xor8signedunsafe_469941f7": 129,
+         "xor256safe_fc0bae41": 238,
+         "xor256signedsafe_7cef8417": 238,
+         "xor256unsafe_959ed381": 238,
+         "xor256signedunsafe_e4747c9f": 238
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/delete__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "5127.83203125 KB",
+      "function_steps": {
+         "deleteFelt_1d5c38ab": 24,
+         "deleteUint_d915334b": 57,
+         "deleteS_436e432b": 739,
+         "deleteDArray_7dc1f6cf": 1606,
+         "copyDeleteDArray_e9d38b65": 2154,
+         "deleteCnotArray_ab4c1b50": 4068,
+         "deleteSArray_013409ad": 3301,
+         "delete2dArray_5a30c6b5": 7072
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/dynamicArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2818.3056640625 KB",
+      "function_steps": {
+         "uint8new_67561b14": 1680,
+         "uint8write_98645804": 2198,
+         "uint256new_f57e4421": 1790,
+         "uint256write_aab4be8f": 2368
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/nested__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "6600.7080078125 KB",
+      "function_steps": {
+         "setAndGet_09eac3b5": 934,
+         "memberAssign_60da6d56": 9554,
+         "identifierAssign_e3afa93f": 17157
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/nestedIndexAccessWrite__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3107.84765625 KB",
+      "function_steps": {
+         "passDataToInnerFunction_a591bd89": 4047
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/staticArrays__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3155.6162109375 KB",
+      "function_steps": {
+         "uint8default_c445ce50": 1254,
+         "uint8write_98645804": 1726,
+         "uint256default_d94b044f": 1398,
+         "uint256write_aab4be8f": 1930
+      }
+   },
+   "warp_output/tests/behaviour/contracts/memory/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2839.8681640625 KB",
+      "function_steps": {
+         "createDefault_8e65bdab": 524,
+         "createManual_426945b9": 654,
+         "writeMembers_99daeb20": 726,
+         "references_1fd1e9ee": 726,
+         "input_fd6bebd2": 937,
+         "output_a44e719c": 158
+      }
+   },
+   "warp_output/tests/behaviour/contracts/modifiers/modifier__WARP_CONTRACT__WARP.json": {
+      "steps": 198,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1646.1005859375 KB",
+      "function_steps": {
+         "f_b3de648b": 324
+      }
+   },
+   "warp_output/tests/behaviour/contracts/modifiers/modifierWithReturn__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "209.7109375 KB",
+      "function_steps": {
+         "returnFiveThroughModifiers_e0f11b88": 34
+      }
+   },
+   "warp_output/tests/behaviour/contracts/modifiers/multipleModifiers__WARP_CONTRACT__WARP.json": {
+      "steps": 266,
+      "builtin_instances": {
+         "pedersen_builtin": 3,
+         "range_check_builtin": 12,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1827.60546875 KB",
+      "function_steps": {
+         "openEvent_aee684a5": 86,
+         "donate_f14faf6f": 697,
+         "balance_b69ef8a8": 154,
+         "closeEvent_03dc5326": 242
+      }
+   },
+   "warp_output/tests/behaviour/contracts/precompiles/ecrecover__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "19862.69921875 KB",
+      "function_steps": {
+         "test_f8a8fd6d": 203286
+      }
+   },
+   "warp_output/tests/behaviour/contracts/precompiles/keccak256__WARP_CONTRACT__WARP.json": {
+      "steps": 18,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "20535.763671875 KB",
+      "function_steps": {
+         "testCalldataBytes_29f65fb9": 20125,
+         "testMemoryBytes_93d15770": 19620,
+         "testString_fb8f0f59": 19243
+      }
+   },
+   "warp_output/tests/behaviour/contracts/named__args/function__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1442.1142578125 KB",
+      "function_steps": {
+         "f_26121ff0": 499,
+         "k_b4f40c61": 158,
+         "v_7c2efcba": 154
+      }
+   },
+   "warp_output/tests/behaviour/contracts/named__args/constructor__WARP_CONTRACT__WARP.json": {
+      "steps": 2407,
+      "builtin_instances": {
+         "pedersen_builtin": 11,
+         "range_check_builtin": 133,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3515.775390625 KB",
+      "function_steps": {
+         "getData_3bc5de30": 2116
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__func__splitter/value__passing__WARP_CONTRACT__WARP.json": {
+      "steps": 106,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1094.107421875 KB",
+      "function_steps": {
+         "valuePassing_df0d23b2": 72,
+         "valuePassingMemberAccess_02151601": 74
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__state__vars/elementary__WARP_CONTRACT__WARP.json": {
+      "steps": 1017,
+      "builtin_instances": {
+         "pedersen_builtin": 11,
+         "range_check_builtin": 52,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 2,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1981.6796875 KB",
+      "function_steps": {
+         "a_0dbe671f": 155,
+         "b_4df7e3d0": 91,
+         "c_c3da42b8": 91,
+         "d_8a054ac2": 159,
+         "e_ffae15ba": 155,
+         "f_26121ff0": 91
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__state__vars/arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 7170,
+      "builtin_instances": {
+         "pedersen_builtin": 81,
+         "range_check_builtin": 503,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4940.873046875 KB",
+      "function_steps": {
+         "a_f0fdf834": 420,
+         "d_7f6b590c": 358,
+         "e_f37cdc8e": 354,
+         "y_6259e7e1": 608,
+         "w_11987aaf": 1506
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__state__vars/enums__WARP_CONTRACT__WARP.json": {
+      "steps": 449,
+      "builtin_instances": {
+         "pedersen_builtin": 6,
+         "range_check_builtin": 18,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1170.201171875 KB",
+      "function_steps": {
+         "a_0dbe671f": 88,
+         "b_4df7e3d0": 88,
+         "c_c3da42b8": 90,
+         "d_8a054ac2": 90,
+         "f_26121ff0": 90
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__state__vars/mappings__WARP_CONTRACT__WARP.json": {
+      "steps": 2086,
+      "builtin_instances": {
+         "pedersen_builtin": 39,
+         "range_check_builtin": 78,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 1,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3105.0146484375 KB",
+      "function_steps": {
+         "a_f0fdf834": 327,
+         "b_cd580ff3": 259,
+         "d_5ce8bda8": 240,
+         "e_459425cb": 490
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__state__vars/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 1670,
+      "builtin_instances": {
+         "pedersen_builtin": 20,
+         "range_check_builtin": 87,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 1,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3056.0732421875 KB",
+      "function_steps": {
+         "a_0dbe671f": 309,
+         "c_c3da42b8": 309,
+         "d_8a054ac2": 1153
+      }
+   },
+   "warp_output/tests/behaviour/contracts/public__state__vars/misc__WARP_CONTRACT__WARP.json": {
+      "steps": 5209,
+      "builtin_instances": {
+         "pedersen_builtin": 44,
+         "range_check_builtin": 271,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 1,
+         "ec_op_builtin": 0
+      },
+      "json_size": "4855.806640625 KB",
+      "function_steps": {
+         "a_f0fdf834": 582,
+         "d_7f6b590c": 1420
+      }
+   },
+   "warp_output/tests/behaviour/contracts/returns/returnInserter__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1505.650390625 KB",
+      "function_steps": {
+         "default_returnInsert_3c8caca8": 156,
+         "condition_returnInsert_871e0b77": 140,
+         "conditions_no_returnInsert_9a23c79e": 77,
+         "returnInsert_with_require_8d4a34ad": 198,
+         "ifFunctionaliser_returnInserter_5289e0cd": 87
+      }
+   },
+   "warp_output/tests/behaviour/contracts/returns/returnInitializer__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "671.7216796875 KB",
+      "function_steps": {
+         "withReturn_b7427c86": 113,
+         "insertReturn_a8b82784": 71
+      }
+   },
+   "warp_output/tests/behaviour/contracts/static__array__index__access/static__array__index__access__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "7351.5224609375 KB",
+      "function_steps": {
+         "t0_9bb1773f": 1071,
+         "t1_206ce677": 1928,
+         "t2_55502259": 2890,
+         "t3_5c01d925": 2309,
+         "t4_018252c1": 2080,
+         "t5_802792bc": 2080,
+         "t6_3361244c": 2049,
+         "n0_09df2c07": 1349,
+         "n1_dad362fb": 2143,
+         "n2_a2e06700": 6161,
+         "n3_5c6fc0ae": 5824
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/delete/value__dyn__array__WARP_CONTRACT__WARP.json": {
+      "steps": 3021,
+      "builtin_instances": {
+         "pedersen_builtin": 57,
+         "range_check_builtin": 120,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3886.65234375 KB",
+      "function_steps": {
+         "tryDeleteX_a8412568": 2040,
+         "tryDeleteY_2fe999b4": 4048
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/delete/ref__dyn__array__WARP_CONTRACT__WARP.json": {
+      "steps": 2077,
+      "builtin_instances": {
+         "pedersen_builtin": 22,
+         "range_check_builtin": 95,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2856.671875 KB",
+      "function_steps": {
+         "tryDeleteZ_6b870999": 1286
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/delete/struct__WARP_CONTRACT__WARP.json": {
+      "steps": 1531,
+      "builtin_instances": {
+         "pedersen_builtin": 7,
+         "range_check_builtin": 81,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "5669.3759765625 KB",
+      "function_steps": {
+         "deleteValueStruct_c5b0efd7": 956,
+         "setDynArrayStructVal_ab9893fa": 1219,
+         "deleteDynArrayStruct_584be604": 1699,
+         "getDynArrayStruct_ff7823d1": 1122,
+         "setMapStructVal_56553dab": 547,
+         "deleteMapStruct_d948996b": 100,
+         "getMapStruct_92ca124e": 282
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/delete/map__2d__dyn__array__WARP_CONTRACT__WARP.json": {
+      "steps": 62,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3424.3759765625 KB",
+      "function_steps": {
+         "n1_254d2ba4": 2349,
+         "map_b8dda9c7": 1173,
+         "d_8a054ac2": 853,
+         "n2_4aaa831d": 943
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/delete/static__array__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3321.736328125 KB",
+      "function_steps": {
+         "setSmall_bd1872bb": 894,
+         "getSmall_b6aba245": 860,
+         "deleteSmall_cde70a0a": 1449,
+         "setBig_3b181ce4": 888,
+         "getBig_3b8f5350": 856,
+         "deleteBig_7704ebfb": 4028
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/dynamic__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2652.7919921875 KB",
+      "function_steps": {
+         "length_1f7b6d32": 94,
+         "pushNoArg_b098e94e": 471,
+         "get_9507d39a": 354,
+         "set_f419df72": 398,
+         "pop_a4ece52c": 400
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/mappings__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "8019.693359375 KB",
+      "function_steps": {
+         "nestedMappings_5502282b": 980,
+         "nonFeltKey_896f3f2b": 979,
+         "structValue_78f2d7c0": 1391,
+         "staticArrayValue_ef2c8dbd": 3387,
+         "staticArrayValueWithConversion_20a1e063": 3246,
+         "dynamicArrayValue_ce7441e2": 6024
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/nesting__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2159.04296875 KB",
+      "function_steps": {
+         "nesting_fbc31f6c": 1909
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/passingArguments__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2422.7412109375 KB",
+      "function_steps": {
+         "passArray_a1a4ee1a": 964,
+         "passInt_6e0cd624": 1103,
+         "passMap_cc696114": 435,
+         "passStruct_95ca12fe": 173
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/returns__WARP_CONTRACT__WARP.json": {
+      "steps": 128,
+      "builtin_instances": {
+         "pedersen_builtin": 1,
+         "range_check_builtin": 3,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3916.669921875 KB",
+      "function_steps": {
+         "ints_a6cbf9f3": 88,
+         "arrays_3b1facaf": 1978,
+         "mappings_563fce0b": 974,
+         "structs_4efb0e00": 597
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/scalars__WARP_CONTRACT__WARP.json": {
+      "steps": 193,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 6,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 1,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1424.8251953125 KB",
+      "function_steps": {
+         "getValues_19eb4a90": 162,
+         "readValues_d66afcf9": 162,
+         "setValues_45d266a6": 240
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/static__arrays__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1913.0205078125 KB",
+      "function_steps": {
+         "length_1f7b6d32": 26,
+         "get_9507d39a": 542,
+         "set_f419df72": 586
+      }
+   },
+   "warp_output/tests/behaviour/contracts/storage/structs__WARP_CONTRACT__WARP.json": {
+      "steps": 39,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2138.4716796875 KB",
+      "function_steps": {
+         "getMember_0274c094": 158,
+         "setMember_526d5b91": 497,
+         "assign_4c081138": 646
+      }
+   },
+   "warp_output/tests/behaviour/contracts/stringLiteral/stringLiteralMemory__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3799.6806640625 KB",
+      "function_steps": {
+         "plainLiteral_58688f53": 15,
+         "returnLiteral_9de8088f": 918,
+         "varDecl_e20f9e15": 918,
+         "literalAssignmentToMemoryFromParams_bd2b9c6a": 1730,
+         "tupleRet_68e1cc75": 1367,
+         "funcCallWithArg_a6ac72fe": 922,
+         "nestedFuncCallWithArg_3e013f6a": 926
+      }
+   },
+   "warp_output/tests/behaviour/contracts/stringLiteral/stringLiteralStorage__WARP_CONTRACT__WARP.json": {
+      "steps": 61,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "2987.4169921875 KB",
+      "function_steps": {
+         "literalAssignment_f0254dae": 3211,
+         "memoryToStorageAssignment_bdf2febb": 2707
+      }
+   },
+   "warp_output/tests/behaviour/contracts/this__keyword/thisKeyword__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "406.01171875 KB",
+      "function_steps": {
+         "simpleThis_9bc799d0": 31,
+         "getAddress_38cc4831": 31,
+         "getAddressAssignment_09d12849": 31
+      }
+   },
+   "warp_output/tests/behaviour/contracts/tuples/calldata__tuple__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "611.408203125 KB",
+      "function_steps": {
+         "tupleSplit_d91b02e8": 243
+      }
+   },
+   "warp_output/tests/behaviour/contracts/type__information/informationEnum__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "274.6533203125 KB",
+      "function_steps": {
+         "dMin_f056c852": 24,
+         "dMax_bba81b1c": 24
+      }
+   },
+   "warp_output/tests/behaviour/contracts/type__information/informationContract__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1669.5498046875 KB",
+      "function_steps": {
+         "getName_17d7de7c": 918,
+         "getId_5d1ca631": 24
+      }
+   },
+   "warp_output/tests/behaviour/contracts/using__for/simple__WARP_CONTRACT__WARP.json": {
+      "steps": 198,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "1883.435546875 KB",
+      "function_steps": {
+         "callOnIdentifier_c208904a": 508,
+         "callOnFunctionCall_4f02b78e": 304,
+         "namedArgChecker_590f98f6": 233
+      }
+   },
+   "warp_output/tests/behaviour/contracts/using__for/library__WARP_CONTRACT__WARP.json": {
+      "steps": 202,
+      "builtin_instances": {
+         "pedersen_builtin": 2,
+         "range_check_builtin": 9,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "3130.248046875 KB",
+      "function_steps": {
+         "callOnIdentifierAdd_e9f550ad": 508,
+         "callOnIdentifierMul_74d57f24": 880,
+         "callLibFunction_05719c4d": 263
+      }
+   },
+   "warp_output/tests/behaviour/contracts/using__for/private__WARP_CONTRACT__WARP.json": {
+      "steps": 20,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "957.3623046875 KB",
+      "function_steps": {
+         "callOnIdentifier_f017136e": 427
+      }
+   },
+   "warp_output/tests/behaviour/contracts/example__WARP_CONTRACT__WARP.json": {
+      "steps": 17,
+      "builtin_instances": {
+         "pedersen_builtin": 0,
+         "range_check_builtin": 0,
+         "output_builtin": 0,
+         "ecdsa_builtin": 0,
+         "bitwise_builtin": 0,
+         "ec_op_builtin": 0
+      },
+      "json_size": "350.7294921875 KB",
+      "function_steps": {
+         "test_f8a8fd6d": 15,
+         "returnTest_57ecc147": 57
+      }
+   }
+}
