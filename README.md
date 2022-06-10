@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 7db27617750a14850e6de98a7217ba16ec732206
+commit: 46f8be4bdf486455d1e775628bc6b4239a7a5531
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -2252,7 +2252,7 @@ commit: 7db27617750a14850e6de98a7217ba16ec732206
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1318.328125 KB |
+| json_size | 1194.732421875 KB |
 | steps | 21 |
 
 | Builtin | Instances |
@@ -2621,7 +2621,7 @@ commit: 7db27617750a14850e6de98a7217ba16ec732206
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 862.8017578125 KB |
+| json_size | 364.693359375 KB |
 | steps | 20 |
 
 | Builtin | Instances |
@@ -2641,7 +2641,7 @@ commit: 7db27617750a14850e6de98a7217ba16ec732206
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 851.609375 KB |
+| json_size | 615.5654296875 KB |
 | steps | 20 |
 
 | Builtin | Instances |
@@ -2661,7 +2661,7 @@ commit: 7db27617750a14850e6de98a7217ba16ec732206
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1906.060546875 KB |
+| json_size | 1394.0048828125 KB |
 | steps | 21 |
 
 | Builtin | Instances |
@@ -2681,7 +2681,7 @@ commit: 7db27617750a14850e6de98a7217ba16ec732206
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 834.5361328125 KB |
+| json_size | 625.49609375 KB |
 | steps | 20 |
 
 | Builtin | Instances |
@@ -4276,7 +4276,7 @@ commit: 7db27617750a14850e6de98a7217ba16ec732206
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3130.248046875 KB |
+| json_size | 2466.47265625 KB |
 | steps | 202 |
 
 | Builtin | Instances |
