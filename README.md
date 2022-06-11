@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 807b6da56ac146007007ca6c101dba62f55d6d31
+commit: 589b27cbf74c6cc32fa56faf7d6e11fa73d43f58
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -4113,6 +4113,46 @@ commit: 807b6da56ac146007007ca6c101dba62f55d6d31
 | passInt_6e0cd624 | 1103 |
 | passMap_cc696114 | 435 |
 | passStruct_95ca12fe | 173 |
+
+## pushPopLoops__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3164.1455078125 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| test_indices_f086f0d0 | 6436 |
+
+## pushPopLoopsAddress__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2082.6162109375 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| test_indices_f086f0d0 | 3063 |
 
 ## returns__WARP_CONTRACT__WARP.json:
 
