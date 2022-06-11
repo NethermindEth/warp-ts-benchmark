@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
+commit: a15bf36ac5244f09362f59f6605fa2deadf8cb67
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -109,6 +109,26 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 | ----------- | ----------- |
 | test256_758b94ed | 143 |
 | test_f1820bdc | 69 |
+
+## tupleAssignments__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2939.7353515625 KB |
+| steps | 197 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 9 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| gapAndOrder_1aaa2263 | 3963 |
 
 ## and__WARP_CONTRACT__WARP.json:
 
@@ -546,7 +566,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1776.6962890625 KB |
+| json_size | 1833.1767578125 KB |
 | steps | 368 |
 
 | Builtin | Instances |
@@ -560,7 +580,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Function | Steps |
 | ----------- | ----------- |
-| addIntValue_f56a8511 | 161 |
+| addIntValue_f56a8511 | 194 |
 | addUintValue_68c64ce1 | 283 |
 | getIntValue_828909bd | 91 |
 | getUintValue_55ec6354 | 155 |
@@ -2083,7 +2103,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1776.767578125 KB |
+| json_size | 1833.248046875 KB |
 | steps | 107 |
 
 | Builtin | Instances |
@@ -2813,7 +2833,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2756.9443359375 KB |
+| json_size | 2870.1376953125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2828,7 +2848,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 | Function | Steps |
 | ----------- | ----------- |
 | addition120safe_7822aa68 | 157 |
-| addition120signedsafe_b9331a80 | 134 |
+| addition120signedsafe_b9331a80 | 167 |
 | addition120signedunsafe_837c1dec | 129 |
 | addition120unsafe_6edb696d | 129 |
 | addition256safe_7ba171f6 | 237 |
@@ -2836,7 +2856,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 | addition256signedunsafe_204a1c56 | 236 |
 | addition256unsafe_2cd786b0 | 236 |
 | addition8safe_51d08b2e | 157 |
-| addition8signedsafe_9f412a1b | 134 |
+| addition8signedsafe_9f412a1b | 167 |
 | addition8signedunsafe_4ade4b40 | 129 |
 | addition8unsafe_fca5f016 | 129 |
 
@@ -2921,7 +2941,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4040.9599609375 KB |
+| json_size | 4102.7509765625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3002,7 +3022,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3999.5341796875 KB |
+| json_size | 4133.83984375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3160,7 +3180,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4357.751953125 KB |
+| json_size | 4419.5771484375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3179,7 +3199,7 @@ commit: b066987e6a6e7d06aa94b57cded62d8af28796f4
 | multiplication128signedunsafe_d3039390 | 445 |
 | multiplication128unsafe_bc104504 | 409 |
 | multiplication256safe_cdc9cab6 | 420 |
-| multiplication256signedsafe_ca9739d2 | 496 |
+| multiplication256signedsafe_ca9739d2 | 486 |
 | multiplication256signedunsafe_e1895149 | 561 |
 | multiplication256unsafe_3a5d4db0 | 418 |
 | multiplication8safe_857674a9 | 157 |
