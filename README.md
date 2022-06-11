@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: a15bf36ac5244f09362f59f6605fa2deadf8cb67
+commit: 807b6da56ac146007007ca6c101dba62f55d6d31
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -3022,7 +3022,7 @@ commit: a15bf36ac5244f09362f59f6605fa2deadf8cb67
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4133.83984375 KB |
+| json_size | 4506.5615234375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3036,14 +3036,15 @@ commit: a15bf36ac5244f09362f59f6605fa2deadf8cb67
 
 | Function | Steps |
 | ----------- | ----------- |
-| exp256safe_edc88afa | 214 |
-| exp256signedsafe_1eb4ff24 | 215 |
+| exp256safe_edc88afa | 218 |
+| exp256signedsafe_1eb4ff24 | 214 |
 | exp256signedunsafe_768a1428 | 214 |
-| exp256unsafe_d6df2447 | 1168 |
-| exp8safe_cf143ff3 | 128 |
-| exp8signedsafe_793ce14c | 1537 |
-| exp8signedunsafe_61a47aa9 | 314 |
-| exp8unsafe_48b3291e | 128 |
+| exp256unsafe_d6df2447 | 1170 |
+| exp8safe_cf143ff3 | 124 |
+| exp8signedsafe_793ce14c | 141 |
+| exp8signedunsafe_61a47aa9 | 316 |
+| exp8unsafe_48b3291e | 129 |
+| exp_minus_256_3161a604 | 14809 |
 
 ## ge__WARP_CONTRACT__WARP.json:
 
