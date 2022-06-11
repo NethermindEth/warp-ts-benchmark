@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 8370069192b79394723d0c8c51c9e892a4284aa2
+commit: 0fd934f20f3614b8f0c8a0b2067c66823f40fe3f
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -377,7 +377,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 988.3095703125 KB |
+| json_size | 990.3505859375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1240,7 +1240,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2848.9443359375 KB |
+| json_size | 2852.2431640625 KB |
 | steps | 494 |
 
 | Builtin | Instances |
@@ -1280,7 +1280,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 630.1630859375 KB |
+| json_size | 633.8154296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1320,7 +1320,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1064.517578125 KB |
+| json_size | 1064.7333984375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1340,7 +1340,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1643.384765625 KB |
+| json_size | 1653.77734375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1362,7 +1362,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2117.857421875 KB |
+| json_size | 2124.99609375 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1382,7 +1382,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2106.701171875 KB |
+| json_size | 2110.486328125 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1420,7 +1420,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3381.4462890625 KB |
+| json_size | 3401.5341796875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1436,6 +1436,26 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 | ----------- | ----------- |
 | receiveArr_1ed248b7 | 2322 |
 | receiveMultiple_41545a3b | 9291 |
+
+## external__base__this__call__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2910.9384765625 KB |
+| steps | 23 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| externalCallSelfAsBase_5a08b33a | 3793 |
 
 ## dai__WARP_CONTRACT__Dai.json:
 
@@ -1648,7 +1668,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1446.0029296875 KB |
+| json_size | 1446.1611328125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1672,7 +1692,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1446.40625 KB |
+| json_size | 1446.564453125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2438,7 +2458,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 706.4990234375 KB |
+| json_size | 706.71484375 KB |
 | steps | 26 |
 
 | Builtin | Instances |
@@ -2624,7 +2644,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1686.412109375 KB |
+| json_size | 1686.6279296875 KB |
 | steps | 210 |
 
 | Builtin | Instances |
@@ -3615,7 +3635,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1096.095703125 KB |
+| json_size | 1096.21875 KB |
 | steps | 106 |
 
 | Builtin | Instances |
@@ -4193,7 +4213,7 @@ commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 408.2080078125 KB |
+| json_size | 408.33984375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
