@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 8a6396c124f519fce5715bc4ce5860db9dd7104d
+commit: 8370069192b79394723d0c8c51c9e892a4284aa2
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -873,7 +873,7 @@ commit: 8a6396c124f519fce5715bc4ce5860db9dd7104d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 28555.798828125 KB |
+| json_size | 30360.3212890625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -887,22 +887,23 @@ commit: 8a6396c124f519fce5715bc4ce5860db9dd7104d
 
 | Function | Steps |
 | ----------- | ----------- |
-| nestedDynamicStaticToDynamicStatic_69968c93 | 12858 |
-| nestedDynamicStaticToDynamic_03598821 | 30124 |
+| nestedDynamicStaticToDynamicStatic_69968c93 | 12877 |
+| nestedDynamicStaticToDynamic_03598821 | 30120 |
 | nestedDynamicToDynamic_bd9eed6a | 24799 |
 | nestedNestedStatic_426a10eb | 8851 |
-| nestedSmallerStaticToDynamic_b7c4754d | 33532 |
+| nestedSmallerStaticToDynamic_b7c4754d | 33811 |
 | nestedSmallerStaticToStatic_e5c57c7e | 14001 |
-| nestedStaticDynamicToDynamic_7337df99 | 28609 |
-| nestedStaticDynamicToStaticDynamic_5f3bbdee | 26921 |
-| nestedStaticToDynamic_e62071c5 | 28924 |
+| nestedStaticDynamicToDynamic_7337df99 | 28611 |
+| nestedStaticDynamicToStaticDynamic_5f3bbdee | 26911 |
+| nestedStaticToDynamic_e62071c5 | 28923 |
 | nestedStaticToStatic_a132ef0b | 9329 |
-| scalingDynamicCopy_f6417cfd | 9247 |
-| scalingIntDynamic_089a9452 | 7844 |
+| scalingDynamicCopy_f6417cfd | 9243 |
+| scalingIntDynamic_089a9452 | 7841 |
 | scalingIntStatic_0f1d08a5 | 1794 |
 | scalingStaticCopyShorterToLarger_2173dd65 | 2951 |
 | scalingStaticCopy_2d59f64b | 3347 |
-| scalingStaticToDynamicCopy_e60752ae | 6044 |
+| scalingStaticToDynamicCopy_e60752ae | 6041 |
+| wideningBytes_323bb0ee | 3641 |
 
 ## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
@@ -1114,7 +1115,7 @@ commit: 8a6396c124f519fce5715bc4ce5860db9dd7104d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 21444.05078125 KB |
+| json_size | 21447.21484375 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1133,7 +1134,7 @@ commit: 8a6396c124f519fce5715bc4ce5860db9dd7104d
 | copyStaticStaticToDynamicStatic_436b15bb | 6770 |
 | copyStaticStaticToStaticDynamic_875afdc4 | 10817 |
 | copyStaticToDynamicDeep_c5f0d794 | 11125 |
-| copyStaticToDynamicPush_ee510ca8 | 28021 |
+| copyStaticToDynamicPush_ee510ca8 | 28030 |
 | copyStaticToDynamic_9b042447 | 4629 |
 | identity_2c159a1a | 9778 |
 | scalingInt_0dcdc525 | 2646 |
