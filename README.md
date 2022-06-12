@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: e3c4ab6452ea60c7d30419762e1dd446c9f0be24
+commit: fc24a6fd59295a7e8bfe124251ba830594ed2c0d
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -3888,7 +3888,7 @@ commit: e3c4ab6452ea60c7d30419762e1dd446c9f0be24
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 7293.2724609375 KB |
+| json_size | 7315.5205078125 KB |
 | steps | 1372 |
 
 | Builtin | Instances |
@@ -3905,7 +3905,7 @@ commit: e3c4ab6452ea60c7d30419762e1dd446c9f0be24
 | a_0dbe671f | 309 |
 | c_c3da42b8 | 309 |
 | d_8a054ac2 | 1153 |
-| getStructIgnoringDynArray_a1d50725 | 8597 |
+| getStructIgnoringDynArray_a1d50725 | 10891 |
 
 ## misc__WARP_CONTRACT__WARP.json:
 
@@ -4161,6 +4161,27 @@ commit: e3c4ab6452ea60c7d30419762e1dd446c9f0be24
 | pop_a4ece52c | 400 |
 | pushNoArg_b098e94e | 471 |
 | set_f419df72 | 398 |
+
+## dynamicInStructs__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 4369.8310546875 KB |
+| steps | 39 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| s_86b714e2 | 2605 |
+| set_64371977 | 2301 |
 
 ## mappings__WARP_CONTRACT__WARP.json:
 
