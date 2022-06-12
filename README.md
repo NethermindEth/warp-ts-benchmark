@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 3d7e068a2c095d604f4fbaf148930b868012a47c
+commit: bb2ce2cad9098cd71239cf9fd0c7f51364fc3426
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -788,6 +788,99 @@ commit: 3d7e068a2c095d604f4fbaf148930b868012a47c
 | Function | Steps |
 | ----------- | ----------- |
 | widthsignNutoi_047fc441 | 85 |
+
+## singleLayer__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 7238.1240234375 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| testa0_271c567d | 2730 |
+| testa1_2f03218c | 2284 |
+| testa2_9b141882 | 3390 |
+| testa3_ac193350 | 2097 |
+| testa4_ed8c2fe0 | 2742 |
+| testa5_74e9531d | 3384 |
+| testa6_6c2d3752 | 3730 |
+| testa7_1aa98d28 | 3728 |
+
+## doubleLayer__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 28164.572265625 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| testb0_0e088d58 | 6061 |
+| testb10_1a6b7f02 | 5688 |
+| testb11_7646eb5a | 5698 |
+| testb12_83e299e9 | 7340 |
+| testb13_f78527ba | 5649 |
+| testb14_8c3b3644 | 6563 |
+| testb15_ef9ada85 | 6549 |
+| testb16_e3330f81 | 8189 |
+| testb1_8ab17b42 | 7414 |
+| testb2_835784c9 | 7048 |
+| testb3_c7c1cff8 | 11255 |
+| testb4_7c9ab2d3 | 7748 |
+| testb5_c49ee251 | 6900 |
+| testb6_462c0f08 | 8257 |
+| testb7_7064b02f | 8031 |
+| testb8_63fc63fe | 8780 |
+| testb9_47a76b09 | 8599 |
+
+## tripleLayer__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 20935.5498046875 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| testc0_aba75ab2 | 4700 |
+| testc10_26a6c126 | 6772 |
+| testc1_9af6b50e | 18643 |
+| testc2_1ccf7e85 | 7293 |
+| testc3_b28e630a | 17115 |
+| testc4_3e0b3204 | 8583 |
+| testc5_fcd9d436 | 7304 |
+| testc6_5f159467 | 18741 |
+| testc7_7b2c67a7 | 7304 |
+| testc8_2b821b17 | 17083 |
+| testc9_99c7f5a2 | 8699 |
 
 ## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
