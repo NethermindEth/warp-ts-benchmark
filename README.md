@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
+commit: 0fc0720f3f8bbd2ba18e5d657af9c395fc64f3e4
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -26,8 +26,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1892.4775390625 KB |
-| steps | 61 |
+| json_size | 1959.412109375 KB |
+| steps | 62 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -40,7 +40,7 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| dynStorageArrayLen_5e5bc419 | 599 |
+| dynStorageArrayLen_5e5bc419 | 612 |
 
 ## calldataArray__WARP_CONTRACT__WARP.json:
 
@@ -174,8 +174,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3980.05859375 KB |
-| steps | 1497 |
+| json_size | 4073.861328125 KB |
+| steps | 1498 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -188,11 +188,11 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| getC_b1e052d8 | 529 |
-| getMemoryBytesArrayTwo_f971f67f | 3053 |
-| getMemoryBytesArray_f6f44be6 | 1585 |
-| getStorageBytesArray_93dcfae9 | 456 |
-| getStorageBytesDynArray_b50c6864 | 713 |
+| getC_b1e052d8 | 530 |
+| getMemoryBytesArrayTwo_f971f67f | 3054 |
+| getMemoryBytesArray_f6f44be6 | 1586 |
+| getStorageBytesArray_93dcfae9 | 457 |
+| getStorageBytesDynArray_b50c6864 | 726 |
 
 ## byteStructs__WARP_CONTRACT__WARP.json:
 
@@ -417,7 +417,7 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 10627.470703125 KB |
+| json_size | 10679.892578125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -436,7 +436,7 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 | c2_ae196100 | 10136 |
 | c3_d2f026d5 | 13074 |
 | c4_d58722cc | 10139 |
-| c5_95d099ae | 10945 |
+| c5_95d099ae | 10957 |
 | d1_e31789d4 | 2816 |
 | d2_318fe832 | 23921 |
 | d3_c72151b4 | 15830 |
@@ -1093,8 +1093,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2818.1220703125 KB |
-| steps | 61 |
+| json_size | 2887.546875 KB |
+| steps | 62 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -1107,10 +1107,10 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| getX_5197c7aa | 718 |
-| getY_0b7f1665 | 938 |
-| pushToX_7e4085f1 | 514 |
-| pushToY_d543bf1f | 607 |
+| getX_5197c7aa | 719 |
+| getY_0b7f1665 | 939 |
+| pushToX_7e4085f1 | 518 |
+| pushToY_d543bf1f | 611 |
 
 ## static__arrays__WARP_CONTRACT__WARP.json:
 
@@ -1158,8 +1158,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 7109.037109375 KB |
-| steps | 1346 |
+| json_size | 7190.72265625 KB |
+| steps | 1356 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -1172,10 +1172,10 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| copySimpleArrayLength_46912b24 | 2892 |
-| copySimpleArrayToIdentifier_a897f9de | 3643 |
-| copySimpleArrayValues_1c945e4b | 4179 |
-| testNestedArray_ef77bf5c | 19546 |
+| copySimpleArrayLength_46912b24 | 2893 |
+| copySimpleArrayToIdentifier_a897f9de | 3644 |
+| copySimpleArrayValues_1c945e4b | 4180 |
+| testNestedArray_ef77bf5c | 19547 |
 
 ## static__arrays__WARP_CONTRACT__WARP.json:
 
@@ -1647,8 +1647,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2315.5439453125 KB |
-| steps | 61 |
+| json_size | 2372.642578125 KB |
+| steps | 62 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -1661,11 +1661,11 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| clearAt_41faf609 | 354 |
-| clear_52efea6e | 777 |
-| getLength_be1c766b | 94 |
-| get_9507d39a | 354 |
-| initialize_8129fc1c | 1367 |
+| clearAt_41faf609 | 355 |
+| clear_52efea6e | 778 |
+| getLength_be1c766b | 95 |
+| get_9507d39a | 355 |
+| initialize_8129fc1c | 1373 |
 
 ## boolean__WARP_CONTRACT__WARP.json:
 
@@ -2533,8 +2533,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1757.841796875 KB |
-| steps | 2166 |
+| json_size | 1814.8857421875 KB |
+| steps | 2181 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -2547,7 +2547,7 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| g_e2179b8e | 1212 |
+| g_e2179b8e | 1213 |
 
 ## base__WARP_CONTRACT__Base.json:
 
@@ -2964,6 +2964,60 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 | ----------- | ----------- |
 | f_26121ff0 | 28 |
 | s_86b714e2 | 24 |
+
+## stringKeyMapping__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 6367.775390625 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| cdString_7a869ef3 | 577 |
+| emptySlot_fc47b8d3 | 1126 |
+| memStringLiteral_32ada3ae | 1836 |
+| memStringVariable_2967c617 | 1590 |
+| nestedMapCalls_a78af2f7 | 7171 |
+| sameStringKey_d7fdc0be | 2250 |
+| storageString_adcfe684 | 2334 |
+| stringValueChange_16e8d614 | 2844 |
+
+## bytesKeyMapping__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 6360.119140625 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| bytesValueChange_954d525c | 2844 |
+| cdBytes_904e18fb | 577 |
+| emptySlot_fc47b8d3 | 1126 |
+| memBytesLiteral_3d50a013 | 1836 |
+| memBytesVariable_b766ba2b | 1590 |
+| nestedMapCalls_a78af2f7 | 7171 |
+| sameBytesKey_b52ffefd | 2250 |
+| storageBytes_4628894d | 2334 |
 
 ## addition__WARP_CONTRACT__WARP.json:
 
@@ -3838,8 +3892,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4674.82421875 KB |
-| steps | 6753 |
+| json_size | 4790.236328125 KB |
+| steps | 6767 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -3852,11 +3906,11 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| a_f0fdf834 | 420 |
-| d_7f6b590c | 358 |
-| e_f37cdc8e | 354 |
-| w_11987aaf | 1506 |
-| y_6259e7e1 | 608 |
+| a_f0fdf834 | 421 |
+| d_7f6b590c | 359 |
+| e_f37cdc8e | 355 |
+| w_11987aaf | 1507 |
+| y_6259e7e1 | 609 |
 
 ## enums__WARP_CONTRACT__WARP.json:
 
@@ -4048,8 +4102,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3663.580078125 KB |
-| steps | 2922 |
+| json_size | 3799.576171875 KB |
+| steps | 2931 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -4062,8 +4116,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| tryDeleteX_a8412568 | 1976 |
-| tryDeleteY_2fe999b4 | 3825 |
+| tryDeleteX_a8412568 | 1986 |
+| tryDeleteY_2fe999b4 | 3836 |
 
 ## ref__dyn__array__WARP_CONTRACT__WARP.json:
 
@@ -4089,8 +4143,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5649.35546875 KB |
-| steps | 1498 |
+| json_size | 5750.716796875 KB |
+| steps | 1499 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -4103,13 +4157,13 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| deleteDynArrayStruct_584be604 | 1699 |
-| deleteMapStruct_d948996b | 100 |
-| deleteValueStruct_c5b0efd7 | 956 |
-| getDynArrayStruct_ff7823d1 | 1122 |
-| getMapStruct_92ca124e | 282 |
-| setDynArrayStructVal_ab9893fa | 1219 |
-| setMapStructVal_56553dab | 547 |
+| deleteDynArrayStruct_584be604 | 1700 |
+| deleteMapStruct_d948996b | 101 |
+| deleteValueStruct_c5b0efd7 | 957 |
+| getDynArrayStruct_ff7823d1 | 1123 |
+| getMapStruct_92ca124e | 283 |
+| setDynArrayStructVal_ab9893fa | 1229 |
+| setMapStructVal_56553dab | 548 |
 
 ## map__2d__dyn__array__WARP_CONTRACT__WARP.json:
 
@@ -4138,8 +4192,8 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3321.736328125 KB |
-| steps | 39 |
+| json_size | 3426.599609375 KB |
+| steps | 40 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -4152,19 +4206,19 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| deleteBig_7704ebfb | 4028 |
-| deleteSmall_cde70a0a | 1449 |
-| getBig_3b8f5350 | 856 |
-| getSmall_b6aba245 | 860 |
-| setBig_3b181ce4 | 888 |
-| setSmall_bd1872bb | 894 |
+| deleteBig_7704ebfb | 4029 |
+| deleteSmall_cde70a0a | 1450 |
+| getBig_3b8f5350 | 857 |
+| getSmall_b6aba245 | 861 |
+| setBig_3b181ce4 | 896 |
+| setSmall_bd1872bb | 902 |
 
 ## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4864.9423828125 KB |
-| steps | 61 |
+| json_size | 4933.8349609375 KB |
+| steps | 62 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -4177,12 +4231,12 @@ commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 | Function | Steps |
 | ----------- | ----------- |
-| get_9507d39a | 356 |
-| length_1f7b6d32 | 94 |
-| pop_a4ece52c | 402 |
-| pushNoArg_b098e94e | 471 |
-| pushReturnDynArray_22b975b9 | 1543 |
-| set_f419df72 | 400 |
+| get_9507d39a | 357 |
+| length_1f7b6d32 | 95 |
+| pop_a4ece52c | 403 |
+| pushNoArg_b098e94e | 472 |
+| pushReturnDynArray_22b975b9 | 1544 |
+| set_f419df72 | 401 |
 
 ## dynamicInStructs__WARP_CONTRACT__WARP.json:
 
