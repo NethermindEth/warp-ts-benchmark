@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
+commit: 008a96af08e780d6314d9c43e5ba7130b8962dc5
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -986,7 +986,7 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 28264.78125 KB |
+| json_size | 28280.0029296875 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1004,7 +1004,7 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 | nestedDynamicStaticToDynamic_03598821 | 29903 |
 | nestedDynamicToDynamic_bd9eed6a | 24322 |
 | nestedNestedStatic_426a10eb | 8739 |
-| nestedSmallerStaticToDynamic_b7c4754d | 33594 |
+| nestedSmallerStaticToDynamic_b7c4754d | 33666 |
 | nestedSmallerStaticToStatic_e5c57c7e | 13928 |
 | nestedStaticDynamicToDynamic_7337df99 | 28230 |
 | nestedStaticDynamicToStaticDynamic_5f3bbdee | 26530 |
@@ -1230,7 +1230,7 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 21109.49609375 KB |
+| json_size | 21123.70703125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1249,7 +1249,7 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 | copyStaticStaticToDynamicStatic_436b15bb | 6514 |
 | copyStaticStaticToStaticDynamic_875afdc4 | 10755 |
 | copyStaticToDynamicDeep_c5f0d794 | 11063 |
-| copyStaticToDynamicPush_ee510ca8 | 27937 |
+| copyStaticToDynamicPush_ee510ca8 | 28007 |
 | copyStaticToDynamic_9b042447 | 4629 |
 | identity_2c159a1a | 9778 |
 | scalingInt_0dcdc525 | 2646 |
@@ -4095,7 +4095,7 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3342.1611328125 KB |
+| json_size | 3358.876953125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -4111,8 +4111,8 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 | ----------- | ----------- |
 | d_8a054ac2 | 853 |
 | map_b8dda9c7 | 1111 |
-| n1_254d2ba4 | 2287 |
-| n2_4aaa831d | 912 |
+| n1_254d2ba4 | 2357 |
+| n2_4aaa831d | 982 |
 
 ## static__array__WARP_CONTRACT__WARP.json:
 
@@ -4143,7 +4143,7 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2652.7919921875 KB |
+| json_size | 4864.9423828125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4157,11 +4157,12 @@ commit: 67b10bf5648a75d450bf868c9ae1d63c447a9c26
 
 | Function | Steps |
 | ----------- | ----------- |
-| get_9507d39a | 354 |
+| get_9507d39a | 356 |
 | length_1f7b6d32 | 94 |
-| pop_a4ece52c | 400 |
+| pop_a4ece52c | 402 |
 | pushNoArg_b098e94e | 471 |
-| set_f419df72 | 398 |
+| pushReturnDynArray_22b975b9 | 1543 |
+| set_f419df72 | 400 |
 
 ## dynamicInStructs__WARP_CONTRACT__WARP.json:
 
