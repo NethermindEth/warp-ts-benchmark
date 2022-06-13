@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: adcd13067a80610c4a5ea72ee7f40f2ca3fe0572
+commit: 1ddc5c246c9f3a7cbd22a17ecb65fd618fb86998
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -2038,6 +2038,26 @@ commit: adcd13067a80610c4a5ea72ee7f40f2ca3fe0572
 | Function | Steps |
 | ----------- | ----------- |
 | f_b3de648b | 119 |
+
+## tupleOfInlineArrays__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2060.662109375 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| g_e2179b8e | 2073 |
 
 ## dynamic__array__return__index__WARP_CONTRACT__WARP.json:
 
