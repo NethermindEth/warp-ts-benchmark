@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: b895d63e1511a67ee7c399bec07b3f285d493e4c
+commit: 963aa628010b8915c8edd9538b8d542b10fbc4b0
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -2390,65 +2390,6 @@ commit: b895d63e1511a67ee7c399bec07b3f285d493e4c
 | ----------- | ----------- |
 | unexistent | 311 |
 | x_0c55699c | 154 |
-
-## inheritance__WARP_CONTRACT__A.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1827.546875 KB |
-| steps | 256 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| sub_27ee58a6 | 427 |
-| unexistent | 541 |
-| x_0c55699c | 155 |
-
-## inheritance__WARP_CONTRACT__B.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1760.0546875 KB |
-| steps | 272 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| unexistent | 312 |
-| x_0c55699c | 161 |
-
-## inheritance__WARP_CONTRACT__C.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1918.275390625 KB |
-| steps | 272 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
 
 ## localVariables__WARP_CONTRACT__WARP.json:
 
