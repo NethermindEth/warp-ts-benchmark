@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: d2f828804034de99c78737b6809a2bb16fb5aec9
+commit: 7639a47d8147e4fcd4e109ce8a102c6a9f548403
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -788,6 +788,34 @@ commit: d2f828804034de99c78737b6809a2bb16fb5aec9
 | Function | Steps |
 | ----------- | ----------- |
 | widthsignNutoi_047fc441 | 85 |
+
+## singleLayerBytes__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 7101.1953125 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| testby0_34afb5da | 1696 |
+| testby1_8a65a320 | 2120 |
+| testby2_a5bdd0ad | 2018 |
+| testby3_503fc618 | 1747 |
+| testby4_9daddea2 | 2167 |
+| testby5_bd96f9cf | 2261 |
+| testby6_05d7c9f1 | 2975 |
+| testby7_85b33874 | 3381 |
+| testby8_f628d73c | 3497 |
 
 ## singleLayer__WARP_CONTRACT__WARP.json:
 
