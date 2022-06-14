@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 7e033a6e70fba507ffd1a5f5480106c20f4ccda6
+commit: d2f828804034de99c78737b6809a2bb16fb5aec9
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
@@ -4609,6 +4609,31 @@ commit: 7e033a6e70fba507ffd1a5f5480106c20f4ccda6
 | ----------- | ----------- |
 | getId_5d1ca631 | 24 |
 | getName_17d7de7c | 918 |
+
+## user__defined__value__types__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1328.953125 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| narrowSigned_b233be4d | 128 |
+| narrowUnsigned_61e023cc | 128 |
+| narrowWithUnwrap_761665b3 | 85 |
+| unsignedToSigned_301b7f13 | 70 |
+| widenNoWrap_006de2df | 102 |
+| widenWrap_084f4f7a | 70 |
 
 ## simple__WARP_CONTRACT__WARP.json:
 
