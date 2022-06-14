@@ -1,6 +1,26 @@
 # Warp-ts status
 
-commit: 47a06e64e839bbf76f8bba3bb826eaadcfacb4b5
+commit: 88e9d7549de3a76723e0dd150c7f1b1e807e072e
+
+## mappingInConstructor__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1362.7529296875 KB |
+| steps | 410 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 8 |
+| range_check_builtin | 12 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| map_b8dda9c7 | 326 |
 
 ## memoryArray__WARP_CONTRACT__WARP.json:
 
