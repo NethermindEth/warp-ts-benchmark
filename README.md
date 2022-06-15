@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
+commit: 6c4986c43f6566cc66efb905113ec830fa38a691
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -1887,6 +1887,27 @@ commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
 | ----------- | ----------- |
 | a_71ef8592 | 204527 |
 
+## boundCheck__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1289.6865234375 KB |
+| steps | 39 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| checkInt256_3b244789 | 287 |
+| checkInt8_d9446740 | 173 |
+
 ## singleEnum__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
@@ -1961,7 +1982,7 @@ commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 293.04296875 KB |
+| json_size | 507.8369140625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1975,7 +1996,7 @@ commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
 
 | Function | Steps |
 | ----------- | ----------- |
-| test_f8a8fd6d | 57 |
+| test_f8a8fd6d | 100 |
 
 ## ERC20__WARP_CONTRACT__WARP.json:
 
@@ -2450,6 +2471,107 @@ commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
 | ----------- | ----------- |
 | externalFunction_c5d04cb2 | 165 |
 
+## fallback__overriden__WARP_CONTRACT__A.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1831.078125 KB |
+| steps | 256 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 10 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| sub_27ee58a6 | 427 |
+| unexistent | 541 |
+| x_0c55699c | 155 |
+
+## fallback__overriden__WARP_CONTRACT__B.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1763.6796875 KB |
+| steps | 272 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 10 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| unexistent | 312 |
+| x_0c55699c | 161 |
+
+## fallback__overriden__WARP_CONTRACT__C.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1922.337890625 KB |
+| steps | 272 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 10 |
+
+## fallback__return__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1452.970703125 KB |
+| steps | 40 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| unexistent | 175 |
+| x_0c55699c | 155 |
+
+## inherited__WARP_CONTRACT__B.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 842.1474609375 KB |
+| steps | 48 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| getData_3bc5de30 | 160 |
+| unexistent | 144 |
+
 ## simple__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
@@ -2470,65 +2592,6 @@ commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
 | ----------- | ----------- |
 | unexistent | 311 |
 | x_0c55699c | 154 |
-
-## inheritance__WARP_CONTRACT__A.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1827.546875 KB |
-| steps | 256 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| sub_27ee58a6 | 427 |
-| unexistent | 541 |
-| x_0c55699c | 155 |
-
-## inheritance__WARP_CONTRACT__B.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1760.0546875 KB |
-| steps | 272 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| unexistent | 312 |
-| x_0c55699c | 161 |
-
-## inheritance__WARP_CONTRACT__C.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1918.275390625 KB |
-| steps | 272 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
 
 ## localVariables__WARP_CONTRACT__WARP.json:
 
