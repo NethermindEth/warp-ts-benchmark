@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 230502f527be7b8a2f5dc02f87ff85456584bb35
+commit: ab3fc540ddb35c80b8ae60dafb6fb043868257f4
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -2450,107 +2450,6 @@ commit: 230502f527be7b8a2f5dc02f87ff85456584bb35
 | ----------- | ----------- |
 | externalFunction_c5d04cb2 | 165 |
 
-## fallback__overriden__WARP_CONTRACT__A.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1831.078125 KB |
-| steps | 256 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| sub_27ee58a6 | 427 |
-| unexistent | 541 |
-| x_0c55699c | 155 |
-
-## fallback__overriden__WARP_CONTRACT__B.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1763.6796875 KB |
-| steps | 272 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| unexistent | 312 |
-| x_0c55699c | 161 |
-
-## fallback__overriden__WARP_CONTRACT__C.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1922.337890625 KB |
-| steps | 272 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 2 |
-| range_check_builtin | 10 |
-
-## fallback__return__WARP_CONTRACT__WARP.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1452.970703125 KB |
-| steps | 40 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 0 |
-| range_check_builtin | 0 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| unexistent | 175 |
-| x_0c55699c | 155 |
-
-## inherited__WARP_CONTRACT__B.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 842.1474609375 KB |
-| steps | 48 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-| bitwise_builtin | 0 |
-| ec_op_builtin | 0 |
-| ecdsa_builtin | 0 |
-| output_builtin | 0 |
-| pedersen_builtin | 0 |
-| range_check_builtin | 0 |
-
-| Function | Steps |
-| ----------- | ----------- |
-| getData_3bc5de30 | 160 |
-| unexistent | 144 |
-
 ## simple__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
@@ -2571,6 +2470,65 @@ commit: 230502f527be7b8a2f5dc02f87ff85456584bb35
 | ----------- | ----------- |
 | unexistent | 311 |
 | x_0c55699c | 154 |
+
+## inheritance__WARP_CONTRACT__A.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1827.546875 KB |
+| steps | 256 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 10 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| sub_27ee58a6 | 427 |
+| unexistent | 541 |
+| x_0c55699c | 155 |
+
+## inheritance__WARP_CONTRACT__B.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1760.0546875 KB |
+| steps | 272 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 10 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| unexistent | 312 |
+| x_0c55699c | 161 |
+
+## inheritance__WARP_CONTRACT__C.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1918.275390625 KB |
+| steps | 272 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 10 |
 
 ## localVariables__WARP_CONTRACT__WARP.json:
 
