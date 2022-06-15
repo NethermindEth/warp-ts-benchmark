@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: a7889d099d097e92848cf4878457ce54646c2170
+commit: 5e1a0230d483fde9595ba02808d6c2e0b77aa212
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -554,11 +554,34 @@ commit: a7889d099d097e92848cf4878457ce54646c2170
 | ----------- | ----------- |
 | move_valid_cbc690bd | 1351 |
 
+## constant__string__at__file__level__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2321.3134765625 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| f_26121ff0 | 831 |
+| g_e2179b8e | 831 |
+| h_b8c9d365 | 1005 |
+| i_e5aa3d58 | 32 |
+
 ## simpleConstants__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1621.3046875 KB |
+| json_size | 1621.056640625 KB |
 | steps | 106 |
 
 | Builtin | Instances |
@@ -583,7 +606,7 @@ commit: a7889d099d097e92848cf4878457ce54646c2170
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2805.0771484375 KB |
+| json_size | 2778.1650390625 KB |
 | steps | 548 |
 
 | Builtin | Instances |
@@ -1647,7 +1670,7 @@ commit: a7889d099d097e92848cf4878457ce54646c2170
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5988.0009765625 KB |
+| json_size | 5987.875 KB |
 | steps | 427 |
 
 | Builtin | Instances |
@@ -4779,7 +4802,7 @@ commit: a7889d099d097e92848cf4878457ce54646c2170
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3799.849609375 KB |
+| json_size | 3673.6337890625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
