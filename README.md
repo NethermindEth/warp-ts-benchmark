@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 4c9a472c4d2303c23a134107eca0d1f2560c86ef
+commit: a0b38fa152889eb7033994be12900e66316fc2be
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -975,6 +975,27 @@ commit: 4c9a472c4d2303c23a134107eca0d1f2560c86ef
 | testc7_7b2c67a7 | 7048 |
 | testc8_2b821b17 | 16827 |
 | testc9_99c7f5a2 | 8435 |
+
+## push__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2772.484375 KB |
+| steps | 62 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| arr_45d0695f | 757 |
+| passInt8ToInt256_7f555d25 | 1805 |
 
 ## dynamic__arrays__WARP_CONTRACT__WARP.json:
 
