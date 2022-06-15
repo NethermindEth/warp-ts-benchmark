@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 6c4986c43f6566cc66efb905113ec830fa38a691
+commit: 479deeb881f72d82137576f13dacc263327fe638
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -4927,6 +4927,26 @@ commit: 6c4986c43f6566cc66efb905113ec830fa38a691
 | indexAccess_5636494c | 15 |
 | memberAccess_53a8b254 | 15 |
 | simple_df201a46 | 15 |
+
+## overloading__WARP_CONTRACT__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 563.841796875 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ec_op_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| callOverloads_c3cb0893 | 127 |
 
 ## user__defined__value__types__WARP_CONTRACT__WARP.json:
 
