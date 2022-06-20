@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 46028149b35345c1e2caf0ede988e76e546581d2
+commit: eb3f74797024c7f9b77b6fed49159805851564c0
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -518,7 +518,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1671.421875 KB |
+| json_size | 1642.9365234375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -532,13 +532,13 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Function | Steps |
 | ----------- | ----------- |
-| f_2735acb7 | 512 |
+| f_2735acb7 | 500 |
 
 ## nested__and__or__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2459.9638671875 KB |
+| json_size | 2405.7470703125 KB |
 | steps | 385 |
 
 | Builtin | Instances |
@@ -552,7 +552,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Function | Steps |
 | ----------- | ----------- |
-| move_valid_cbc690bd | 1351 |
+| move_valid_cbc690bd | 1333 |
 
 ## constant__string__at__file__level__WARP_CONTRACT__WARP.json:
 
@@ -3158,7 +3158,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1362.791015625 KB |
+| json_size | 1362.626953125 KB |
 | steps | 21 |
 
 | Builtin | Instances |
@@ -3259,7 +3259,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3800.09765625 KB |
+| json_size | 3745.8486328125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3276,7 +3276,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 | breaks_58fd01f5 | 749 |
 | continues_b01b0790 | 682 |
 | doWhile_break_51eecee9 | 529 |
-| doWhile_continue_2_c4452b5d | 234 |
+| doWhile_continue_2_c4452b5d | 224 |
 | doWhile_continue_83b7c827 | 189 |
 | doWhile_dfdc411b | 303 |
 | doWhile_return_e68772fc | 337 |
@@ -3606,7 +3606,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2111.130859375 KB |
+| json_size | 2082.6455078125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3620,10 +3620,10 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Function | Steps |
 | ----------- | ----------- |
-| gt256safe_f0775247 | 251 |
+| gt256safe_f0775247 | 241 |
 | gt256signedsafe_42c5c439 | 291 |
 | gt256signedunsafe_9b173a15 | 291 |
-| gt256unsafe_d76ca67f | 247 |
+| gt256unsafe_d76ca67f | 238 |
 | gt8safe_0e6eee57 | 200 |
 | gt8signedsafe_2c5dce83 | 160 |
 | gt8signedunsafe_9563b5a0 | 241 |
@@ -4671,7 +4671,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3053.587890625 KB |
+| json_size | 3030.0576171875 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -4685,13 +4685,13 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Function | Steps |
 | ----------- | ----------- |
-| test_indices_f086f0d0 | 6188 |
+| test_indices_f086f0d0 | 6082 |
 
 ## pushPopLoopsAddress__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2082.1669921875 KB |
+| json_size | 2084.3720703125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4705,7 +4705,7 @@ commit: 46028149b35345c1e2caf0ede988e76e546581d2
 
 | Function | Steps |
 | ----------- | ----------- |
-| test_indices_f086f0d0 | 3063 |
+| test_indices_f086f0d0 | 2993 |
 
 ## returns__WARP_CONTRACT__WARP.json:
 
