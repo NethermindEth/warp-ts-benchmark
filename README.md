@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
+commit: 941108fe2a683c0b675d475bbee528e02726f99e
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -1898,8 +1898,8 @@ commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 19879.9697265625 KB |
-| steps | 18 |
+| json_size | 21407.548828125 KB |
+| steps | 165 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -1907,18 +1907,22 @@ commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
 | ec_op_builtin | 0 |
 | ecdsa_builtin | 0 |
 | output_builtin | 0 |
-| pedersen_builtin | 0 |
-| range_check_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 6 |
 
 | Function | Steps |
 | ----------- | ----------- |
 | f_26121ff0 | 77 |
+| g_e2179b8e | 123 |
+| h_b8c9d365 | 123 |
+| i_e5aa3d58 | 185 |
+| j_b582ec5f | 185 |
 
 ## ecrecover__abiV2__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 20266.90234375 KB |
+| json_size | 20543.552734375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1932,13 +1936,13 @@ commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
 
 | Function | Steps |
 | ----------- | ----------- |
-| a_71ef8592 | 204527 |
+| a_71ef8592 | 204630 |
 
 ## ecrecover__WARP_CONTRACT__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 20265.8564453125 KB |
+| json_size | 20542.5068359375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1952,7 +1956,7 @@ commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
 
 | Function | Steps |
 | ----------- | ----------- |
-| a_71ef8592 | 204527 |
+| a_71ef8592 | 204630 |
 
 ## boundCheck__WARP_CONTRACT__WARP.json:
 
@@ -4101,7 +4105,7 @@ commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 19896.0849609375 KB |
+| json_size | 20314.740234375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -4115,7 +4119,7 @@ commit: 8ac50ec6fe76773f54196306e5b3daf16a2982f5
 
 | Function | Steps |
 | ----------- | ----------- |
-| test_f8a8fd6d | 203302 |
+| test_f8a8fd6d | 203405 |
 
 ## keccak256__WARP_CONTRACT__WARP.json:
 
