@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 98a3733c564b67d6849995ecf2b78325798165a5
+commit: 9f3c32a69b26b4b0027d58270a13cece39e2d4ab
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -440,7 +440,7 @@ commit: 98a3733c564b67d6849995ecf2b78325798165a5
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2593.267578125 KB |
+| json_size | 3435.5380859375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -454,7 +454,9 @@ commit: 98a3733c564b67d6849995ecf2b78325798165a5
 
 | Function | Steps |
 | ----------- | ----------- |
-| tester_85ea4956 | 1683 |
+| testIndexing_4ea18060 | 1683 |
+| testTwice_7615f8d6 | 5909 |
+| test_2f570a23 | 2719 |
 
 ## bytes__WARP_CONTRACT__WARP.json:
 
