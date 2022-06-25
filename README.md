@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: d5bd182951fc5144f450627c2377b2b0d50992c8
+commit: 54aff705fc0c1b004a6ac9b3ec51a15283b19036
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
@@ -440,7 +440,7 @@ commit: d5bd182951fc5144f450627c2377b2b0d50992c8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3435.5380859375 KB |
+| json_size | 2593.267578125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -454,9 +454,7 @@ commit: d5bd182951fc5144f450627c2377b2b0d50992c8
 
 | Function | Steps |
 | ----------- | ----------- |
-| testIndexing_4ea18060 | 1683 |
-| testTwice_7615f8d6 | 5909 |
-| test_2f570a23 | 2719 |
+| tester_85ea4956 | 1683 |
 
 ## bytes__WARP_CONTRACT__WARP.json:
 
@@ -520,8 +518,8 @@ commit: d5bd182951fc5144f450627c2377b2b0d50992c8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1642.9365234375 KB |
-| steps | 39 |
+| json_size | 1947.7421875 KB |
+| steps | 456 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
@@ -529,8 +527,8 @@ commit: d5bd182951fc5144f450627c2377b2b0d50992c8
 | ec_op_builtin | 0 |
 | ecdsa_builtin | 0 |
 | output_builtin | 0 |
-| pedersen_builtin | 0 |
-| range_check_builtin | 0 |
+| pedersen_builtin | 5 |
+| range_check_builtin | 16 |
 
 | Function | Steps |
 | ----------- | ----------- |
