@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 5ce7fe3440e6578cdd9ead307922e92698c5824e
+commit: 9145df080a1d9f3e0ef897d82483259441d8d0e3
 
 ## mappingInConstructor__WARP_CONTRACT__WARP.json:
 
