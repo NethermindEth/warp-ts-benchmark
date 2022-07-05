@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: b03e2b82946cd004cd5f1764cf664319c42e2836
+commit: 4f7f13377d616b5ec19a772cd1158391c9764bea
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -498,16 +498,16 @@ commit: b03e2b82946cd004cd5f1764cf664319c42e2836
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 983.505859375 KB |
-| steps | 39 |
+| json_size | 1169.759765625 KB |
+| steps | 456 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
 | bitwise_builtin | 0 |
 | ecdsa_builtin | 0 |
 | output_builtin | 0 |
-| pedersen_builtin | 0 |
-| range_check_builtin | 0 |
+| pedersen_builtin | 5 |
+| range_check_builtin | 16 |
 
 | Function | Steps |
 | ----------- | ----------- |
@@ -2547,6 +2547,29 @@ commit: b03e2b82946cd004cd5f1764cf664319c42e2836
 | ----------- | ----------- |
 | unexistent | 311 |
 | x_0c55699c | 154 |
+
+## complexTypeInCondition__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2096.958984375 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| arr1DInIfExpression_627cff3a | 993 |
+| arr2DInIfExpression_723158c4 | 1719 |
+| map1DInIfExpression_117d1179 | 556 |
+| map2DInIfExpression_ddbbbe42 | 1107 |
+| nestedExpressions_410272cd | 2690 |
 
 ## localVariables__WC__WARP.json:
 
