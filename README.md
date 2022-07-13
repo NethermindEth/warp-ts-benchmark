@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 872b91ab01d509d90c773cc0d334dcba20ebf52d
+commit: 75077f485bd2e9f7089b3faead3e10419575a587
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -4928,4 +4928,74 @@ commit: 872b91ab01d509d90c773cc0d334dcba20ebf52d
 | ----------- | ----------- |
 | returnTest_57ecc147 | 26 |
 | test_f8a8fd6d | 15 |
+
+## BaseJumpRateModelV2__WC__BaseJumpRateModelV2.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2537.595703125 KB |
+| steps | 2515 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 11 |
+| range_check_builtin | 230 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| getSupplyRate_b8168816 | 4845 |
+| updateJumpRateModel_2037f3e7 | 2293 |
+| utilizationRate_6e71e2d8 | 945 |
+
+## ERC20__storage__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1848.556640625 KB |
+| steps | 256 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 3 |
+| range_check_builtin | 9 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| deposit_e2bbb158 | 793 |
+| get_balance_5b407a28 | 331 |
+| transferFrom_8856f779 | 1507 |
+| withdraw_441a3e70 | 950 |
+
+## ERC20__WC__ERC20.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3990.8046875 KB |
+| steps | 8794 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 102 |
+| range_check_builtin | 407 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| allowance_dd62ed3e | 890 |
+| approve_095ea7b3 | 967 |
+| balanceOf_70a08231 | 433 |
+| decimals_313ce567 | 25 |
+| name_06fdde03 | 2048 |
+| symbol_95d89b41 | 908 |
+| totalSupply_18160ddd | 159 |
+| transferFrom_23b872dd | 2201 |
+| transfer_a9059cbb | 1460 |
 
