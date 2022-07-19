@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: e7e82ad34e4d1d5359d6a3fda4ebcf21798c7724
+commit: 540fd571082b3cb7d71510713342c93ec6a1efda
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -4027,25 +4027,42 @@ commit: e7e82ad34e4d1d5359d6a3fda4ebcf21798c7724
 | ----------- | ----------- |
 | getData_3bc5de30 | 2023 |
 
-## value__passing__WC__WARP.json:
+## value__passing__WC__A.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 678.3427734375 KB |
-| steps | 106 |
+| json_size | 1007.6240234375 KB |
+| steps | 17 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
 | bitwise_builtin | 0 |
 | ecdsa_builtin | 0 |
 | output_builtin | 0 |
-| pedersen_builtin | 1 |
-| range_check_builtin | 3 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+## value__passing__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1771.1103515625 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
 
 | Function | Steps |
 | ----------- | ----------- |
-| valuePassingMemberAccess_02151601 | 74 |
-| valuePassing_df0d23b2 | 72 |
+| testExternalCallCrossContract_bc038a01 | 1199 |
+| testExternalCallMemberAccess_1c54fcfd | 1114 |
+| testInternalCallIdentifier_e996bac2 | 521 |
+| testInternalCallMemberAccess_29e6d598 | 521 |
 
 ## elementary__WC__WARP.json:
 
