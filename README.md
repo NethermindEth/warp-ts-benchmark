@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 540fd571082b3cb7d71510713342c93ec6a1efda
+commit: 602b3d5c0f513fcf3d2aa59e31e472f0466992c8
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -395,6 +395,45 @@ commit: 540fd571082b3cb7d71510713342c93ec6a1efda
 | ----------- | ----------- |
 | getCharacter_87630c30 | 5628 |
 | getLength_be1c766b | 95 |
+
+## basic__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 359.34375 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| useStub_16588e6a | 27 |
+
+## proxy__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 685.6201171875 KB |
+| steps | 164 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 2 |
+| range_check_builtin | 6 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| setHash_9658ad38 | 229 |
+| useStub_16588e6a | 178 |
 
 ## passingDynArrayInternally__WC__WARP.json:
 
