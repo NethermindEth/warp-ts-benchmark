@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
+commit: 0620734a323431c5b4d0eee3b39d9e16bf80f6d1
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -83,6 +83,26 @@ commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
 | returnArrDoubleLength_b4538d83 | 392 |
 | returnArrLength_e26710c8 | 222 |
 | staticArrayLength_bac7dd35 | 164 |
+
+## compoundAssignment__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1982.8173828125 KB |
+| steps | 40 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| compoundAssignmentToMemory_920140d4 | 2400 |
+| compoundAssignmentToStorage_9ca2ee34 | 2755 |
 
 ## functionSingle__WC__WARP.json:
 
@@ -1659,7 +1679,7 @@ commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3329.5009765625 KB |
+| json_size | 3332.2197265625 KB |
 | steps | 427 |
 
 | Builtin | Instances |
@@ -1685,7 +1705,7 @@ commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 968.8486328125 KB |
+| json_size | 971.6201171875 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -2024,7 +2044,7 @@ commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1729.2529296875 KB |
+| json_size | 1731.9912109375 KB |
 | steps | 189 |
 
 | Builtin | Instances |
@@ -5010,7 +5030,7 @@ commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1848.556640625 KB |
+| json_size | 1859.400390625 KB |
 | steps | 256 |
 
 | Builtin | Instances |
@@ -5032,7 +5052,7 @@ commit: 1a070520cbccd650aef6ae18ac99614b229d34b8
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3990.8046875 KB |
+| json_size | 3992.14453125 KB |
 | steps | 8794 |
 
 | Builtin | Instances |
