@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 4e3f76c8ac4a34ccfa56055144cb3c7917a3d136
+commit: 2061185bc2aaae752cc68608e24028d1ee799e98
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -200,6 +200,25 @@ commit: 4e3f76c8ac4a34ccfa56055144cb3c7917a3d136
 | Function | Steps |
 | ----------- | ----------- |
 | test_7442b287 | 49 |
+
+## blockMethods__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 670.2978515625 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| number_8381f58a | 112 |
 
 ## byteArrays__WC__WARP.json:
 
