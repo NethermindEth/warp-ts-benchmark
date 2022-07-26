@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 2061185bc2aaae752cc68608e24028d1ee799e98
+commit: def5171db4ac52aefac8bb5055b8afbf235d3e33
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -4024,6 +4024,73 @@ commit: 2061185bc2aaae752cc68608e24028d1ee799e98
 | closeEvent_03dc5326 | 211 |
 | donate_f14faf6f | 672 |
 | openEvent_aee684a5 | 86 |
+
+## deep__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 378.849609375 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| createContracts_6dde52ee | 267 |
+
+## many__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2908.3623046875 KB |
+| steps | 39 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| createDynArrayContract_d41fc265 | 5755 |
+| createStaticArrayContract_b1326173 | 1627 |
+| createStructContract_5a85e3bb | 1336 |
+| createUint256Contract_27190587 | 455 |
+| createUint8Contract_d22df080 | 311 |
+| getDynArrayX_8f194ee2 | 1401 |
+| getStaticArrayX_b32df153 | 371 |
+| getStructX_98c0557c | 735 |
+| getUint256X_def19e17 | 281 |
+| getUint8X_2d4f8a82 | 212 |
+
+## salted__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1049.6650390625 KB |
+| steps | 61 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| createUint256Contract_75c72e0d | 825 |
+| getUint256X_93b55b1b | 455 |
 
 ## ecrecover__WC__WARP.json:
 
