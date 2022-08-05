@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: e8ee77915de0e9ab5bf820241bac4b6ff7187ca3
+commit: f23e8779ebe264bac24f0c1bc3b0028859486e20
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -453,6 +453,28 @@ commit: e8ee77915de0e9ab5bf820241bac4b6ff7187ca3
 | Function | Steps |
 | ----------- | ----------- |
 | useStub_16588e6a | 27 |
+
+## currentFunc__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 890.4853515625 KB |
+| steps | 23 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| externalDefinedInBase_23ac1e53 | 19 |
+| recursiveAdd_87bcdfdf | 48 |
+| simpleCase_e5a22228 | 19 |
+| testInternalDefinedInBase_0589f971 | 27 |
 
 ## proxy__WC__WARP.json:
 
