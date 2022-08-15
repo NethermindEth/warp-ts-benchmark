@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 131df6a65fa79bdad0aef4a9d7b8f0986f15e887
+commit: b2abf84d3d2e4b9e199eb7b1a9f319d3833c1081
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -4098,7 +4098,7 @@ commit: 131df6a65fa79bdad0aef4a9d7b8f0986f15e887
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1049.8310546875 KB |
+| json_size | 1508.0263671875 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4111,7 +4111,8 @@ commit: 131df6a65fa79bdad0aef4a9d7b8f0986f15e887
 
 | Function | Steps |
 | ----------- | ----------- |
-| createUint256Contract_75c72e0d | 825 |
+| createAndStoreUint256Contract_6ea9e3cd | 1089 |
+| createUint256Contract_75c72e0d | 804 |
 | getUint256X_93b55b1b | 455 |
 
 ## ecrecover__WC__WARP.json:
