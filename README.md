@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 871e98928ca8e6fe2b2380cbdee49c30dbe0cb09
+commit: 6622ce59a3b97eecbd4f355310662d18c7b7aa65
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -3641,7 +3641,7 @@ commit: 871e98928ca8e6fe2b2380cbdee49c30dbe0cb09
 | le256signedunsafe_9a288100 | 301 |
 | le256unsafe_65ab0ff0 | 235 |
 | le8safe_bae1aacd | 154 |
-| le8signedsafe_7fe565e3 | 146 |
+| le8signedsafe_7fe565e3 | 183 |
 | le8signedunsafe_224c569e | 183 |
 | le8unsafe_172e759d | 198 |
 
