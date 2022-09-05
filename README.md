@@ -1,6 +1,154 @@
 # Warp-ts status
 
-commit: 549cf7bfc614073ce61eb49f1c3e27e9f0fa887b
+commit: 1dfd2354786f3e6eb58ff4fdec2941f124497076
+
+## abiEncodeDynamic__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2963.0205078125 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| mixDynamic_2dfe805a | 378200 |
+| nestedDynamic_be3b85fd | 261325 |
+| simpleDynamic_a01a67a3 | 117751 |
+
+## abiEncodeStatic__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2818.0283203125 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| staticDynamicNested_de757695 | 187989 |
+| staticNested_f9909134 | 92666 |
+| staticSimple_81bb13d3 | 69334 |
+
+## abiEncodeStrings__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3223.2685546875 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| docsExample_e56fd5ff | 456785 |
+| emptyString_5049975a | 46625 |
+| stringEncoding_36420669 | 65833 |
+
+## abiEncodeStruct__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 2529.3603515625 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| structComplex_aa3fd468 | 209449 |
+| structSimple_584bd2ca | 46587 |
+
+## abiEncodeValue__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1989.42578125 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| rationalLiterals_859c0f0c | 46152 |
+| rational_1597709d | 46215 |
+
+## abiEncodePacked__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 4327.1689453125 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| addresses_d06a4c8d | 46386 |
+| bArray_3073bea2 | 11105 |
+| booleans_280541e5 | 2214 |
+| dynArray_043bf1cb | 32062 |
+| enums_1b720b47 | 2285 |
+| fixedBytes_f9ec67f3 | 35345 |
+| staticArray_29fcf18f | 11048 |
+
+## abiEncodeWithSelector__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 3731.2900390625 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| encodeWithSelector_d1bd363d | 26430 |
+| encodeWithSignature_e4f2a84a | 46841 |
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -542,7 +690,7 @@ commit: 549cf7bfc614073ce61eb49f1c3e27e9f0fa887b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5587.568359375 KB |
+| json_size | 5666.1640625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -556,23 +704,23 @@ commit: 549cf7bfc614073ce61eb49f1c3e27e9f0fa887b
 | Function | Steps |
 | ----------- | ----------- |
 | c0_656bb565 | 809 |
-| c1_46fdc2f9 | 4922 |
-| c2_ae196100 | 10136 |
-| c3_d2f026d5 | 13074 |
-| c4_d58722cc | 10139 |
-| c5_95d099ae | 10957 |
+| c1_46fdc2f9 | 4992 |
+| c2_ae196100 | 10276 |
+| c3_d2f026d5 | 13284 |
+| c4_d58722cc | 10279 |
+| c5_95d099ae | 11097 |
 | d1_e31789d4 | 2816 |
 | d2_318fe832 | 23921 |
-| d3_c72151b4 | 15830 |
-| dynamicAndLiteral_381e2cc1 | 9911 |
-| long_07bfce37 | 57347 |
+| d3_c72151b4 | 15900 |
+| dynamicAndLiteral_381e2cc1 | 10051 |
+| long_07bfce37 | 57417 |
 | staticAndLiteral_5ada0465 | 6758 |
 
 ## strings__WC__WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3992.62890625 KB |
+| json_size | 4045.115234375 KB |
 | steps | 3515 |
 
 | Builtin | Instances |
@@ -585,14 +733,14 @@ commit: 549cf7bfc614073ce61eb49f1c3e27e9f0fa887b
 
 | Function | Steps |
 | ----------- | ----------- |
-| emptyMultiple_3ae1e9ff | 1528 |
-| emptySingle_52635aa1 | 1182 |
+| emptyMultiple_3ae1e9ff | 1668 |
+| emptySingle_52635aa1 | 1252 |
 | s0_501e8212 | 808 |
-| s1_f0d00991 | 4921 |
-| s2_01334cc9 | 10135 |
-| s3_63353669 | 13073 |
-| s4_15874f22 | 10138 |
-| s5_8d26739f | 10875 |
+| s1_f0d00991 | 4991 |
+| s2_01334cc9 | 10275 |
+| s3_63353669 | 13283 |
+| s4_15874f22 | 10278 |
+| s5_8d26739f | 11015 |
 
 ## and__WC__WARP.json:
 
