@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: a4560d3d97c879d1207c3234658a815eea5d5afb
+commit: 4ffa23e4fc721d25dd8f45e6f864de6b839ad6f8
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -1715,6 +1715,27 @@ commit: a4560d3d97c879d1207c3234658a815eea5d5afb
 | Function | Steps |
 | ----------- | ----------- |
 | externalCallSelfAsBase_5a08b33a | 3600 |
+
+## otherReferenceTypes__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1853.578125 KB |
+| steps | 39 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| getS_e93314ab | 1299 |
+| getT_22554f34 | 878 |
+| setProduct_ce39fac0 | 3793 |
 
 ## dai__WC__Dai.json:
 
