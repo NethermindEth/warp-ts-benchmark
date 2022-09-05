@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 798242bf9110fff359ac70cd36e7be0e230420df
+commit: 549cf7bfc614073ce61eb49f1c3e27e9f0fa887b
 
 ## mappingInConstructor__WC__WARP.json:
 
@@ -521,7 +521,7 @@ commit: 798242bf9110fff359ac70cd36e7be0e230420df
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2092.07421875 KB |
+| json_size | 1178.67578125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -534,9 +534,9 @@ commit: 798242bf9110fff359ac70cd36e7be0e230420df
 
 | Function | Steps |
 | ----------- | ----------- |
-| testIndexing_4ea18060 | 1683 |
-| testTwice_7615f8d6 | 5909 |
-| test_2f570a23 | 2719 |
+| testIndexing_4ea18060 | 484 |
+| testTwice_7615f8d6 | 1385 |
+| test_2f570a23 | 510 |
 
 ## bytes__WC__WARP.json:
 
@@ -1666,7 +1666,7 @@ commit: 798242bf9110fff359ac70cd36e7be0e230420df
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1609.060546875 KB |
+| json_size | 1494.8642578125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1695,7 +1695,7 @@ commit: 798242bf9110fff359ac70cd36e7be0e230420df
 | Function | Steps |
 | ----------- | ----------- |
 | receiveArr_1ed248b7 | 2291 |
-| receiveMultiple_41545a3b | 11269 |
+| receiveMultiple_41545a3b | 9163 |
 
 ## external__base__this__call__WC__WARP.json:
 
