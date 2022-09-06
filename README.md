@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 361a8762e87b7e39d49173e2ca1ebb8d8f31c030
+commit: bea4041dadde1eddb9f385b6ca85ec0855f3f59b
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -168,6 +168,48 @@ commit: 361a8762e87b7e39d49173e2ca1ebb8d8f31c030
 | Function | Steps |
 | ----------- | ----------- |
 | map_b8dda9c7 | 326 |
+
+## func__override__WC__A.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 657.89453125 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| f256_2cf43fbd | 198 |
+| f8_0a396ea7 | 112 |
+
+## func__override__WC__B.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 908.23828125 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| f256_2cf43fbd | 236 |
+| f8_0a396ea7 | 156 |
+| one_argument256_dcf54d4a | 236 |
+| one_argument8_bcc54114 | 156 |
 
 ## memoryArray__WC__WARP.json:
 
