@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 3e71019027870ac93e5f3feeadb3fa4c86fbae19
+commit: 888de256057cefb570285a52fe6eb91917851a3c
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -2434,6 +2434,36 @@ commit: 3e71019027870ac93e5f3feeadb3fa4c86fbae19
 | signedWide_51fdaa07 | 50 |
 | unsignedNarrow_08f9b4a0 | 30 |
 | unsignedWide_e56590cb | 42 |
+
+## rationalLiterals__WC__WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 1018.57421875 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| add_4f2be91f | 24 |
+| bitwiseNegate_bf0d5ff0 | 24 |
+| divideBy_5780423b | 24 |
+| equalValue_c4801a51 | 24 |
+| exp_ab60ffda | 24 |
+| greaterThan_e1ad5fbb | 26 |
+| mod_2986e054 | 24 |
+| multiply_f3593cd0 | 24 |
+| shiftLeft_538204c0 | 24 |
+| shiftRight_02db70d0 | 24 |
+| subtract_6deebae3 | 24 |
+| toInteger_8968338f | 24 |
 
 ## tupleEdgeCases__WC__WARP.json:
 
