@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 2da8f5211f4e22c13d8d681d8b5c5f764993f2be
+commit: e41d3326c87b980f2eb6ba18c09eac67e6c17935
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -3419,6 +3419,25 @@ commit: 2da8f5211f4e22c13d8d681d8b5c5f764993f2be
 | Function | Steps |
 | ----------- | ----------- |
 | mulDiv_5a0380b7 | 1120 |
+
+## libraries__in__inheritance__WC__C.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 576.8232421875 KB |
+| steps | 39 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| bitwise_builtin | 0 |
+| ecdsa_builtin | 0 |
+| output_builtin | 0 |
+| pedersen_builtin | 0 |
+| range_check_builtin | 0 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| g_e2179b8e | 218 |
 
 ## library__call__in__homestead__WC__WARP.json:
 
