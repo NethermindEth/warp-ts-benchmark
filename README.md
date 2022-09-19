@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: e7f26499a0ce0d93ae0612bae9b90542f310dc19
+commit: ca2fa1b361f1cad2f797a17742b9379423957f5e
 
 ## abiEncodeDynamic__WC__WARP.json:
 
