@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: ca2fa1b361f1cad2f797a17742b9379423957f5e
+commit: 3bbbe6455bb627e0b6ecebe0130c28aec7e4627f
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -1484,7 +1484,7 @@ commit: ca2fa1b361f1cad2f797a17742b9379423957f5e
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1849.107421875 KB |
+| json_size | 1868.91015625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1492,8 +1492,8 @@ commit: ca2fa1b361f1cad2f797a17742b9379423957f5e
 
 | Function | Steps |
 | ----------- | ----------- |
-| receiveArr_1ed248b7 | 2289 |
-| receiveMultiple_41545a3b | 9053 |
+| receiveArr_1ed248b7 | 2325 |
+| receiveMultiple_41545a3b | 9088 |
 
 ## external__base__this__call__WC__WARP.json:
 
