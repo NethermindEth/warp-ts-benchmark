@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 598cc4e92f83c7db0236465af37c07c74a507032
+commit: d56083e6c9e3422600503a937f5ca62f1cc65547
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -2742,23 +2742,6 @@ commit: 598cc4e92f83c7db0236465af37c07c74a507032
 | Function | Steps |
 | ----------- | ----------- |
 | f_26121ff0 | 16886 |
-
-## transpileLibraries__WC__library__A1.json:
-
-| Metric | Value |
-| ----------- | ----------- |
-| json_size | 1107.1591796875 KB |
-| steps | 17 |
-
-| Builtin | Instances |
-| ----------- | ----------- |
-
-| Function | Steps |
-| ----------- | ----------- |
-| add_bb4e3f4d | 144 |
-| div_21c60ac6 | 463 |
-| mul_e51a3b40 | 132 |
-| sub_1e5f34af | 144 |
 
 ## direct__and__indirect__WC__WARP.json:
 
