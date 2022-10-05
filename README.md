@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 171a5310b6828b552d365e40c18b93de2a21298c
+commit: 0e09186296cec9b3174a4b228316f3a168318f6a
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -2954,7 +2954,7 @@ commit: 171a5310b6828b552d365e40c18b93de2a21298c
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2416.544921875 KB |
+| json_size | 2417.3798828125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3017,7 +3017,7 @@ commit: 171a5310b6828b552d365e40c18b93de2a21298c
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2567.646484375 KB |
+| json_size | 2568.4814453125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3031,7 +3031,7 @@ commit: 171a5310b6828b552d365e40c18b93de2a21298c
 | exp256unsafe_d6df2447 | 1136 |
 | exp8safe_cf143ff3 | 108 |
 | exp8signedsafe_793ce14c | 125 |
-| exp8signedunsafe_61a47aa9 | 300 |
+| exp8signedunsafe_61a47aa9 | 303 |
 | exp8unsafe_48b3291e | 113 |
 | exp_minus_256_3161a604 | 14679 |
 
@@ -3140,7 +3140,7 @@ commit: 171a5310b6828b552d365e40c18b93de2a21298c
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2567.361328125 KB |
+| json_size | 2569.037109375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3150,7 +3150,7 @@ commit: 171a5310b6828b552d365e40c18b93de2a21298c
 | ----------- | ----------- |
 | multiplication128safe_c884628c | 426 |
 | multiplication128signedsafe_3c89d04c | 469 |
-| multiplication128signedunsafe_d3039390 | 429 |
+| multiplication128signedunsafe_d3039390 | 430 |
 | multiplication128unsafe_bc104504 | 393 |
 | multiplication256safe_cdc9cab6 | 386 |
 | multiplication256signedsafe_ca9739d2 | 450 |
@@ -3158,7 +3158,7 @@ commit: 171a5310b6828b552d365e40c18b93de2a21298c
 | multiplication256unsafe_3a5d4db0 | 384 |
 | multiplication8safe_857674a9 | 133 |
 | multiplication8signedsafe_95cab15d | 203 |
-| multiplication8signedunsafe_c3909612 | 148 |
+| multiplication8signedunsafe_c3909612 | 149 |
 | multiplication8unsafe_b17dbe12 | 113 |
 
 ## neq__WC__WARP.json:
