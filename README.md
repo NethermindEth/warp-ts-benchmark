@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: d56083e6c9e3422600503a937f5ca62f1cc65547
+commit: 171a5310b6828b552d365e40c18b93de2a21298c
 
 ## abiEncodeDynamic__WC__WARP.json:
 
@@ -2525,6 +2525,22 @@ commit: d56083e6c9e3422600503a937f5ca62f1cc65547
 | ----------- | ----------- |
 | f_b3de648b | 149 |
 | g_e420264a | 149 |
+
+## inheritedModifiedFunction__WC__B.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 708.453125 KB |
+| steps | 170 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| pedersen_builtin | 2 |
+| range_check_builtin | 6 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| f_b3de648b | 546 |
 
 ## modifierInheritance__WC__D.json:
 
