@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 8de50254fe4e7316bda2bcbe39cc8fc42f2032f5
+commit: d2e816adcd7089b43a708b4aec2224f63f8ed4ff
 
 ## abiDecodeValue__WC__WARP.json:
 
@@ -2809,7 +2809,7 @@ commit: 8de50254fe4e7316bda2bcbe39cc8fc42f2032f5
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2242.1572265625 KB |
+| json_size | 2241.865234375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
