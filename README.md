@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 1638ba0416ceadd9c3af6bbef2060a122b67a241
+commit: baf4cad22f2d6fdaab2996902cce5eb316c54e82
 
 ## abiDecodeValue__WC__WARP.json:
 
