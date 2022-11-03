@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 07a2587cfbfe104cf03373f7acc56b37a058bd08
+commit: 2fc7793ccd966a9b2aeed2a5e081811a2534db23
 
 ## abiDecodeDynamic__WC__WARP.json:
 
@@ -1626,7 +1626,7 @@ commit: 07a2587cfbfe104cf03373f7acc56b37a058bd08
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1800.865234375 KB |
+| json_size | 1800.7998046875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3609,7 +3609,7 @@ commit: 07a2587cfbfe104cf03373f7acc56b37a058bd08
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 380.1767578125 KB |
+| json_size | 380.123046875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3623,7 +3623,7 @@ commit: 07a2587cfbfe104cf03373f7acc56b37a058bd08
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2918.5517578125 KB |
+| json_size | 2918.4033203125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3646,7 +3646,7 @@ commit: 07a2587cfbfe104cf03373f7acc56b37a058bd08
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1470.365234375 KB |
+| json_size | 1470.337890625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
