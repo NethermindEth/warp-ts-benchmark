@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: bc8dc3dcb69cb7ac36d04d93afa11d8163bd1503
+commit: 9843fd0f33aad82172938660e6088579368b7ff9
 
 ## WARP.json:
 
@@ -4366,6 +4366,23 @@ commit: bc8dc3dcb69cb7ac36d04d93afa11d8163bd1503
 | indexAccess_5636494c | 15 |
 | memberAccess_53a8b254 | 15 |
 | simple_df201a46 | 15 |
+
+## WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 518.380859375 KB |
+| steps | 299 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| pedersen_builtin | 4 |
+| range_check_builtin | 12 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| a_0dbe671f | 28 |
+| b_4df7e3d0 | 26 |
 
 ## WARP.json:
 
