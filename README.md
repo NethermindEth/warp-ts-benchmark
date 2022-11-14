@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 9843fd0f33aad82172938660e6088579368b7ff9
+commit: 749f557eb71eca55e711f1b2f77c09d005ff0e03
 
 ## WARP.json:
 
@@ -845,6 +845,20 @@ commit: 9843fd0f33aad82172938660e6088579368b7ff9
 | addUintValue_68c64ce1 | 266 |
 | getIntValue_828909bd | 91 |
 | getUintValue_55ec6354 | 155 |
+
+## WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 594.6328125 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+
+| Function | Steps |
+| ----------- | ----------- |
+| address2uint256_28ba1b6c | 99 |
 
 ## WARP.json:
 
