@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 948ff175e878e641a3bf8d8b69d95380d204568a
+commit: 1dc3e74f43988f3ae5ff1938c95c187943d67d7f
 
 ## WARP.json:
 
@@ -4570,4 +4570,35 @@ commit: 948ff175e878e641a3bf8d8b69d95380d204568a
 | totalSupply_18160ddd | 159 |
 | transferFrom_23b872dd | 2087 |
 | transfer_a9059cbb | 1393 |
+
+## contract.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 7189.251953125 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+
+## interface.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 6509.1591796875 KB |
+| steps | 153 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+| pedersen_builtin | 1 |
+| range_check_builtin | 7 |
+
+| Function | Steps |
+| ----------- | ----------- |
+| add_771602f7 | 750 |
+| array2DaddStatic_f1962835 | 40373 |
+| arrayAdd_d85a3c39 | 6986 |
+| cairoContractAddress_b0da831b | 88 |
+| staticArrayAdd_c20ab944 | 9107 |
+| structAdd_8658db55 | 6401 |
 
