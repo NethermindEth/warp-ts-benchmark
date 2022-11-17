@@ -4585,7 +4585,7 @@ commit: d06f11bcaee00667d5918201a7aeeb864e009c6e
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6509.1591796875 KB |
+| json_size | 6509.1513671875 KB |
 | steps | 153 |
 
 | Builtin | Instances |
