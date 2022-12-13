@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: 5f98419080bf743bf2dba12f8ed13ace363079b3
+commit: ea133ffc8a0945a805f1a04ecf9b39b960a993dc
 
 ## WARP.json:
 
@@ -279,6 +279,21 @@ commit: 5f98419080bf743bf2dba12f8ed13ace363079b3
 | returnArrDoubleLength_b4538d83 | 376 |
 | returnArrLength_e26710c8 | 198 |
 | staticArrayLength_bac7dd35 | 140 |
+
+## WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 899.015625 KB |
+| steps | 18 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+
+| Function | Steps |
+| ----------- | ----------- |
+| overflowsAreUnchecked_a68c579a | 425 |
+| subtractionFromZeroResultInNegativeValue_07662355 | 194 |
 
 ## WARP.json:
 
