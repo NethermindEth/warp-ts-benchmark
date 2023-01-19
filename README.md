@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: c7196e417b698f7b96cc3e235f436d22f415c73d
+commit: 4bb5441fa78ea27d2260c8cca2143ebf5d535ee7
 
 ## WARP.json:
 
@@ -1671,7 +1671,7 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5984.322265625 KB |
+| json_size | 6002.369140625 KB |
 | steps | 30979 |
 
 | Builtin | Instances |
@@ -2027,7 +2027,7 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4441.037109375 KB |
+| json_size | 4455.529296875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2044,7 +2044,7 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4839.353515625 KB |
+| json_size | 4855.212890625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2061,7 +2061,7 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4927.275390625 KB |
+| json_size | 4949.478515625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2145,7 +2145,7 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1003.7333984375 KB |
+| json_size | 1177.6162109375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2154,7 +2154,10 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 | Function | Steps |
 | ----------- | ----------- |
 | add_4f2be91f | 24 |
+| bitwiseAnd_e741d643 | 24 |
 | bitwiseNegate_bf0d5ff0 | 24 |
+| bitwiseOr_bd7cbb7d | 24 |
+| bitwiseXor_f91af9f4 | 24 |
 | divideBy_5780423b | 24 |
 | equalValue_c4801a51 | 24 |
 | exp_ab60ffda | 24 |
@@ -4619,7 +4622,7 @@ commit: c7196e417b698f7b96cc3e235f436d22f415c73d
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5949.431640625 KB |
+| json_size | 5960.259765625 KB |
 | steps | 8668 |
 
 | Builtin | Instances |
