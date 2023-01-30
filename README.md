@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: a3e644778eff9e65dc6a89d102adf0dbe863d2d4
+commit: 43b2b2b12d34708e3ad8e8761188202da1b8cc81
 
 ## WARP.json:
 
