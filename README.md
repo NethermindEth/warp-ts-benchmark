@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: b18c92be69a71a1ac9493bdce81369196c45af4b
+commit: 29e40b948be2347f66250eb19393bf1b2ada671b
 
 ## WARP.json:
 
@@ -173,7 +173,7 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3683.484375 KB |
+| json_size | 3683.44140625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1671,25 +1671,25 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6004.302734375 KB |
-| steps | 30979 |
+| json_size | 5986.8037109375 KB |
+| steps | 30948 |
 
 | Builtin | Instances |
 | ----------- | ----------- |
 | bitwise_builtin | 64 |
 | pedersen_builtin | 6 |
-| range_check_builtin | 2282 |
+| range_check_builtin | 2279 |
 
 | Function | Steps |
 | ----------- | ----------- |
-| approve_095ea7b3 | 81566 |
-| decreaseAllowance_a457c2d7 | 81682 |
+| approve_095ea7b3 | 81535 |
+| decreaseAllowance_a457c2d7 | 81651 |
 | getAllowance_0af4187d | 451 |
 | getBalance_f8b2cb4f | 270 |
-| increaseAllowance_39509351 | 81664 |
+| increaseAllowance_39509351 | 81633 |
 | mint_40c10f19 | 1052 |
-| transferFrom_23b872dd | 82619 |
-| transfer_a9059cbb | 81972 |
+| transferFrom_23b872dd | 82588 |
+| transfer_a9059cbb | 81941 |
 
 ## WARP.json:
 
@@ -2027,7 +2027,7 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4457.08203125 KB |
+| json_size | 4439.400390625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2035,16 +2035,16 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Function | Steps |
 | ----------- | ----------- |
-| add_771602f7 | 30731 |
-| array_b0ec2ae1 | 131533 |
-| nestedArray_810ef4b8 | 284951 |
-| structComplex_aa3fd468 | 229755 |
+| add_771602f7 | 30700 |
+| array_b0ec2ae1 | 131502 |
+| nestedArray_810ef4b8 | 284920 |
+| structComplex_aa3fd468 | 229724 |
 
 ## WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4856.912109375 KB |
+| json_size | 5389.8896484375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2052,16 +2052,17 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Function | Steps |
 | ----------- | ----------- |
-| add_771602f7 | 30682 |
-| array_b0ec2ae1 | 102401 |
-| nestedArray_810ef4b8 | 156038 |
-| structComplex_aa3fd468 | 172423 |
+| add_771602f7 | 30651 |
+| arrayString_cdaf62d1 | 96952 |
+| array_b0ec2ae1 | 102247 |
+| nestedArray_810ef4b8 | 155884 |
+| structComplex_aa3fd468 | 172269 |
 
 ## WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4951.857421875 KB |
+| json_size | 4913.9541015625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2069,11 +2070,11 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Function | Steps |
 | ----------- | ----------- |
-| allEventsAtOnce_06e0a312 | 413743 |
-| allIndexed_c9294878 | 55708 |
-| allStringMisc_67b72d96 | 104718 |
-| allString_0a49b792 | 150440 |
-| allUint_3a7516d0 | 55755 |
+| allEventsAtOnce_06e0a312 | 413496 |
+| allIndexed_c9294878 | 55677 |
+| allStringMisc_67b72d96 | 104564 |
+| allString_0a49b792 | 150409 |
+| allUint_3a7516d0 | 55724 |
 
 ## WARP.json:
 
@@ -3761,7 +3762,7 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3205.41015625 KB |
+| json_size | 3205.3671875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -4622,7 +4623,7 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5961.419921875 KB |
+| json_size | 5952.7109375 KB |
 | steps | 8668 |
 
 | Builtin | Instances |
@@ -4633,14 +4634,14 @@ commit: b18c92be69a71a1ac9493bdce81369196c45af4b
 | Function | Steps |
 | ----------- | ----------- |
 | allowance_dd62ed3e | 794 |
-| approve_095ea7b3 | 81598 |
+| approve_095ea7b3 | 81567 |
 | balanceOf_70a08231 | 385 |
 | decimals_313ce567 | 25 |
 | name_06fdde03 | 2048 |
 | symbol_95d89b41 | 908 |
 | totalSupply_18160ddd | 159 |
-| transferFrom_23b872dd | 163360 |
-| transfer_a9059cbb | 82089 |
+| transferFrom_23b872dd | 163298 |
+| transfer_a9059cbb | 82058 |
 
 ## contract.json:
 
