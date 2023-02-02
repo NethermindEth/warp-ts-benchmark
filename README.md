@@ -1,12 +1,12 @@
 # Warp-ts status
 
-commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
+commit: 9307c2b85640283c04fc2bdd04bdd31101628070
 
 ## WARP.json:
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3982.5380859375 KB |
+| json_size | 3983.0517578125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -24,7 +24,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2826.8994140625 KB |
+| json_size | 2827.240234375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -40,7 +40,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3345.9375 KB |
+| json_size | 3346.2841796875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -57,7 +57,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2171.3115234375 KB |
+| json_size | 2171.7275390625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -74,7 +74,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2869.625 KB |
+| json_size | 2869.86328125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -90,7 +90,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2734.8701171875 KB |
+| json_size | 2735.07421875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -106,7 +106,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3116.392578125 KB |
+| json_size | 3116.5341796875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -122,7 +122,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2465.8505859375 KB |
+| json_size | 2465.9326171875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -137,7 +137,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1941.5498046875 KB |
+| json_size | 1941.7275390625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -152,7 +152,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4754.7001953125 KB |
+| json_size | 4755.82421875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -173,7 +173,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3683.44140625 KB |
+| json_size | 3683.578125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -188,7 +188,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 736.7783203125 KB |
+| json_size | 736.9716796875 KB |
 | steps | 410 |
 
 | Builtin | Instances |
@@ -204,7 +204,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 574.4677734375 KB |
+| json_size | 574.568359375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -219,7 +219,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 820.4208984375 KB |
+| json_size | 820.673828125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -236,7 +236,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1064.462890625 KB |
+| json_size | 1064.5087890625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -250,7 +250,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1060.1259765625 KB |
+| json_size | 1060.314453125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -264,7 +264,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1797.5400390625 KB |
+| json_size | 1798.0712890625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -284,7 +284,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 899.015625 KB |
+| json_size | 899.2431640625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -299,7 +299,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1858.166015625 KB |
+| json_size | 1858.32421875 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -314,7 +314,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 696.162109375 KB |
+| json_size | 696.3681640625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -329,7 +329,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 561.130859375 KB |
+| json_size | 561.21484375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -344,7 +344,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1356.6767578125 KB |
+| json_size | 1356.8583984375 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -360,7 +360,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 405.17578125 KB |
+| json_size | 405.3037109375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -374,7 +374,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 405.029296875 KB |
+| json_size | 405.1572265625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -388,7 +388,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 651.736328125 KB |
+| json_size | 651.8037109375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -402,7 +402,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2092.330078125 KB |
+| json_size | 2092.7587890625 KB |
 | steps | 1504 |
 
 | Builtin | Instances |
@@ -422,7 +422,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1174.0146484375 KB |
+| json_size | 1174.15234375 KB |
 | steps | 1298 |
 
 | Builtin | Instances |
@@ -439,7 +439,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1432.25390625 KB |
+| json_size | 1432.947265625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -459,7 +459,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1670.7763671875 KB |
+| json_size | 1671.24609375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -480,7 +480,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2738.087890625 KB |
+| json_size | 2738.158203125 KB |
 | steps | 21738 |
 
 | Builtin | Instances |
@@ -499,7 +499,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2160.2744140625 KB |
+| json_size | 2161.064453125 KB |
 | steps | 560 |
 
 | Builtin | Instances |
@@ -528,7 +528,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1721.6650390625 KB |
+| json_size | 1722.390625 KB |
 | steps | 295 |
 
 | Builtin | Instances |
@@ -552,7 +552,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1872.6240234375 KB |
+| json_size | 1872.80859375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -567,7 +567,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2526.212890625 KB |
+| json_size | 2526.5693359375 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -582,7 +582,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 359.7763671875 KB |
+| json_size | 359.8173828125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -596,7 +596,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 749.7236328125 KB |
+| json_size | 749.8837890625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -613,7 +613,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 612.6865234375 KB |
+| json_size | 612.814453125 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -630,7 +630,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 743.7060546875 KB |
+| json_size | 744.1416015625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -646,7 +646,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2074.1728515625 KB |
+| json_size | 2074.5966796875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -662,7 +662,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5496.5869140625 KB |
+| json_size | 5497.9638671875 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -687,7 +687,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3886.2880859375 KB |
+| json_size | 3887.16015625 KB |
 | steps | 3507 |
 
 | Builtin | Instances |
@@ -710,7 +710,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1076.1982421875 KB |
+| json_size | 1076.5009765625 KB |
 | steps | 461 |
 
 | Builtin | Instances |
@@ -726,7 +726,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1474.1328125 KB |
+| json_size | 1474.3984375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -741,7 +741,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 412.2431640625 KB |
+| json_size | 412.37890625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -755,7 +755,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 833.572265625 KB |
+| json_size | 833.8779296875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -770,7 +770,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1365.51953125 KB |
+| json_size | 1366.0712890625 KB |
 | steps | 380 |
 
 | Builtin | Instances |
@@ -786,7 +786,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1522.615234375 KB |
+| json_size | 1522.7734375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -803,7 +803,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 913.779296875 KB |
+| json_size | 914.19140625 KB |
 | steps | 112 |
 
 | Builtin | Instances |
@@ -824,7 +824,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1498.1904296875 KB |
+| json_size | 1498.6611328125 KB |
 | steps | 554 |
 
 | Builtin | Instances |
@@ -846,7 +846,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1014.7021484375 KB |
+| json_size | 1015.0146484375 KB |
 | steps | 350 |
 
 | Builtin | Instances |
@@ -865,7 +865,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 595.033203125 KB |
+| json_size | 595.1259765625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -879,7 +879,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 589.7998046875 KB |
+| json_size | 589.9140625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -894,7 +894,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 545.4228515625 KB |
+| json_size | 545.505859375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -908,7 +908,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 733.1220703125 KB |
+| json_size | 733.259765625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -923,7 +923,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 590.197265625 KB |
+| json_size | 590.3115234375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -938,7 +938,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 545.7138671875 KB |
+| json_size | 545.796875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -952,7 +952,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 605.349609375 KB |
+| json_size | 605.4384765625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -967,7 +967,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 506.65234375 KB |
+| json_size | 506.72265625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -981,7 +981,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 497.5556640625 KB |
+| json_size | 497.6259765625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -995,7 +995,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 506.65234375 KB |
+| json_size | 506.72265625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1009,7 +1009,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 497.5546875 KB |
+| json_size | 497.625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1023,7 +1023,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3883.427734375 KB |
+| json_size | 3884.6240234375 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1045,7 +1045,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3904.142578125 KB |
+| json_size | 3905.330078125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1066,7 +1066,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 9987.5380859375 KB |
+| json_size | 9990.6982421875 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1096,7 +1096,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 9338.4873046875 KB |
+| json_size | 9339.5400390625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1120,7 +1120,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1541.3388671875 KB |
+| json_size | 1541.548828125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1135,7 +1135,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2231.833984375 KB |
+| json_size | 2232.24609375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -1154,7 +1154,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1089.2607421875 KB |
+| json_size | 1089.4736328125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1169,7 +1169,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3179.068359375 KB |
+| json_size | 3179.5078125 KB |
 | steps | 1926 |
 
 | Builtin | Instances |
@@ -1191,7 +1191,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3531.91015625 KB |
+| json_size | 3532.6982421875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1213,7 +1213,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 14135.1591796875 KB |
+| json_size | 14137.1953125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1243,7 +1243,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3360.427734375 KB |
+| json_size | 3361.0654296875 KB |
 | steps | 9048 |
 
 | Builtin | Instances |
@@ -1265,7 +1265,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3152.5029296875 KB |
+| json_size | 3152.9423828125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -1281,7 +1281,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1505.4580078125 KB |
+| json_size | 1505.6728515625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1298,7 +1298,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1617.0732421875 KB |
+| json_size | 1617.3125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1315,7 +1315,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 760.3759765625 KB |
+| json_size | 760.5322265625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1330,7 +1330,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 737.5 KB |
+| json_size | 737.6220703125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1345,7 +1345,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3694.0751953125 KB |
+| json_size | 3694.759765625 KB |
 | steps | 1363 |
 
 | Builtin | Instances |
@@ -1364,7 +1364,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5797.55078125 KB |
+| json_size | 5798.4990234375 KB |
 | steps | 5577 |
 
 | Builtin | Instances |
@@ -1386,7 +1386,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2814.3525390625 KB |
+| json_size | 2814.4619140625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1403,7 +1403,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 11288.0771484375 KB |
+| json_size | 11289.3642578125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1428,7 +1428,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2556.501953125 KB |
+| json_size | 2556.9072265625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1445,7 +1445,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 978.42578125 KB |
+| json_size | 978.7060546875 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1463,7 +1463,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1378.78125 KB |
+| json_size | 1379.1796875 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1480,7 +1480,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1138.2607421875 KB |
+| json_size | 1138.5810546875 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1498,7 +1498,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1444.951171875 KB |
+| json_size | 1445.375 KB |
 | steps | 376 |
 
 | Builtin | Instances |
@@ -1514,7 +1514,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 459.0068359375 KB |
+| json_size | 459.064453125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1528,7 +1528,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 547.8623046875 KB |
+| json_size | 547.8916015625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1542,7 +1542,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 459.88671875 KB |
+| json_size | 459.9443359375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1556,7 +1556,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 577.125 KB |
+| json_size | 577.2294921875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1570,7 +1570,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 942.294921875 KB |
+| json_size | 942.45703125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1586,7 +1586,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1149.5927734375 KB |
+| json_size | 1149.90625 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1600,7 +1600,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1145.44921875 KB |
+| json_size | 1145.7626953125 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -1616,7 +1616,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1433.1376953125 KB |
+| json_size | 1433.404296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1626,7 +1626,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1864.76953125 KB |
+| json_size | 1865.068359375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1641,7 +1641,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1621.4697265625 KB |
+| json_size | 1621.6015625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1655,7 +1655,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1797.0166015625 KB |
+| json_size | 1797.0537109375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1671,7 +1671,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5986.8037109375 KB |
+| json_size | 5988.42578125 KB |
 | steps | 30948 |
 
 | Builtin | Instances |
@@ -1695,7 +1695,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 886.095703125 KB |
+| json_size | 886.2587890625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -1709,7 +1709,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1179.1416015625 KB |
+| json_size | 1179.423828125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1727,7 +1727,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1292.12890625 KB |
+| json_size | 1292.4384765625 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -1745,7 +1745,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 566.3544921875 KB |
+| json_size | 566.50390625 KB |
 | steps | 112 |
 
 | Builtin | Instances |
@@ -1763,7 +1763,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 680.8759765625 KB |
+| json_size | 681.072265625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1779,7 +1779,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 834.5537109375 KB |
+| json_size | 834.9228515625 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -1797,7 +1797,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1684.0322265625 KB |
+| json_size | 1684.3447265625 KB |
 | steps | 1372 |
 
 | Builtin | Instances |
@@ -1819,7 +1819,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1075.0517578125 KB |
+| json_size | 1075.09765625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1833,7 +1833,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3534.7578125 KB |
+| json_size | 3535.087890625 KB |
 | steps | 171 |
 
 | Builtin | Instances |
@@ -1853,7 +1853,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3193.4169921875 KB |
+| json_size | 3193.54296875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1867,7 +1867,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3192.3271484375 KB |
+| json_size | 3192.453125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -1881,7 +1881,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 755.0244140625 KB |
+| json_size | 755.2041015625 KB |
 | steps | 45 |
 
 | Builtin | Instances |
@@ -1896,7 +1896,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 808.412109375 KB |
+| json_size | 808.7685546875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1914,7 +1914,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 808.8154296875 KB |
+| json_size | 809.171875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -1932,7 +1932,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 678.703125 KB |
+| json_size | 679.0078125 KB |
 | steps | 112 |
 
 | Builtin | Instances |
@@ -1950,7 +1950,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 511.181640625 KB |
+| json_size | 511.234375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1964,7 +1964,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1635.9072265625 KB |
+| json_size | 1636.4951171875 KB |
 | steps | 195 |
 
 | Builtin | Instances |
@@ -1985,7 +1985,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 537.1806640625 KB |
+| json_size | 537.3173828125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -1999,7 +1999,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 426.697265625 KB |
+| json_size | 426.8173828125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2013,7 +2013,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 390.25 KB |
+| json_size | 390.2998046875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2027,7 +2027,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4439.400390625 KB |
+| json_size | 4439.724609375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2044,7 +2044,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5389.8896484375 KB |
+| json_size | 5390.4111328125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2062,7 +2062,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4913.9541015625 KB |
+| json_size | 4914.7431640625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2080,7 +2080,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1102.40234375 KB |
+| json_size | 1102.8017578125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2099,7 +2099,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 995.810546875 KB |
+| json_size | 996.05859375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -2115,7 +2115,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 534.681640625 KB |
+| json_size | 534.7294921875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2129,7 +2129,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 650.9619140625 KB |
+| json_size | 651.189453125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2146,7 +2146,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1177.6162109375 KB |
+| json_size | 1178.5029296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2174,7 +2174,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 825.8583984375 KB |
+| json_size | 826.0869140625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2191,7 +2191,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 531.435546875 KB |
+| json_size | 531.5751953125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2205,7 +2205,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1243.908203125 KB |
+| json_size | 1244.1201171875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2219,7 +2219,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1359.4296875 KB |
+| json_size | 1359.564453125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2235,7 +2235,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2772.1904296875 KB |
+| json_size | 2773.0703125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2255,7 +2255,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1818.2626953125 KB |
+| json_size | 1818.3779296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2270,7 +2270,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1321.388671875 KB |
+| json_size | 1321.6728515625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2286,7 +2286,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1102.5498046875 KB |
+| json_size | 1102.7685546875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2301,7 +2301,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2190.9599609375 KB |
+| json_size | 2191.5849609375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2319,7 +2319,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 463.8857421875 KB |
+| json_size | 463.93359375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2333,7 +2333,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 636.96484375 KB |
+| json_size | 637.150390625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2348,7 +2348,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1023.251953125 KB |
+| json_size | 1023.6240234375 KB |
 | steps | 113 |
 
 | Builtin | Instances |
@@ -2367,7 +2367,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 645.3154296875 KB |
+| json_size | 645.4462890625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2381,7 +2381,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 778.279296875 KB |
+| json_size | 778.6943359375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2396,7 +2396,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 697.6611328125 KB |
+| json_size | 697.9990234375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2412,7 +2412,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 556.5556640625 KB |
+| json_size | 556.740234375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2426,7 +2426,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 984.5185546875 KB |
+| json_size | 984.7763671875 KB |
 | steps | 245 |
 
 | Builtin | Instances |
@@ -2444,7 +2444,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 953.5888671875 KB |
+| json_size | 953.9814453125 KB |
 | steps | 253 |
 
 | Builtin | Instances |
@@ -2461,7 +2461,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1000.564453125 KB |
+| json_size | 1000.88671875 KB |
 | steps | 253 |
 
 | Builtin | Instances |
@@ -2473,7 +2473,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 822.2451171875 KB |
+| json_size | 822.48046875 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -2488,7 +2488,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 503.3115234375 KB |
+| json_size | 503.388671875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2503,7 +2503,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 563.5078125 KB |
+| json_size | 563.5966796875 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2518,7 +2518,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1882.0771484375 KB |
+| json_size | 1882.640625 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -2536,7 +2536,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 469.2666015625 KB |
+| json_size | 469.431640625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2551,7 +2551,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 540.482421875 KB |
+| json_size | 540.7529296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2567,7 +2567,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 874.5810546875 KB |
+| json_size | 874.8212890625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2583,7 +2583,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 403.345703125 KB |
+| json_size | 403.404296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2597,7 +2597,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 846.572265625 KB |
+| json_size | 846.833984375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2611,7 +2611,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 760.1513671875 KB |
+| json_size | 760.4267578125 KB |
 | steps | 252 |
 
 | Builtin | Instances |
@@ -2627,7 +2627,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 862.8037109375 KB |
+| json_size | 863.1083984375 KB |
 | steps | 1101 |
 
 | Builtin | Instances |
@@ -2646,7 +2646,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 707.8544921875 KB |
+| json_size | 708.185546875 KB |
 | steps | 305 |
 
 | Builtin | Instances |
@@ -2662,7 +2662,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 724.3125 KB |
+| json_size | 724.5966796875 KB |
 | steps | 176 |
 
 | Builtin | Instances |
@@ -2677,7 +2677,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1048.84765625 KB |
+| json_size | 1049.0537109375 KB |
 | steps | 2181 |
 
 | Builtin | Instances |
@@ -2693,7 +2693,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 462.435546875 KB |
+| json_size | 462.4814453125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2707,7 +2707,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 478.744140625 KB |
+| json_size | 478.7900390625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2721,7 +2721,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 564.4990234375 KB |
+| json_size | 564.5791015625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2735,7 +2735,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 420.0546875 KB |
+| json_size | 420.1201171875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2750,7 +2750,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 699.005859375 KB |
+| json_size | 699.2783203125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2765,7 +2765,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 694.388671875 KB |
+| json_size | 694.6494140625 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -2781,7 +2781,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1205.8125 KB |
+| json_size | 1206.1669921875 KB |
 | steps | 246 |
 
 | Builtin | Instances |
@@ -2799,7 +2799,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 946.5458984375 KB |
+| json_size | 946.8017578125 KB |
 | steps | 306 |
 
 | Builtin | Instances |
@@ -2815,7 +2815,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1342.6181640625 KB |
+| json_size | 1342.828125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2831,7 +2831,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 557.201171875 KB |
+| json_size | 557.322265625 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -2847,7 +2847,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 568.53125 KB |
+| json_size | 568.7822265625 KB |
 | steps | 296 |
 
 | Builtin | Instances |
@@ -2864,7 +2864,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 864.833984375 KB |
+| json_size | 865.1552734375 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -2880,7 +2880,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 827.16796875 KB |
+| json_size | 827.4697265625 KB |
 | steps | 170 |
 
 | Builtin | Instances |
@@ -2896,7 +2896,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 586.298828125 KB |
+| json_size | 586.4765625 KB |
 | steps | 258 |
 
 | Builtin | Instances |
@@ -2913,7 +2913,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 396.48828125 KB |
+| json_size | 396.5361328125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2927,7 +2927,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 523.40234375 KB |
+| json_size | 523.498046875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -2941,7 +2941,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 950.71484375 KB |
+| json_size | 950.9482421875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2955,7 +2955,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 556.3134765625 KB |
+| json_size | 556.458984375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2969,7 +2969,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 488.8056640625 KB |
+| json_size | 488.9423828125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -2984,7 +2984,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1790.310546875 KB |
+| json_size | 1790.4453125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -2998,7 +2998,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 552.4013671875 KB |
+| json_size | 552.544921875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3012,7 +3012,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 391.892578125 KB |
+| json_size | 391.9404296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3026,7 +3026,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2219.791015625 KB |
+| json_size | 2221.30078125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3048,7 +3048,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 419.06640625 KB |
+| json_size | 419.1337890625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3063,7 +3063,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3446.8193359375 KB |
+| json_size | 3447.255859375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -3084,7 +3084,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3443.6826171875 KB |
+| json_size | 3444.1162109375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -3105,7 +3105,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1804.0380859375 KB |
+| json_size | 1804.9765625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3130,7 +3130,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1260.4951171875 KB |
+| json_size | 1261.318359375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3151,7 +3151,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1258.796875 KB |
+| json_size | 1259.6201171875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3172,7 +3172,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 731.7041015625 KB |
+| json_size | 731.96875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3189,7 +3189,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2414.9326171875 KB |
+| json_size | 2415.3193359375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3210,7 +3210,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1761.734375 KB |
+| json_size | 1762.4755859375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3231,7 +3231,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1126.521484375 KB |
+| json_size | 1127.1767578125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3252,7 +3252,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2565.791015625 KB |
+| json_size | 2566.4951171875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3274,7 +3274,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1375.716796875 KB |
+| json_size | 1376.4033203125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3295,7 +3295,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1396.7001953125 KB |
+| json_size | 1397.3623046875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3316,7 +3316,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 731.7041015625 KB |
+| json_size | 731.96875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3333,7 +3333,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1363.9775390625 KB |
+| json_size | 1364.6982421875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3354,7 +3354,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1361.5380859375 KB |
+| json_size | 1362.22265625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3375,7 +3375,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2565.7607421875 KB |
+| json_size | 2566.5615234375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3400,7 +3400,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1132.169921875 KB |
+| json_size | 1132.8251953125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3421,7 +3421,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2598.337890625 KB |
+| json_size | 2599.7109375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3452,7 +3452,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2520.22265625 KB |
+| json_size | 2521.716796875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3483,7 +3483,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2097.3515625 KB |
+| json_size | 2098.3642578125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3506,7 +3506,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1624.9365234375 KB |
+| json_size | 1626.048828125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3527,7 +3527,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2506.943359375 KB |
+| json_size | 2507.39453125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3548,7 +3548,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1508.0673828125 KB |
+| json_size | 1508.1884765625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3565,7 +3565,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2400.7548828125 KB |
+| json_size | 2401.2880859375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3581,7 +3581,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1813.416015625 KB |
+| json_size | 1813.427734375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3595,7 +3595,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1690.005859375 KB |
+| json_size | 1690.25390625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3612,7 +3612,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1722.5244140625 KB |
+| json_size | 1722.8505859375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3631,7 +3631,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 827.703125 KB |
+| json_size | 827.96484375 KB |
 | steps | 171 |
 
 | Builtin | Instances |
@@ -3647,7 +3647,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1118.1171875 KB |
+| json_size | 1118.3818359375 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -3662,7 +3662,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 375.6982421875 KB |
+| json_size | 375.81640625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3676,7 +3676,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1009.810546875 KB |
+| json_size | 1010.078125 KB |
 | steps | 239 |
 
 | Builtin | Instances |
@@ -3695,7 +3695,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 380.0146484375 KB |
+| json_size | 380.0390625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3709,7 +3709,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2914.802734375 KB |
+| json_size | 2915.126953125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3732,7 +3732,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1469.0556640625 KB |
+| json_size | 1469.3388671875 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -3748,7 +3748,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3088.046875 KB |
+| json_size | 3088.1220703125 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3762,7 +3762,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3205.3671875 KB |
+| json_size | 3205.583984375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -3778,7 +3778,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 772.4453125 KB |
+| json_size | 772.80078125 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -3794,7 +3794,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1725.1611328125 KB |
+| json_size | 1725.2646484375 KB |
 | steps | 2284 |
 
 | Builtin | Instances |
@@ -3810,7 +3810,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 960.482421875 KB |
+| json_size | 960.5947265625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3820,7 +3820,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1705.7822265625 KB |
+| json_size | 1706.0771484375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3837,7 +3837,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1073.5244140625 KB |
+| json_size | 1073.841796875 KB |
 | steps | 841 |
 
 | Builtin | Instances |
@@ -3858,7 +3858,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2526.6884765625 KB |
+| json_size | 2527.3125 KB |
 | steps | 6768 |
 
 | Builtin | Instances |
@@ -3878,7 +3878,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 752.64453125 KB |
+| json_size | 752.931640625 KB |
 | steps | 461 |
 
 | Builtin | Instances |
@@ -3898,7 +3898,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1516.7724609375 KB |
+| json_size | 1517.009765625 KB |
 | steps | 1904 |
 
 | Builtin | Instances |
@@ -3917,7 +3917,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3883.7958984375 KB |
+| json_size | 3884.2578125 KB |
 | steps | 1375 |
 
 | Builtin | Instances |
@@ -3936,7 +3936,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2524.5751953125 KB |
+| json_size | 2524.8974609375 KB |
 | steps | 4897 |
 
 | Builtin | Instances |
@@ -3953,7 +3953,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 501.15625 KB |
+| json_size | 501.2236328125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -3968,7 +3968,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 540.5 KB |
+| json_size | 540.6240234375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -3982,7 +3982,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1019.0400390625 KB |
+| json_size | 1019.4716796875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4000,7 +4000,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 566.53125 KB |
+| json_size | 566.6201171875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4015,7 +4015,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 4206.6064453125 KB |
+| json_size | 4208.029296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4039,7 +4039,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2051.5888671875 KB |
+| json_size | 2051.951171875 KB |
 | steps | 2938 |
 
 | Builtin | Instances |
@@ -4056,7 +4056,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1541.9736328125 KB |
+| json_size | 1542.044921875 KB |
 | steps | 2074 |
 
 | Builtin | Instances |
@@ -4072,7 +4072,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3148.5859375 KB |
+| json_size | 3149.1416015625 KB |
 | steps | 1506 |
 
 | Builtin | Instances |
@@ -4094,7 +4094,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1988.99609375 KB |
+| json_size | 1989.3330078125 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -4112,7 +4112,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1804.57421875 KB |
+| json_size | 1804.78125 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -4131,7 +4131,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2654.65625 KB |
+| json_size | 2655.005859375 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -4150,7 +4150,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2298.0732421875 KB |
+| json_size | 2298.2646484375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -4165,7 +4165,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 3921.1640625 KB |
+| json_size | 3921.7080078125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4184,7 +4184,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1166.857421875 KB |
+| json_size | 1166.9736328125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4198,7 +4198,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1244.7548828125 KB |
+| json_size | 1244.9736328125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4215,7 +4215,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1626.86328125 KB |
+| json_size | 1627.1279296875 KB |
 | steps | 62 |
 
 | Builtin | Instances |
@@ -4229,7 +4229,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1120.9326171875 KB |
+| json_size | 1121.130859375 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4243,7 +4243,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1950.525390625 KB |
+| json_size | 1950.7880859375 KB |
 | steps | 134 |
 
 | Builtin | Instances |
@@ -4262,7 +4262,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 750.0224609375 KB |
+| json_size | 750.2587890625 KB |
 | steps | 179 |
 
 | Builtin | Instances |
@@ -4280,7 +4280,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1003.599609375 KB |
+| json_size | 1003.78515625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -4296,7 +4296,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1189.4619140625 KB |
+| json_size | 1189.650390625 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -4312,7 +4312,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 888.791015625 KB |
+| json_size | 889.0205078125 KB |
 | steps | 40 |
 
 | Builtin | Instances |
@@ -4329,7 +4329,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2185.587890625 KB |
+| json_size | 2186.1279296875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4349,7 +4349,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1837.91015625 KB |
+| json_size | 1838.1298828125 KB |
 | steps | 61 |
 
 | Builtin | Instances |
@@ -4364,7 +4364,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 497.8369140625 KB |
+| json_size | 497.9345703125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4380,7 +4380,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 508.0888671875 KB |
+| json_size | 508.173828125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4394,7 +4394,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 414.91796875 KB |
+| json_size | 414.9853515625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4409,7 +4409,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1135.1982421875 KB |
+| json_size | 1135.3310546875 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4424,7 +4424,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 446.5732421875 KB |
+| json_size | 446.7021484375 KB |
 | steps | 39 |
 
 | Builtin | Instances |
@@ -4440,7 +4440,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 454.4482421875 KB |
+| json_size | 454.583984375 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4457,7 +4457,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 516.423828125 KB |
+| json_size | 516.568359375 KB |
 | steps | 299 |
 
 | Builtin | Instances |
@@ -4474,7 +4474,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 491.826171875 KB |
+| json_size | 491.876953125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4488,7 +4488,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1006.4462890625 KB |
+| json_size | 1006.94140625 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -4507,7 +4507,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1014.76953125 KB |
+| json_size | 1015.2587890625 KB |
 | steps | 171 |
 
 | Builtin | Instances |
@@ -4525,7 +4525,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1262.783203125 KB |
+| json_size | 1263.1796875 KB |
 | steps | 171 |
 
 | Builtin | Instances |
@@ -4543,7 +4543,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 622.8427734375 KB |
+| json_size | 622.923828125 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4557,7 +4557,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 400.7900390625 KB |
+| json_size | 400.84765625 KB |
 | steps | 17 |
 
 | Builtin | Instances |
@@ -4572,7 +4572,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1457.3505859375 KB |
+| json_size | 1457.513671875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -4586,7 +4586,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 2439.517578125 KB |
+| json_size | 2440.4921875 KB |
 | steps | 2463 |
 
 | Builtin | Instances |
@@ -4604,7 +4604,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1766.859375 KB |
+| json_size | 1767.4990234375 KB |
 | steps | 262 |
 
 | Builtin | Instances |
@@ -4623,7 +4623,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 5952.7109375 KB |
+| json_size | 5954.40234375 KB |
 | steps | 8668 |
 
 | Builtin | Instances |
@@ -4647,7 +4647,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 7189.251953125 KB |
+| json_size | 7189.2490234375 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -4657,7 +4657,7 @@ commit: b859c36bff347a88a953d3fe80e2a54c7b54954b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6368.99609375 KB |
+| json_size | 6371.517578125 KB |
 | steps | 153 |
 
 | Builtin | Instances |
