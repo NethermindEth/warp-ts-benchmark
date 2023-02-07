@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: a158b06d2ddb6a1e647894b3e21c43462c0ceb0b
+commit: 9819bc7d31cfc4c9d7aecc1d23222832d9426164
 
 ## WARP.json:
 
@@ -4672,7 +4672,7 @@ commit: a158b06d2ddb6a1e647894b3e21c43462c0ceb0b
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 6371.517578125 KB |
+| json_size | 6371.509765625 KB |
 | steps | 153 |
 
 | Builtin | Instances |
