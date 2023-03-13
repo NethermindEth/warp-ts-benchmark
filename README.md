@@ -1,6 +1,6 @@
 # Warp-ts status
 
-commit: cb8d119bee1a00eb175e0f2cbdc9934f86de3661
+commit: c7b7f9aab7cb912135a47b709216601053059963
 
 ## WARP.json:
 
@@ -422,7 +422,7 @@ commit: cb8d119bee1a00eb175e0f2cbdc9934f86de3661
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1186.208984375 KB |
+| json_size | 1186.20703125 KB |
 | steps | 1298 |
 
 | Builtin | Instances |
@@ -439,7 +439,7 @@ commit: cb8d119bee1a00eb175e0f2cbdc9934f86de3661
 
 | Metric | Value |
 | ----------- | ----------- |
-| json_size | 1432.94921875 KB |
+| json_size | 1432.9482421875 KB |
 | steps | 18 |
 
 | Builtin | Instances |
@@ -2188,6 +2188,21 @@ commit: cb8d119bee1a00eb175e0f2cbdc9934f86de3661
 | shiftRight_02db70d0 | 24 |
 | subtract_6deebae3 | 24 |
 | toInteger_8968338f | 24 |
+
+## WARP.json:
+
+| Metric | Value |
+| ----------- | ----------- |
+| json_size | 468.6884765625 KB |
+| steps | 17 |
+
+| Builtin | Instances |
+| ----------- | ----------- |
+
+| Function | Steps |
+| ----------- | ----------- |
+| false_and_ff172e47 | 28 |
+| true_or_6bf059ad | 28 |
 
 ## WARP.json:
 
